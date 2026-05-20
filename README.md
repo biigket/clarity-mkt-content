@@ -13,8 +13,6 @@
 - [Content Pillars](./PILLARS.md) — 4 pillars + 31 clips
 - [Calendar](./CALENDAR.md) — Schedule + Month 1 day-by-day
 - [Playbook](./PLAYBOOK.md) — Production workflow *(to be created)*
-- [Budget](./BUDGET.md) — งบ 100k/เดือน *(to be created)*
-- [KPIs](./KPI.md) — Metrics ที่ track *(to be created)*
 - [Decisions](./DECISIONS.md) — ADR + pending decisions
 
 ---

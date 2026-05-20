@@ -343,7 +343,6 @@ DSK Clinic ใช้ @dsk.acnescar เป็น sub-brand แยก สำเร
 |---|---|---|---|---|
 | P-01 | Posting database: Notion vs Airtable vs Metricool | Marketing | 2026-06 W2 | ดู schema ใน CALENDAR.md |
 | P-02 | Content creator: in-house vs freelance vs agency | หมอ Big | 2026-06 W1 | งบ 15-20k/เดือน part-time |
-| P-03 | Spark Ads budget % ของ 100k/เดือน | Marketing | 2026-06 W1 | รอ BUDGET.md |
 | P-04 | Inner Circle 100 — benefit structure | หมอ Big | 2026-06 W4 | Launch Month 1 W4 |
 | P-05 | B2B HR pilot — เลือก 5 ตึกไหน | Marketing | 2026-07 W1 | CP Tower confirmed เป็นตึกแรก |
 | P-06 | Newsletter platform (LINE OA enough หรือต้องเสริม email) | Marketing | 2026-06 W3 | |
@@ -360,5 +359,3 @@ DSK Clinic ใช้ @dsk.acnescar เป็น sub-brand แยก สำเร
 - Audience ที่ targeting จาก decisions → `AUDIENCE.md`
 - Pillars ที่ implement decisions → `PILLARS.md`
 - Calendar ที่ execute decisions → `CALENDAR.md`
-- Budget allocation → `BUDGET.md` *(to be created)*
-- KPI ที่วัด decision outcome → `KPI.md` *(to be created)*
