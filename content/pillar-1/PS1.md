@@ -10,7 +10,7 @@
 
 **On-cam หมอ Big · close-up · มือชี้ไปจอ Trica3D:**
 
-> "ครั้งแรกที่คนไข้มา เราไม่รีบทำอะไร เราวาดแผนก่อน"
+> "ครั้งแรกที่คนไข้มา เราไม่รีบทำอะไร เราวางแผนการรักษาแบบละเอียดก่อน"
 
 **Visual:** หน้าจอ Trica3D ขึ้น 3D map ผิว — หลุมเรืองสีตามความลึก
 **On-screen text:** "Day 1 — ก่อนแตะเข็มแม้แต่อันเดียว"
@@ -31,16 +31,14 @@
 ### Beat 2 — Walk through scan (15-40s)
 
 **Voice-over หมอ Big + screen recording Trica3D:**
-> "ดูตรงนี้นะครับ
-> สีแดง = ลึก 0.8 mm — ต้อง subcision
-> สีส้ม = rolling scar — RF microneedling ตอบโจทย์
-> สีเหลือง = boxcar ตื้น — pico พอ
->
-> คนไข้คนนี้ — 3 แบบในหน้าเดียวกัน
-> เพราะงั้นเรา mix treatment ไม่ใช่ทำเหมือนกันทั้งหน้า"
+> "ดูตรงนี้นะครับ พอ scan เป็น 3 มิติ เราเห็นรูปร่างหลุมชัดกว่าตาเปล่ามาก
+> ตรงนี้เป็น rolling scar
+> ตรงนี้เป็น boxcar
+> คนละแบบกัน ใช้ treatment คนละตัว
+> เพราะงั้นเรา mix treatment ตามเคส ไม่ใช่ทำเหมือนกันทั้งหน้า"
 
-**Visual:** จอ Trica3D แสดง 3D heatmap + zoom ตามที่หมอชี้
-**On-screen text:** "Subcision · RF Microneedling · Pico — มิกซ์ตามเคส"
+**Visual:** จอ Trica3D แสดง 3D heatmap + zoom ตามที่หมอชี้แต่ละจุด
+**On-screen text:** "Rolling · Boxcar · Ice pick — มิกซ์ตามเคส"
 
 ### Beat 3 — Philosophy (40-55s)
 
@@ -65,7 +63,7 @@
 
 - "Day 1 — ก่อนแตะเข็มแม้แต่อันเดียว" (0-3s)
 - "60% ของหลุม — อยู่ใต้ผิว" (10s)
-- "Subcision · RF Microneedling · Pico" (25s)
+- "หลุมคนละแบบ — treatment คนละตัว" (25s)
 - "Scan ฟรี · 30 นาที · ไม่มีค่าใช้จ่ายซ่อน" (55s)
 
 ---

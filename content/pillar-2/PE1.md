@@ -25,8 +25,8 @@
 **หมอ Big to camera, lean forward:**
 > "30% ของผม คือ:
 > 1. ทำลายพังผืดใต้หลุม — ด้วย subcision
-> 2. กระตุ้นคอลลาเจนใหม่ — ด้วย RF microneedling หรือ pico
-> 3. แต่งผิวบน — ด้วย laser
+> 2. กระตุ้นคอลลาเจนใหม่ — ด้วย RF microneedling
+> 3. แต่งผิวบน — ด้วย ablative laser
 >
 > นั่นคือทั้งหมดที่ผมทำได้ครับ"
 
@@ -37,13 +37,13 @@
 
 **หมอ Big, slight pause, more serious:**
 > "70% ที่เหลือ — คุณทำเอง
-> และเป็นส่วนที่ตัดสินว่า ผลจะ 60% หรือ 80%
+> และเป็นส่วนที่ตัดสินผลการรักษาของคุณ
 >
 > 70% ของคุณ คือ:
-> 1. โปรตีน 1.2-1.5 g ต่อ kg น้ำหนัก — collagen สร้างจากโปรตีน
-> 2. วิตามินซี 500-1000 mg/วัน — cofactor ของ collagen synthesis
-> 3. กันแดด SPF 50 ทุก 2 ชม. — UV ทำลาย collagen ที่หมอกระตุ้น
-> 4. นอน 7+ ชม. — repair ทำตอนหลับ"
+> 1. โปรตีนต้องถึง 100 กรัมต่อวัน — เพราะคอลลาเจนสร้างจากโปรตีน
+> 2. วิตามินซี 1000 mg ต่อวัน — เป็น cofactor ของการสร้างคอลลาเจน
+> 3. กันแดด SPF 50 — เพราะ UV ทำลายคอลลาเจนที่หมอกระตุ้น
+> 4. นอน 8 ชม. ขึ้นไป — เพราะการ repair เกิดตอนหลับ"
 
 **Visual:** Avatar inserts สลับกับ real face — 4 icons (โปรตีน, vit C, กันแดด, นอน)
 **On-screen text (sticky):** "70% = สิ่งที่ทำที่บ้าน"
@@ -51,7 +51,7 @@
 ### Beat 3 — Math ของการลงทุน (55-75s)
 
 **หมอ Big to camera, direct:**
-> "พูดเป็น math นะครับ
+> "พูดเป็นตัวเลขนะครับ
 > ถ้าคุณจ่าย 30,000 ทำหลุมสิว
 > แต่ไม่ทากันแดด ไม่กินโปรตีน
 > = คุณเผา 30,000 ทิ้ง
@@ -66,12 +66,13 @@
 ## CTA (75-90s)
 
 **หมอ Big, soft tone:**
-> "ตามไว้นะครับ — อีก 2 อาทิตย์ ผมจะลงเรื่อง skincare หลังทำ subcision
-> เป็น 70% ที่สำคัญที่สุด"
+> "save คลิปนี้ไว้เลยครับ
+> ก่อนตัดสินใจจ่ายค่ารักษาหลุมสิวที่ไหนก็ตาม
+> เปิดดู 4 ข้อนี้ก่อนทุกครั้ง"
 
-**On-screen:** "ตามไว้ · ปรึกษาฟรี LINE @clarityclinic"
+**On-screen:** "Save · 4 ข้อนี้ดูก่อนตัดสินใจ"
 
-**Pinned comment:** "70% ทำที่บ้าน — เริ่มจาก save clip นี้ไว้ดูซ้ำ"
+**Pinned comment:** "70% ทำที่บ้าน — Save clip นี้ไว้ดูซ้ำก่อนจ่ายเงิน"
 
 ---
 
@@ -81,7 +82,7 @@
 - "1. ตัดพังผืด · 2. กระตุ้นคอลลาเจน · 3. แต่งผิวบน" (15s)
 - "70% = สิ่งที่ทำที่บ้าน" (sticky 30-60s)
 - "เผา 30,000 ทิ้ง" (60s · red emphasis)
-- "ตามไว้ Wellness Tips" (80s)
+- "Save · 4 ข้อนี้ดูก่อนตัดสินใจ" (80s)
 
 ---
 
@@ -126,7 +127,7 @@
 
 ## Approval Gates
 
-1. **Script approved** — หมอ Big sign-off · double-check ตัวเลข (โปรตีน 1.2-1.5 g/kg · vit C 500-1000 mg)
+1. **Script approved** — หมอ Big sign-off · double-check ตัวเลข (โปรตีน 100g/วัน · vit C 1000 mg · นอน 8 ชม.)
 2. **Recorded approved** — หมอ Big review takes · เลือก best take
 3. **Edit approved** — หมอ Big + Marketing
 4. **สบส. compliance** — เพราะมี medical/nutritional advice
@@ -170,6 +171,6 @@ Signature clip — KPI สูงกว่า average:
 - **Signature status:** clip นี้ define brand voice — ทุกคลิปต่อจากนี้ใช้ "30/70" เป็น mental reference
 - ห้ามใช้คำว่า "หายขาด" / "100%" / "การันตี" — แม้พูดถึง 70% self-care
 - ห้าม recommend specific brand ของ vitamin/sunscreen — generic only (สบส. + ไม่ดู endorsed)
-- ตัวเลข nutrition (1.2-1.5 g/kg protein · 500-1000 mg vit C) ต้อง verify กับ medical reference ก่อน record
+- ตัวเลข nutrition (โปรตีน 100g/วัน · vit C 1000 mg · นอน 8 ชม.) — หมอ Big approved · sanity-check กับ medical reference ก่อน record
 - หมอ Big tone: warm + direct · ไม่ preach · เหมือนคุยกับเพื่อนสนิทที่ care
 - ถ้า top performer (>50k views ใน 7 วัน) → boost Spark Ads + ทำเป็น series Wellness Tips (PE2, PE3, PE4)
