@@ -197,4 +197,4 @@
 
 - Audience ที่ brand นี้พูดถึง → `AUDIENCE.md`
 - Content ที่สื่อ brand นี้ → `PILLARS.md`
-- Decisions ที่ shape brand นี้ → `DECISIONS.md` *(to be created)*
+- Decisions ที่ shape brand นี้ → `DECISIONS.md`

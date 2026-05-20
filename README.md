@@ -15,7 +15,7 @@
 - [Playbook](./PLAYBOOK.md) — Production workflow *(to be created)*
 - [Budget](./BUDGET.md) — งบ 100k/เดือน *(to be created)*
 - [KPIs](./KPI.md) — Metrics ที่ track *(to be created)*
-- [Decisions](./DECISIONS.md) — ADR + pending decisions *(to be created)*
+- [Decisions](./DECISIONS.md) — ADR + pending decisions
 
 ---
 

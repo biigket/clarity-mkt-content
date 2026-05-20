@@ -215,5 +215,5 @@ Social proof จากลูกค้าจริง — Before/After + journey 
 
 - Schedule + day-by-day → `CALENDAR.md`
 - Detail brief แต่ละ clip → `content/pillar-X/`
-- Decisions ที่ shape pillars → `DECISIONS.md` *(to be created)*
+- Decisions ที่ shape pillars → `DECISIONS.md`
 - Patient consent template → `assets/templates/patient-consent.md` *(to be created)*
