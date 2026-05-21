@@ -1,0 +1,2310 @@
+{
+  "project": "Clarity Clinic · Month 1 Video Briefs",
+  "version": "1.0",
+  "total_clips": 20,
+  "total_scenes": 280,
+  "common_specs": {
+    "format": "9:16 vertical",
+    "voice_speed": 1.3,
+    "avatar": "BiiGKeT HeyGen Avatar IV, transparent background",
+    "caption_style": "Thai one-line captions, split by spoken phrase",
+    "tone": "realistic drama, medical trust, concise, no hype"
+  },
+  "common_visual_rules": [
+    "ไม่เห็นหน้าหมอและคนไข้ใน B-roll",
+    "realistic clinic drama",
+    "ใช้ B-roll เล่าเรื่องเยอะ",
+    "Scene ละประมาณ 4-6 วินาที",
+    "ถ้าใช้ avatar full body/large ให้ B-roll สำคัญอยู่ครึ่งบนของจอ"
+  ],
+  "clips": [
+    {
+      "id": "PS1",
+      "title": "Trica3D scan ครั้งแรก",
+      "week": 1,
+      "day": "จ.",
+      "time": "17:00",
+      "pillar": 1,
+      "format": "Real",
+      "length": "~60s",
+      "cta": "นัด scan ฟรี 30 นาที ทาง LINE แอด at clarityclinic",
+      "tts_script": "ครั้งแรกที่คนไข้มา เราไม่รีบทำอะไร เราวางแผนการรักษาแบบละเอียดก่อน\n\nหลุมสิวที่ตาเห็น เห็นแค่ 40% ครับ อีก 60% อยู่ใต้ผิว รูปร่าง ความลึก พังผืด ถ้าหมอเดา คนไข้เสียเงินเปล่า\n\nดูตรงนี้นะครับ พอ scan เป็น 3 มิติ เราเห็นรูปร่างหลุมชัดกว่าตาเปล่ามาก ตรงนี้เป็น rolling scar ตรงนี้เป็น boxcar คนละแบบกัน ใช้ treatment คนละตัว เพราะงั้นเรา mix treatment ตามเคส ไม่ใช่ทำเหมือนกันทั้งหน้า\n\nผมไม่อยากเดา เพราะคนไข้จ่ายเงินจริง รอจริง เจ็บจริง Scan ก่อน แล้วค่อยวางแผน นั่นคือเหตุผลที่ทุกคนที่มา Clarity ต้อง scan ฟรีก่อน\n\nนัด scan ฟรี 30 นาที ทาง LINE แอด at clarityclinic",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "ครั้งแรกที่คนไข้มา เราไม่รีบทำอะไร เราวางแผนการรักษาแบบละเอียดก่อน",
+          "prompt": "คนไข้นั่งในเก้าอี้ consult หน้าโต๊ะหมอ ถ่ายจากด้านหลังเฉียง ไม่เห็นหน้า · บรรยากาศห้องคลินิก warm tone · cinematic realistic · soft natural light",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "4s",
+          "avatar_position": "pip",
+          "phrase": "หลุมสิวที่ตาเห็น เห็นแค่ 40% ครับ",
+          "prompt": "macro close-up texture ผิวแก้ม · side light 45° · เห็นเงาหลุมตื้น · ไม่เห็นใบหน้าทั้งหน้า · medical realistic"
+        },
+        {
+          "scene": 3,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "อีก 60% อยู่ใต้ผิว รูปร่าง ความลึก พังผืด",
+          "prompt": "animated 3D cross-section ผิวมนุษย์ · เห็นชั้น dermis และ fibrosis · clean medical animation · cool palette"
+        },
+        {
+          "scene": 4,
+          "duration": "4s",
+          "avatar_position": "pip",
+          "phrase": "ถ้าหมอเดา คนไข้เสียเงินเปล่า",
+          "prompt": "มือหมอถือไฟฉาย signature ส่องผิวคนไข้ · ไม่เห็นหน้าทั้งสองคน · soft medical drama · warm tone"
+        },
+        {
+          "scene": 5,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ดูตรงนี้นะครับ พอ scan เป็น 3 มิติ เราเห็นรูปร่างหลุมชัดกว่าตาเปล่ามาก",
+          "prompt": "หน้าจอ Trica3D แสดง 3D mesh ผิวหน้า · slow rotation · UI dark mode · LED reflection สวย · ไม่เห็นหน้าคนไข้"
+        },
+        {
+          "scene": 6,
+          "duration": "4s",
+          "avatar_position": "pip",
+          "phrase": "ตรงนี้เป็น rolling scar ตรงนี้เป็น boxcar",
+          "prompt": "zoom เข้าจอ Trica3D · มือหมอชี้ใช้ stylus · highlight 2 scar shapes ด้วย overlay สีต่างกัน · soft glow"
+        },
+        {
+          "scene": 7,
+          "duration": "4s",
+          "avatar_position": "pip",
+          "phrase": "คนละแบบกัน ใช้ treatment คนละตัว",
+          "prompt": "split screen เครื่องมือ 2 ตัว · subcision needle (close-up) vs RF microneedling tip · clinical premium · ไม่มีคน"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เพราะงั้นเรา mix treatment ตามเคส ไม่ใช่ทำเหมือนกันทั้งหน้า",
+          "prompt": "มือหมอเขียน treatment plan ลงบน tablet · กราฟ + checkmark · ไม่เห็นหน้า · warm desk lamp light"
+        },
+        {
+          "scene": 9,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผมไม่อยากเดา เพราะคนไข้จ่ายเงินจริง รอจริง เจ็บจริง",
+          "prompt": "ลำดับ B-roll: แบงค์ค่อยๆ วาง · เข็มนาฬิกาเดิน · เข็มเล็กๆ ใกล้ผิว · serious drama · realistic"
+        },
+        {
+          "scene": 10,
+          "duration": "4s",
+          "avatar_position": "pip",
+          "phrase": "Scan ก่อน แล้วค่อยวางแผน",
+          "prompt": "animated steps icons: Scan → Plan → Treatment · clean medical UI · dark navy + sage accent"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "นั่นคือเหตุผลที่ทุกคนที่มา Clarity ต้อง scan ฟรีก่อน",
+          "prompt": "ป้าย Clarity Clinic ที่ทางเข้า · warm welcoming light · ไม่มีคนในเฟรม · premium medical mood",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 12,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "นัด scan ฟรี 30 นาที ทาง LINE แอด at clarityclinic",
+          "prompt": "หน้าจอมือถือ LINE OA \"clarityclinic\" · QR code · chat interface · CTA card overlay sage+coral",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "AM1",
+      "title": "ทำไมหมอ Big ไม่ใช้คำว่า หลุมสิวหายขาด",
+      "week": 1,
+      "day": "อ.",
+      "time": "16:00",
+      "pillar": 3,
+      "format": "Avatar",
+      "length": "~70s",
+      "cta": "ใครเคยเจอคลินิกบอก หายขาด บ้าง คอมเม้นต์มาเลย",
+      "tts_script": "ในวงการนี้ ถ้าใครพูด หลุมสิวหายขาด เลิกฟัง\n\nหลุมสิวเกิดจากคอลลาเจนใต้ผิวถูกทำลาย เราเข้าไปกระตุ้นได้ ตัดพังผืดได้ แต่ที่ทำลายไปแล้ว ร่างกายสร้างกลับมาไม่เหมือนเดิม 100% ใครพูด หายขาด เท่ากับไม่เข้าใจ หรือ ไม่อยากให้คุณเข้าใจ\n\nหมอ Big คุยกับคนไข้ทุกคนเรื่อง ความมั่นใจ ปกติหลุมสิวจะเห็นมาแต่ไกล หรือมีคนทักเวลาคุยกัน เป้าหมายของหมอ คือทำให้คุณมั่นใจ ไม่มีคนทักในระยะคุยกัน แต่ถ้าส่องกระจกเองใกล้ๆ อาจจะยังเห็นได้ครับ ไม่ใช่ผิวเรียบเหมือนใหม่\n\nส่วนใหญ่หลุมสิวที่ดีขึ้นก่อนคือ rolling ส่วน boxcar กับ ice pick ค่อนข้างใช้เวลา ขึ้นกับอายุของแผล ถ้าเพิ่งเป็นใหม่ ตอบสนองดีกว่าเก่าที่อยู่มานาน ขึ้นกับการฮีลลิ่งของแต่ละคน และที่สำคัญสุด 70 เปอร์เซ็น ที่คนไข้ดูแลตัวเองหลังทำ\n\nเคสที่ตอบสนองดี คือคนไข้วัยรุ่น มีหลุมสิวไม่เกิน 2 ถึง 3 ปี ผิวยังสร้างคอลลาเจนได้ดี ฮีลลิ่งเร็ว ส่วนคนมีอายุ และหลุมสิวเป็นมาหลายปี รักษายากกว่า ต้องใช้เวลามากกว่า และผลที่ได้อาจจะไม่เท่าคนวัยรุ่น\n\nแต่หมอจะไม่โกหกคุณว่าหาย 100 เปอร์เซ็น\n\nใครเคยเจอคลินิกบอก หายขาด บ้าง คอมเม้นต์มาเลย",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "4s",
+          "avatar_position": "full_body",
+          "phrase": "ในวงการนี้ ถ้าใครพูด หลุมสิวหายขาด เลิกฟัง",
+          "prompt": "animated text cards เรียงสี่ใบ: \"หายขาด · การันตี · 100% · อันดับ 1\" · strike-through สีแดงทีละใบ · serious tone",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "หลุมสิวเกิดจากคอลลาเจนใต้ผิวถูกทำลาย เราเข้าไปกระตุ้นได้ ตัดพังผืดได้",
+          "prompt": "animated cross-section ผิว · เห็น collagen fibers ถูกทำลายเป็นหลุม · needle เข้าไปตัด fibrosis · clean medical animation"
+        },
+        {
+          "scene": 3,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "แต่ที่ทำลายไปแล้ว ร่างกายสร้างกลับมาไม่เหมือนเดิม 100%",
+          "prompt": "animated collagen regeneration · new fibers grow back partial · empty spot remains · subtle gap visualization"
+        },
+        {
+          "scene": 4,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ใครพูด หายขาด เท่ากับไม่เข้าใจ หรือ ไม่อยากให้คุณเข้าใจ",
+          "prompt": "question mark on speaker silhouette · vs honest doctor icon with checkmark · contrast comparison"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "หมอ Big คุยกับคนไข้ทุกคนเรื่อง ความมั่นใจ",
+          "prompt": "คนไข้ silhouette นั่งคุยกับหมอ · ไม่เห็นหน้าทั้งสอง · มือชี้กระดาษบนโต๊ะ · warm clinical mood"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ปกติหลุมสิวจะเห็นมาแต่ไกล หรือมีคนทักเวลาคุยกัน",
+          "prompt": "2 silhouettes คุยกัน · ระยะ 1 เมตร · มี zoom callout บนแก้มเห็นเงาหลุมจาง · cinematic"
+        },
+        {
+          "scene": 7,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เป้าหมายของหมอ คือทำให้คุณมั่นใจ ไม่มีคนทักในระยะคุยกัน",
+          "prompt": "split screen — ระยะคุย (no marks visible) vs ระยะกระจกใกล้ (faint marks) · subtle comparison"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "แต่ถ้าส่องกระจกเองใกล้ๆ อาจจะยังเห็นได้ครับ ไม่ใช่ผิวเรียบเหมือนใหม่",
+          "prompt": "มือถือกระจกใกล้ผิว · เงาหลุมจางๆ ปรากฏ · honest realistic · soft light"
+        },
+        {
+          "scene": 9,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ส่วนใหญ่หลุมสิวที่ดีขึ้นก่อนคือ rolling ส่วน boxcar กับ ice pick ค่อนข้างใช้เวลา",
+          "prompt": "3 scar type icons (rolling/boxcar/ice pick) · 3 timelines bar progressing different speeds"
+        },
+        {
+          "scene": 10,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ขึ้นกับอายุของแผล ถ้าเพิ่งเป็นใหม่ ตอบสนองดีกว่าเก่าที่อยู่มานาน",
+          "prompt": "2 calendar pages — fresh scar (1 yr) vs old scar (10 yr) · arrow showing response rate"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ขึ้นกับการฮีลลิ่งของแต่ละคน และที่สำคัญสุด 70 เปอร์เซ็น ที่คนไข้ดูแลตัวเองหลังทำ",
+          "prompt": "4 self-care icons (โปรตีน · vit C · SPF · นอน) · \"70%\" stamp prominent"
+        },
+        {
+          "scene": 12,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "เคสที่ตอบสนองดี คือคนไข้วัยรุ่น มีหลุมสิวไม่เกิน 2 ถึง 3 ปี ผิวยังสร้างคอลลาเจนได้ดี ฮีลลิ่งเร็ว",
+          "prompt": "timeline 2-3 ปี · animated young skin regeneration fast · positive trend graph"
+        },
+        {
+          "scene": 13,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ส่วนคนมีอายุ และหลุมสิวเป็นมาหลายปี รักษายากกว่า ต้องใช้เวลามากกว่า",
+          "prompt": "timeline 10+ ปี · slower regeneration animation · honest contrast"
+        },
+        {
+          "scene": 14,
+          "duration": "4s",
+          "avatar_position": "full_body",
+          "phrase": "แต่หมอจะไม่โกหกคุณว่าหาย 100 เปอร์เซ็น",
+          "prompt": "\"100%\" stamp with strike-through · honest stamp overlay · trust mood",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 15,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "ใครเคยเจอคลินิกบอก หายขาด บ้าง คอมเม้นต์มาเลย",
+          "prompt": "comment bubbles popping up · \"เคยเจอ!\" callouts · social engagement CTA mood",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "PE1",
+      "title": "หมอ 30% — คนไข้ 70% (signature)",
+      "week": 1,
+      "day": "พ.",
+      "time": "17:00",
+      "pillar": 2,
+      "format": "Real",
+      "length": "~80s",
+      "cta": "save คลิปนี้ไว้เลยครับ ก่อนตัดสินใจจ่ายค่ารักษาหลุมสิวที่ไหนก็ตาม",
+      "tts_script": "ผมบอกคนไข้ทุกคนว่า ผมทำได้แค่ 30 เปอร์เซ็น\n\n30 เปอร์เซ็น ของผม คือ หนึ่ง ทำลายพังผืดใต้หลุมด้วย subcision สอง กระตุ้นคอลลาเจนใหม่ด้วย RF microneedling และ สาม แต่งผิวบนด้วย ablative laser นั่นคือทั้งหมดที่ผมทำได้ครับ\n\n70 เปอร์เซ็น ที่เหลือ คุณทำเอง และเป็นส่วนที่ตัดสินผลการรักษาของคุณ 70 เปอร์เซ็น ของคุณคือ หนึ่ง โปรตีนต้องถึง 100 กรัมต่อวัน เพราะคอลลาเจนสร้างจากโปรตีน สอง วิตามินซี 1000 มิลลิกรัม ต่อวัน เป็น cofactor ของการสร้างคอลลาเจน สาม กันแดด SPF 50 เพราะ UV ทำลายคอลลาเจนที่หมอกระตุ้น สี่ นอน 8 ชั่วโมงขึ้นไป เพราะการ repair เกิดตอนหลับ\n\nพูดเป็นตัวเลขนะครับ ถ้าคุณจ่าย 30,000 ทำหลุมสิว แต่ไม่ทากันแดด ไม่กินโปรตีน เท่ากับคุณเผา 30,000 ทิ้ง ผมไม่ได้ขู่ ผมเห็นทุกเดือนครับ คนไข้ที่ทำเอง 70 เปอร์เซ็น ดี ผลดีกว่าคนที่จ่ายเงินสองเท่า\n\nsave คลิปนี้ไว้เลยครับ ก่อนตัดสินใจจ่ายค่ารักษาหลุมสิวที่ไหนก็ตาม เปิดดู 4 ข้อนี้ก่อนทุกครั้ง",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "4s",
+          "avatar_position": "full_body",
+          "phrase": "ผมบอกคนไข้ทุกคนว่า ผมทำได้แค่ 30 เปอร์เซ็น",
+          "prompt": "\"30 / 70\" large white type บน sage background · slow zoom in · brand signature mood",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "30 เปอร์เซ็น ของผม คือ หนึ่ง ทำลายพังผืดใต้หลุมด้วย subcision",
+          "prompt": "subcision needle close-up · ใส่ใต้ผิว · animated cross-section ตัด fibrosis · clean medical"
+        },
+        {
+          "scene": 3,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "สอง กระตุ้นคอลลาเจนใหม่ด้วย RF microneedling",
+          "prompt": "RF microneedling device tip · needles + RF wave animation · macro · clinical premium"
+        },
+        {
+          "scene": 4,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "และ สาม แต่งผิวบนด้วย ablative laser นั่นคือทั้งหมดที่ผมทำได้ครับ",
+          "prompt": "ablative laser beam treatment surface · controlled pulse · clinical realistic"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "70 เปอร์เซ็น ที่เหลือ คุณทำเอง และเป็นส่วนที่ตัดสินผลการรักษาของคุณ",
+          "prompt": "\"70%\" large bold text sticky · arrow ไปที่ silhouette คนไข้ที่บ้าน · ไม่เห็นหน้า"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "70 เปอร์เซ็น ของคุณคือ หนึ่ง โปรตีนต้องถึง 100 กรัมต่อวัน เพราะคอลลาเจนสร้างจากโปรตีน",
+          "prompt": "จานอาหาร — ปลาแซลมอน ไข่ ไก่ ถั่ว · macro food photography · warm appetizing light"
+        },
+        {
+          "scene": 7,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "สอง วิตามินซี 1000 มิลลิกรัม ต่อวัน เป็น cofactor ของการสร้างคอลลาเจน",
+          "prompt": "ผลไม้วิตามินซี · ส้ม กีวี ฝรั่ง · split with vit C tablet · clean white background"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "สาม กันแดด SPF 50 เพราะ UV ทำลายคอลลาเจนที่หมอกระตุ้น",
+          "prompt": "SPF 50 bottle · sun ray icon crossed out · UV vs collagen animation · warm-cool contrast"
+        },
+        {
+          "scene": 9,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "สี่ นอน 8 ชั่วโมงขึ้นไป เพราะการ repair เกิดตอนหลับ",
+          "prompt": "เตียงนอน soft light · moon icon · clock 8 hr · serene mood"
+        },
+        {
+          "scene": 10,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "พูดเป็นตัวเลขนะครับ ถ้าคุณจ่าย 30,000 ทำหลุมสิว",
+          "prompt": "cash bundle \"30,000\" stack · close-up · serious medical math mood"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "แต่ไม่ทากันแดด ไม่กินโปรตีน เท่ากับคุณเผา 30,000 ทิ้ง",
+          "prompt": "cash bundle burning animation · flame + ashes · ไม่ดู extreme · realistic but dramatic"
+        },
+        {
+          "scene": 12,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผมไม่ได้ขู่ ผมเห็นทุกเดือนครับ",
+          "prompt": "calendar pages flipping · serious doctor desk · hands taking notes · ไม่เห็นหน้า"
+        },
+        {
+          "scene": 13,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "คนไข้ที่ทำเอง 70 เปอร์เซ็น ดี ผลดีกว่าคนที่จ่ายเงินสองเท่า",
+          "prompt": "scale balance — money หนัก vs self-care lighter but winning · honest contrast graphic"
+        },
+        {
+          "scene": 14,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "save คลิปนี้ไว้เลยครับ ก่อนตัดสินใจจ่ายค่ารักษาหลุมสิวที่ไหนก็ตาม",
+          "prompt": "\"Save\" icon animation · phone hand saving TikTok clip · friendly mood",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 15,
+          "duration": "4s",
+          "avatar_position": "full_body",
+          "phrase": "เปิดดู 4 ข้อนี้ก่อนทุกครั้ง",
+          "prompt": "4 self-care icons (โปรตีน · vit C · SPF · นอน) เรียง 2x2 · \"30/70 · 4 ข้อ\" stamp",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "PS2",
+      "title": "Before/After หลุมสิวลึก 4 session",
+      "week": 1,
+      "day": "พฤ.",
+      "time": "19:00",
+      "pillar": 1,
+      "format": "Real",
+      "length": "~65s",
+      "cta": "นัด scan ฟรี 30 นาที ทาง LINE แอด at clarityclinic",
+      "tts_script": "หลุมสิวลึก ดูซิ 4 ครั้งเปลี่ยนยังไง\n\nเคสนี้เป็นคนไข้ที่มาด้วยหลุมสิวลึก รอบแก้มสองข้าง เคยลองมาหลายที่ก่อนมา Clarity วันแรกที่มา เราทำ Trica3D scan ก่อนเสมอ\n\nPlan ของเคสนี้คือ subcision เพื่อตัดพังผืดใต้หลุม ต่อด้วย RF microneedling กระตุ้นคอลลาเจน ทำ 4 session ห่างกัน 6 ถึง 8 อาทิตย์ เพราะคอลลาเจนต้องการเวลา mature\n\nนี่คือก่อนทำ หลุมเห็นชัดเวลามีแสงข้าง นี่คือหลังทำครบ 4 session ตื้นขึ้น เรียบขึ้น ผิวกลับมารับแสงดีกว่าเดิม แต่ผมจะไม่บอกว่าหายขาด ที่เห็นคือ ดีขึ้นชัด\n\n[ Patient พูดเอง ]\nก่อนหน้านี้ไม่กล้าให้คนมองใกล้ๆ ตอนนี้ไม่ต้องคิดมากเรื่องผิวแล้ว เห็นชัดขึ้นตั้งแต่ session ที่ 2 แต่ที่ดีที่สุดคือหมอ Big บอกตามตรงตลอด ไม่ได้หลอกว่าหายขาด\n\nอยากให้หมอวางแผนให้แบบเคสนี้ นัด scan ฟรี 30 นาที ทาง LINE แอด at clarityclinic",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "หลุมสิวลึก ดูซิ 4 ครั้งเปลี่ยนยังไง",
+          "prompt": "split-screen \"Before · After 4 sessions\" · same angle macro side light · ไม่เห็นหน้าเต็มหน้า · cinematic reveal",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เคสนี้เป็นคนไข้ที่มาด้วยหลุมสิวลึก รอบแก้มสองข้าง",
+          "prompt": "macro Day 1 cheek side light · เห็นเงาหลุมลึกหลายจุด · clinical realistic · ไม่เห็นตา/ปาก"
+        },
+        {
+          "scene": 3,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เคยลองมาหลายที่ก่อนมา Clarity วันแรกที่มา เราทำ Trica3D scan ก่อนเสมอ",
+          "prompt": "หน้าจอ Trica3D scan ผิวหน้า · 3D mesh rotation · UI dark · มืออยู่บน mouse"
+        },
+        {
+          "scene": 4,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "Plan ของเคสนี้คือ subcision เพื่อตัดพังผืดใต้หลุม",
+          "prompt": "subcision needle close-up macro · เข้าใต้ผิว · cross-section animation · clinical"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ต่อด้วย RF microneedling กระตุ้นคอลลาเจน",
+          "prompt": "RF microneedling device tip · needles + electric wave animation · macro"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ทำ 4 session ห่างกัน 6 ถึง 8 อาทิตย์ เพราะคอลลาเจนต้องการเวลา mature",
+          "prompt": "animated calendar 4 dots spaced 6-8 wk apart · timeline overlay · collagen growth slow visualization"
+        },
+        {
+          "scene": 7,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "นี่คือก่อนทำ หลุมเห็นชัดเวลามีแสงข้าง",
+          "prompt": "macro before-photo cheek side light · เห็นเงาหลุมลึก · same crop ratio as next scene"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "นี่คือหลังทำครบ 4 session ตื้นขึ้น เรียบขึ้น ผิวกลับมารับแสงดีกว่าเดิม",
+          "prompt": "macro after-photo cheek same angle · ตื้นขึ้นชัด · subtle zoom comparison · honest realistic"
+        },
+        {
+          "scene": 9,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "แต่ผมจะไม่บอกว่าหายขาด ที่เห็นคือ ดีขึ้นชัด",
+          "prompt": "text overlay \"ดีขึ้นชัด · ไม่ใช่หายขาด\" · subtle remaining traces visible · honest framing"
+        },
+        {
+          "scene": 10,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ก่อนหน้านี้ไม่กล้าให้คนมองใกล้ๆ ตอนนี้ไม่ต้องคิดมากเรื่องผิวแล้ว",
+          "prompt": "B-roll patient voice — silhouette sitting at consult chair · soft natural light · audio focused"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เห็นชัดขึ้นตั้งแต่ session ที่ 2 แต่ที่ดีที่สุดคือหมอ Big บอกตามตรงตลอด",
+          "prompt": "calendar marker session 2 · checkmark · trust badge · ไม่เห็นหน้า"
+        },
+        {
+          "scene": 12,
+          "duration": "4s",
+          "avatar_position": "pip",
+          "phrase": "ไม่ได้หลอกว่าหายขาด",
+          "prompt": "\"Honest\" stamp overlay · doctor's hand on consult paper · soft warm tone"
+        },
+        {
+          "scene": 13,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "อยากให้หมอวางแผนให้แบบเคสนี้ นัด scan ฟรี 30 นาที ทาง LINE แอด at clarityclinic",
+          "prompt": "LINE OA QR + chat interface mockup · CTA card with \"Scan ฟรี 30 นาที\" · clean premium",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "TC3",
+      "title": "ทัวร์ห้อง treatment (laser room + postop)",
+      "week": 1,
+      "day": "อา.",
+      "time": "20:00",
+      "pillar": 4,
+      "format": "Real",
+      "length": "~65s",
+      "cta": "นัด consult ฟรี 30 นาที หรือ จองคิวพักเที่ยง ทาง LINE แอด at clarityclinic",
+      "tts_script": "พามาดูภายในห้อง treatment ของ Clarity\n\nห้องแรกที่ผมจะพาดู คือห้องเครื่องเลเซอร์ ที่นี่มี picolaser dermaV fotona doublo microneedle RF co2 erbium glass diode laser เยอะมากครับ เพราะหลุมสิวแต่ละคนตอบสนองไม่เหมือนกัน ต้องรักษาให้ครบทุกชั้นผิว\n\nผมเลือกเครื่องจากเทคโนโลยี ไม่ใช่จากความดังของเครื่อง และใช้มันให้ชำนาญ เพื่อดึงประสิทธิภาพออกมาได้เต็มที่ และผมตั้งราคาให้เข้าถึงได้ คนไข้จะได้มาทำต่อเนื่อง ทุก 1 ถึง 2 เดือน เพราะผิวต้องการความสม่ำเสมอ ไม่ใช่ความแรงครั้งเดียวแล้วรอเป็นปี\n\nอีกห้องที่ผมให้ความสำคัญ คือห้อง postop care สำหรับดูแลหลังทำ โดยเฉพาะอบแสง หรือถ้าคนไข้ว่าง ผมจะแนะนำให้เข้ามาอบแสง photodynamic therapy เพราะจะยิ่งช่วยกระตุ้นคอลลาเจนไปอีกขั้น\n\nอยากเดินเข้ามาดูเอง นัด consult ฟรี 30 นาที หรือ จองคิวพักเที่ยง ทาง LINE แอด at clarityclinic",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "4s",
+          "avatar_position": "full_body",
+          "phrase": "พามาดูภายในห้อง treatment ของ Clarity",
+          "prompt": "handheld POV เดินเข้าห้อง treatment · ประตูเปิด · warm light · ป้าย Clarity เห็นชัด",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ห้องแรกที่ผมจะพาดู คือห้องเครื่องเลเซอร์",
+          "prompt": "ห้องเลเซอร์ มุมกว้าง · เห็น 8 เครื่องเรียงเป็นแถว · warm clinical mood · ไม่มีคนในเฟรม"
+        },
+        {
+          "scene": 3,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ที่นี่มี picolaser dermaV fotona doublo",
+          "prompt": "macro close-up ของ 4 เครื่อง เร็ว — picolaser → dermaV → fotona → doublo · brand labels visible"
+        },
+        {
+          "scene": 4,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "microneedle RF co2 erbium glass diode laser เยอะมากครับ",
+          "prompt": "macro close-up ของ 4 เครื่อง เร็ว — RF microneedling → CO2 → erbium glass → diode laser · brand labels visible"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เพราะหลุมสิวแต่ละคนตอบสนองไม่เหมือนกัน ต้องรักษาให้ครบทุกชั้นผิว",
+          "prompt": "animated skin cross-section layers — epidermis · dermis · subcutaneous · highlight different depths"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผมเลือกเครื่องจากเทคโนโลยี ไม่ใช่จากความดังของเครื่อง",
+          "prompt": "doctor hand examining device specs paper · checklist + magnifying glass · ไม่เห็นหน้า"
+        },
+        {
+          "scene": 7,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "และใช้มันให้ชำนาญ เพื่อดึงประสิทธิภาพออกมาได้เต็มที่",
+          "prompt": "มือหมอปรับ device settings · close-up control panel · skilled hands at work"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "และผมตั้งราคาให้เข้าถึงได้ คนไข้จะได้มาทำต่อเนื่อง ทุก 1 ถึง 2 เดือน",
+          "prompt": "calendar dots spaced 1-2 month apart · price tag \"5,000\" subtle · clean UI"
+        },
+        {
+          "scene": 9,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เพราะผิวต้องการความสม่ำเสมอ ไม่ใช่ความแรงครั้งเดียวแล้วรอเป็นปี",
+          "prompt": "split — gentle continuous waves animation vs single shock wave · steady vs spike contrast"
+        },
+        {
+          "scene": 10,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "อีกห้องที่ผมให้ความสำคัญ คือห้อง postop care สำหรับดูแลหลังทำ",
+          "prompt": "POV เดินจากห้องเลเซอร์ → เข้าห้อง postop · เห็นเตียงพัก soft light + light therapy device"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "โดยเฉพาะอบแสง หรือถ้าคนไข้ว่าง ผมจะแนะนำให้เข้ามาอบแสง photodynamic therapy",
+          "prompt": "light therapy device เปิดทำงาน · LED panel illuminating empty treatment bed · warm glow"
+        },
+        {
+          "scene": 12,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เพราะจะยิ่งช่วยกระตุ้นคอลลาเจนไปอีกขั้น",
+          "prompt": "animated collagen fiber boost under LED · skin regeneration enhanced · clean medical animation"
+        },
+        {
+          "scene": 13,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "อยากเดินเข้ามาดูเอง นัด consult ฟรี 30 นาที หรือ จองคิวพักเที่ยง ทาง LINE แอด at clarityclinic",
+          "prompt": "LINE OA chat + Clarity location pin map · \"ราชเทวี · ใกล้ BTS\" stamp · CTA card",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "PS4",
+      "title": "เคสคนไข้ใจร้อน · รอ 6 อาทิตย์",
+      "week": 2,
+      "day": "จ.",
+      "time": "17:00",
+      "pillar": 1,
+      "format": "Real",
+      "length": "~70s",
+      "cta": "ปรึกษาฟรี 30 นาที ทาง LINE แอด at clarityclinic",
+      "tts_script": "คนไข้อยากทำอีกครั้ง ผมขอให้รอ 6 อาทิตย์ก่อน\n\nเคสนี้เป็นคนไข้ที่ทำ subcision กับ RF microneedling และ ablative laser ครั้งแรกกับผม 2 อาทิตย์ผ่านไป เธอกลับมาที่คลินิก บอกว่า ไม่เห็นผลเลย อยากทำใหม่อีกครั้งเลยได้ไหม\n\nผมบอกเธอว่า เธอยังเห็นไม่ครบครับ Subcision ตัดพังผืดเสร็จแล้ว แต่คอลลาเจนใหม่ยังไม่ขึ้นเต็มที่ ต้องรอให้คอลลาเจน mature ก่อน ใช้เวลา 6 ถึง 8 อาทิตย์ ถ้าทำซ้ำตอนนี้ คือเผาเงินทิ้งเฉยๆ ไม่ได้เพิ่มผลอะไร และเสี่ยงเกินจำเป็น\n\nผมเลยส่งคนไข้กลับบ้าน พร้อม plan ดูแลตัวเองอย่างเคร่งครัด โปรตีน วิตามินซี กันแดด นอน ครบ นัดอีกครั้ง 6 อาทิตย์ค่อยมาเช็คผล\n\n6 อาทิตย์ผ่านไป คนไข้กลับมา หลุมตื้นกว่าที่คนไข้คาดไว้ ตกใจตัวเอง และบอกผมว่า ดีนะที่ได้อดใจรอ ไม่งั้นคงได้เจ็บอีกรอบฟรีๆ\n\nหมอที่บอก รอ ไม่ใช่หมอที่ไม่อยากได้เงิน คือหมอที่อยากให้ผลลัพธ์ดี\n\nอยากให้หมอวางแผนให้ ปรึกษาฟรี 30 นาที ทาง LINE แอด at clarityclinic",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "คนไข้อยากทำอีกครั้ง ผมขอให้รอ 6 อาทิตย์ก่อน",
+          "prompt": "คนไข้ silhouette นั่งโต๊ะ consult · มือถือเอกสาร · doctor's hand making \"wait\" gesture · serious mood",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "เคสนี้เป็นคนไข้ที่ทำ subcision กับ RF microneedling และ ablative laser ครั้งแรกกับผม",
+          "prompt": "macro 3 device close-ups quick cut — subcision needle · RF tip · ablative laser beam · clinical premium"
+        },
+        {
+          "scene": 3,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "2 อาทิตย์ผ่านไป เธอกลับมาที่คลินิก",
+          "prompt": "calendar Day 14 · POV เดินเข้าคลินิกอีกครั้ง · reception · ไม่เห็นหน้า"
+        },
+        {
+          "scene": 4,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "บอกว่า ไม่เห็นผลเลย อยากทำใหม่อีกครั้งเลยได้ไหม",
+          "prompt": "มือกระจกถือใกล้ผิว · มือคนไข้ชี้แก้ม · ไม่เห็นใบหน้า · anxious mood"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผมบอกเธอว่า เธอยังเห็นไม่ครบครับ Subcision ตัดพังผืดเสร็จแล้ว",
+          "prompt": "animated cross-section · subcision needle cutting fibrosis · clean medical animation"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "แต่คอลลาเจนใหม่ยังไม่ขึ้นเต็มที่ ต้องรอให้คอลลาเจน mature ก่อน ใช้เวลา 6 ถึง 8 อาทิตย์",
+          "prompt": "time-lapse collagen fibers growing slowly · calendar week 1 → 8 · subtle progress"
+        },
+        {
+          "scene": 7,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ถ้าทำซ้ำตอนนี้ คือเผาเงินทิ้งเฉยๆ ไม่ได้เพิ่มผลอะไร และเสี่ยงเกินจำเป็น",
+          "prompt": "cash bundle igniting + warning icon · risk visualization · honest realistic"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผมเลยส่งคนไข้กลับบ้าน พร้อม plan ดูแลตัวเองอย่างเคร่งครัด",
+          "prompt": "hand-written treatment plan · checklist + skincare bottles on table · soft warm light"
+        },
+        {
+          "scene": 9,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "โปรตีน วิตามินซี กันแดด นอน ครบ นัดอีกครั้ง 6 อาทิตย์ค่อยมาเช็คผล",
+          "prompt": "4 icons (โปรตีน · vit C · SPF · นอน) · calendar with \"6 wk\" marker · clean UI"
+        },
+        {
+          "scene": 10,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "6 อาทิตย์ผ่านไป คนไข้กลับมา หลุมตื้นกว่าที่คนไข้คาดไว้ ตกใจตัวเอง",
+          "prompt": "calendar +6 wk · POV เดินเข้าคลินิก · mirror reflection ผิวดีขึ้น · ไม่เห็นหน้า · surprised mood"
+        },
+        {
+          "scene": 11,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "และบอกผมว่า ดีนะที่ได้อดใจรอ ไม่งั้นคงได้เจ็บอีกรอบฟรีๆ",
+          "prompt": "patient voice — silhouette ที่โต๊ะ consult · มืออธิบาย · ไม่เห็นหน้า · gratitude mood"
+        },
+        {
+          "scene": 12,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "หมอที่บอก รอ ไม่ใช่หมอที่ไม่อยากได้เงิน คือหมอที่อยากให้ผลลัพธ์ดี",
+          "prompt": "text overlay \"หมอที่บอก รอ = อยากให้คุณดี\" · doctor's hand on patient chart · trust mood",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 13,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "อยากให้หมอวางแผนให้ ปรึกษาฟรี 30 นาที ทาง LINE แอด at clarityclinic",
+          "prompt": "LINE OA chat mockup · \"ปรึกษาฟรี 30 นาที\" CTA card · clean premium",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "AM5",
+      "title": "เปิดราคา subcision 2,490",
+      "week": 2,
+      "day": "อ.",
+      "time": "16:00",
+      "pillar": 3,
+      "format": "Avatar",
+      "length": "~60s",
+      "cta": "ดูราคาทุกรายการ ที่ clarityclinic.co หรือ ปรึกษาฟรี 30 นาที ทาง LINE แอด at clarityclinic",
+      "tts_script": "ราคา 2,490 บนเว็บ ไม่มี surprise\n\nเห็นโฆษณาคลินิก ราคาเริ่มต้น 990 บาท ใช่ไหมครับ พอเข้าห้องตรวจจริง ราคาขึ้น 9,990 นั่นไม่ใช่ราคาเริ่มต้น นั่นคือกับดัก\n\nที่ Clarity ผมเปิดราคาทุกรายการบนเว็บ Subcision full face 2,490 Subcision per site 490 Pico-Scar 6,900 RF microneedling 9,900 Acne Scar Pass 4 ครั้ง 29,900 ไม่มีคำว่า เริ่มต้น ไม่มี surprise ในห้องตรวจ\n\nผมเปิดราคา เพราะอยากให้คุณตัดสินใจก่อนเข้ามา เห็นราคาแล้วไม่ไหว ก็ไม่ต้องเสียเวลาเดินทาง เห็นแล้ว ok ค่อยมา ไม่มี hard-sell ในห้องตรวจ\n\nดูราคาทุกรายการ ที่ clarityclinic.co หรือ ปรึกษาฟรี 30 นาที ทาง LINE แอด at clarityclinic",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "4s",
+          "avatar_position": "full_body",
+          "phrase": "ราคา 2,490 บนเว็บ ไม่มี surprise",
+          "prompt": "phone screen mockup · clarityclinic.co price page · zoom in \"Subcision Full Face — 2,490\" · clean web UI",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เห็นโฆษณาคลินิก ราคาเริ่มต้น 990 บาท ใช่ไหมครับ",
+          "prompt": "stock ad mockup · \"เริ่มต้น 990\" eye-catching banner · subtle red flag · cinematic"
+        },
+        {
+          "scene": 3,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "พอเข้าห้องตรวจจริง ราคาขึ้น 9,990",
+          "prompt": "price tag animated from 990 → 9,990 · numbers spinning · surprise sound feel"
+        },
+        {
+          "scene": 4,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "นั่นไม่ใช่ราคาเริ่มต้น นั่นคือกับดัก",
+          "prompt": "trap visual — price tag as mouse trap · sage+coral palette · honest direct"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ที่ Clarity ผมเปิดราคาทุกรายการบนเว็บ",
+          "prompt": "laptop screen · clarityclinic.co full price list page · scroll animation · clean"
+        },
+        {
+          "scene": 6,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "Subcision full face 2,490 Subcision per site 490 Pico-Scar 6,900",
+          "prompt": "price list animation — 3 prices ปรากฏทีละบรรทัด · large bold numbers · clean"
+        },
+        {
+          "scene": 7,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "RF microneedling 9,900 Acne Scar Pass 4 ครั้ง 29,900",
+          "prompt": "continue price list · 2 more prices ปรากฏ · highlight Pass 29,900 with subtle badge"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ไม่มีคำว่า เริ่มต้น ไม่มี surprise ในห้องตรวจ",
+          "prompt": "\"เริ่มต้น\" text strike-through · checkmark + transparency stamp · clean"
+        },
+        {
+          "scene": 9,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผมเปิดราคา เพราะอยากให้คุณตัดสินใจก่อนเข้ามา",
+          "prompt": "silhouette ดูมือถือที่บ้าน · price page on phone · ไม่เห็นหน้า · informed decision mood"
+        },
+        {
+          "scene": 10,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เห็นราคาแล้วไม่ไหว ก็ไม่ต้องเสียเวลาเดินทาง เห็นแล้ว ok ค่อยมา",
+          "prompt": "split — silhouette ที่บ้าน vs silhouette เดินเข้าคลินิก · choice graphic"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ไม่มี hard-sell ในห้องตรวจ",
+          "prompt": "consultation table · ไม่มี course package brochure · clean honest desk · ไม่เห็นคน"
+        },
+        {
+          "scene": 12,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "ดูราคาทุกรายการ ที่ clarityclinic.co หรือ ปรึกษาฟรี 30 นาที ทาง LINE แอด at clarityclinic",
+          "prompt": "dual CTA — laptop showing clarityclinic.co + phone showing LINE OA · clean premium dual call-to-action",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "PE2",
+      "title": "Collagen mature คืออะไร · 4-8 wk",
+      "week": 2,
+      "day": "พ.",
+      "time": "17:00",
+      "pillar": 2,
+      "format": "Avatar",
+      "length": "~60s",
+      "cta": "save ไว้เลยครับ ใครเพิ่งทำ subcision อย่ารีบดูกระจกทุกวัน ให้เวลามันทำงาน",
+      "tts_script": "ทำ subcision วันนี้ ห้ามวัดผลภายใน 4 ถึง 8 อาทิตย์\n\nภายในอาทิตย์แรก หลุมคุณจะดูเหมือนยังไม่เปลี่ยน หรือบางคนอาจดูแย่กว่าเดิม เพราะมีบวมแดง นั่นปกติครับ ไม่ได้แปลว่าทำพลาด\n\nที่หมอทำ subcision คือตัดพังผืดใต้หลุม กระตุ้นให้ร่างกายสร้างคอลลาเจนใหม่ขึ้นมาเติม แต่คอลลาเจนใหม่ ต้องใช้เวลา mature\n\nอาทิตย์ที่ 2 ถึง 4 คอลลาเจนใหม่กำลังก่อตัว ยังเล็ก ยังอ่อน อาทิตย์ที่ 4 ถึง 8 คอลลาเจนค่อยๆ ทนเหนียวขึ้น ผลที่แท้จริงเริ่ม emerge หลัง 8 อาทิตย์ คือเวลาที่หมอนัดมาวัดผล\n\nถ้าคุณวัดผลก่อนเวลา คุณจะตัดสินใจผิด คิดว่าทำไม่ได้ผล ทั้งที่ biology กำลังทำงานอยู่ และอาจตัดสินใจทำซ้ำ เผาเงินทิ้งฟรีๆ\n\nsave ไว้เลยครับ ใครเพิ่งทำ subcision อย่ารีบดูกระจกทุกวัน ให้เวลามันทำงาน",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "ทำ subcision วันนี้ ห้ามวัดผลภายใน 4 ถึง 8 อาทิตย์",
+          "prompt": "calendar with \"Do not check\" red zone over weeks 1-4 · \"วัดผล Week 8\" stamp · clean medical UI",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ภายในอาทิตย์แรก หลุมคุณจะดูเหมือนยังไม่เปลี่ยน",
+          "prompt": "macro Day 7 cheek · subtle redness/swelling · ไม่เห็นหน้าเต็มหน้า · side light realistic"
+        },
+        {
+          "scene": 3,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "หรือบางคนอาจดูแย่กว่าเดิม เพราะมีบวมแดง",
+          "prompt": "comparison Day 1 vs Day 7 · slight swelling visible · clinical realistic"
+        },
+        {
+          "scene": 4,
+          "duration": "4s",
+          "avatar_position": "pip",
+          "phrase": "นั่นปกติครับ ไม่ได้แปลว่าทำพลาด",
+          "prompt": "text \"ปกติ · ไม่ได้พลาด\" calm stamp · doctor's hand reassuring on chart"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ที่หมอทำ subcision คือตัดพังผืดใต้หลุม",
+          "prompt": "animated cross-section · subcision needle cutting fibrosis · clean medical animation"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "กระตุ้นให้ร่างกายสร้างคอลลาเจนใหม่ขึ้นมาเติม แต่คอลลาเจนใหม่ ต้องใช้เวลา mature",
+          "prompt": "animated collagen fibers growing slowly · time-lapse · gentle progress"
+        },
+        {
+          "scene": 7,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "อาทิตย์ที่ 2 ถึง 4 คอลลาเจนใหม่กำลังก่อตัว ยังเล็ก ยังอ่อน",
+          "prompt": "stage 1 collagen — small thin fibers · animated cross-section · soft growth visualization"
+        },
+        {
+          "scene": 8,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "อาทิตย์ที่ 4 ถึง 8 คอลลาเจนค่อยๆ ทนเหนียวขึ้น ผลที่แท้จริงเริ่ม emerge",
+          "prompt": "stage 2 collagen — thicker stronger fibers · cross-section progressing · gradual reveal"
+        },
+        {
+          "scene": 9,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "หลัง 8 อาทิตย์ คือเวลาที่หมอนัดมาวัดผล",
+          "prompt": "calendar week 8 marker · \"Measure now\" checkmark · appointment slot highlighted"
+        },
+        {
+          "scene": 10,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ถ้าคุณวัดผลก่อนเวลา คุณจะตัดสินใจผิด",
+          "prompt": "hand holding mirror too early · X mark · \"Too early\" warning · realistic anxious mood"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "คิดว่าทำไม่ได้ผล ทั้งที่ biology กำลังทำงานอยู่",
+          "prompt": "split — frustrated silhouette vs animated invisible biology working behind · contrast"
+        },
+        {
+          "scene": 12,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "และอาจตัดสินใจทำซ้ำ เผาเงินทิ้งฟรีๆ",
+          "prompt": "cash bundle burning + X mark · honest realistic warning · sage+coral palette"
+        },
+        {
+          "scene": 13,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "save ไว้เลยครับ ใครเพิ่งทำ subcision อย่ารีบดูกระจกทุกวัน",
+          "prompt": "phone save icon animation · clock + \"ให้เวลา\" stamp · friendly reminder",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 14,
+          "duration": "4s",
+          "avatar_position": "full_body",
+          "phrase": "ให้เวลามันทำงาน",
+          "prompt": "time-lapse 8 weeks compressed · subtle improvement reveal · gentle hopeful close",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "TC1",
+      "title": "Trica3D scan POV",
+      "week": 2,
+      "day": "พฤ.",
+      "time": "19:00",
+      "pillar": 4,
+      "format": "Real",
+      "length": "~60s",
+      "cta": "นัด scan ฟรี ทาง LINE แอด at clarityclinic หรือ walk-in ตึก ราชเทวี ใกล้ BTS",
+      "tts_script": "วันที่คุณมา Clarity ครั้งแรก ดูซิเห็นอะไรในจอ\n\nนั่งลงตรงนี้ครับ คุณจะเห็นกล้องเล็กๆ บนโต๊ะ ไม่ใช่ของเล่นนะ มันชื่อ Trica3D สแกน 3 มิติของผิวหน้าคุณ\n\nผมจะให้สแกน 3 มุม ซ้าย กลาง ขวา ใช้เวลาประมาณ 5 ถึง 10 นาที ไม่เจ็บ ไม่ต้องเตรียมอะไรเป็นพิเศษ ขอแค่ล้างหน้ามา ไม่ลงครีม ไม่แต่งหน้า\n\nหลังสแกน ผมจะเปิดจอให้ดูพร้อมกัน คุณจะเห็นหลุมที่ตาเปล่าไม่เห็นชัด เห็น 3 มิติ เห็นความลึก เห็นรูปร่างของหลุมแต่ละแบบ rolling boxcar ice pick แล้วเราค่อยมาวางแผน treatment ด้วยกัน\n\nทุกอย่างนี้ ฟรีครับ ใช้เวลา 30 นาที ไม่มีบังคับว่าต้องทำต่อ มาดูแล้วกลับไปคิดได้\n\nนัด scan ฟรี ทาง LINE แอด at clarityclinic หรือ walk-in ก็ได้ ตึก ราชเทวี ใกล้ BTS",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "วันที่คุณมา Clarity ครั้งแรก ดูซิเห็นอะไรในจอ",
+          "prompt": "POV handheld เดินผ่านประตูเข้าห้อง consult · จอ Trica3D ปรากฏ · warm light",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "นั่งลงตรงนี้ครับ คุณจะเห็นกล้องเล็กๆ บนโต๊ะ",
+          "prompt": "POV นั่งเก้าอี้ consult · มอง Trica3D camera close-up · soft natural light"
+        },
+        {
+          "scene": 3,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ไม่ใช่ของเล่นนะ มันชื่อ Trica3D สแกน 3 มิติของผิวหน้าคุณ",
+          "prompt": "Trica3D device macro shot + \"Trica3D\" label overlay · clinical premium"
+        },
+        {
+          "scene": 4,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผมจะให้สแกน 3 มุม ซ้าย กลาง ขวา",
+          "prompt": "3 angle icons (left, center, right) animated arrow rotation · 3D camera scanning visualization"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ใช้เวลาประมาณ 5 ถึง 10 นาที ไม่เจ็บ ไม่ต้องเตรียมอะไรเป็นพิเศษ",
+          "prompt": "clock 5-10 min · checkmark \"ไม่เจ็บ · ไม่ต้องเตรียม\" · clean reassuring"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ขอแค่ล้างหน้ามา ไม่ลงครีม ไม่แต่งหน้า",
+          "prompt": "face wash basin · skincare bottles with X mark · makeup brush with X · clean instructions"
+        },
+        {
+          "scene": 7,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "หลังสแกน ผมจะเปิดจอให้ดูพร้อมกัน คุณจะเห็นหลุมที่ตาเปล่าไม่เห็นชัด",
+          "prompt": "monitor reveal · 3D scan output ปรากฏ · subtle zoom · UI dark mode professional"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เห็น 3 มิติ เห็นความลึก เห็นรูปร่างของหลุมแต่ละแบบ",
+          "prompt": "3D scan rotation · depth heatmap colors · scar shapes highlighted"
+        },
+        {
+          "scene": 9,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "rolling boxcar ice pick แล้วเราค่อยมาวางแผน treatment ด้วยกัน",
+          "prompt": "3 scar shape labels + treatment plan being drafted on tablet · clean medical UI"
+        },
+        {
+          "scene": 10,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ทุกอย่างนี้ ฟรีครับ ใช้เวลา 30 นาที",
+          "prompt": "\"ฟรี · 30 นาที\" stamp · clock + price tag 0฿ · friendly mood"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ไม่มีบังคับว่าต้องทำต่อ มาดูแล้วกลับไปคิดได้",
+          "prompt": "silhouette เดินออกจากคลินิก · ถือเอกสารใบเดียว · ไม่มี hard-sell · soft warm light"
+        },
+        {
+          "scene": 12,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "นัด scan ฟรี ทาง LINE แอด at clarityclinic หรือ walk-in ก็ได้ ตึก ราชเทวี ใกล้ BTS",
+          "prompt": "LINE OA + Google Maps pin ราชเทวี + BTS sign · dual access CTA · clean premium",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "PS3",
+      "title": "Day 0/7/60 timelapse",
+      "week": 2,
+      "day": "อา.",
+      "time": "20:00",
+      "pillar": 1,
+      "format": "Real",
+      "length": "~75s",
+      "cta": "อยากให้หมอวางแผน timeline ของคุณ ปรึกษาฟรี ทาง LINE แอด at clarityclinic",
+      "tts_script": "หน้าแดง 5 วัน ได้ผลลัพธ์แบบนี้ คุ้มมั้ย?\n\nผมจะพาดู timeline ของคนไข้ที่ทำคอร์สรักษาหลุมสิว ที่ Clarity ภาพถ่ายมุมเดียวกัน แสงเดียวกัน 3 ช่วง\n\nหลังทำทันที บวมจากยาชา แดงจากเลเซอร์ หลุมสิวดูตื้นขึ้น เพราะเนื้อเยื่อบวม คนไข้มักตกใจหลังทำ ผมบอกเสมอ ตื่นมาพรุ่งนี้เช้า ก็ยุบลงเยอะแล้วครับ\n\nDay 7 บวมเริ่มหาย หลุมเริ่มดูตื้นกว่าเดิม คอลลาเจนใหม่กำลังก่อตัว แต่ยังไม่เต็มที่ ใครวัดผลที่ Day 7 แล้วผิดหวัง คือวัดเร็วเกินไป\n\nDay 60 คอลลาเจน mature เต็มที่ ผลที่แท้จริงโผล่ออกมา หลุมตื้นกว่า Day 1 อย่างชัดเจน นี่คือเหตุผลที่หมอบอกให้ดูยาวๆ ไม่ใช่ดูสั้น\n\nบางคนเห็น Day 7 แล้วท้อ คิดว่าไม่ได้ผล แต่ที่จริงร่างกายกำลังสร้างคอลลาเจนใหม่อยู่ ต้องให้เวลาผิวสร้างของขึ้นมา ไม่ใช่ตัดสินจากครั้งเดียว\n\nอยากให้หมอวางแผน timeline ของคุณ ปรึกษาฟรี ทาง LINE แอด at clarityclinic",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "4s",
+          "avatar_position": "full_body",
+          "phrase": "หน้าแดง 5 วัน ได้ผลลัพธ์แบบนี้ คุ้มมั้ย?",
+          "prompt": "question text + 3-frame split (Day 0 red · Day 7 calmer · Day 60 clear) preview · cinematic reveal",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผมจะพาดู timeline ของคนไข้ที่ทำคอร์สรักษาหลุมสิว ที่ Clarity",
+          "prompt": "photographer setup — tripod, reference grid, headrest marker · clinical realistic"
+        },
+        {
+          "scene": 3,
+          "duration": "4s",
+          "avatar_position": "pip",
+          "phrase": "ภาพถ่ายมุมเดียวกัน แสงเดียวกัน 3 ช่วง",
+          "prompt": "3 camera angle markers · same lighting setup · technical consistency visual"
+        },
+        {
+          "scene": 4,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "หลังทำทันที บวมจากยาชา แดงจากเลเซอร์ หลุมสิวดูตื้นขึ้น เพราะเนื้อเยื่อบวม",
+          "prompt": "macro Day 0 — cheek post-treatment red + swollen · subtle dots from laser · ไม่เห็นหน้าเต็มหน้า"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "คนไข้มักตกใจหลังทำ ผมบอกเสมอ ตื่นมาพรุ่งนี้เช้า ก็ยุบลงเยอะแล้วครับ",
+          "prompt": "silhouette คนไข้นั่งเก้าอี้กระจก · doctor's hand reassuring · ไม่เห็นหน้า · warm trust"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "Day 7 บวมเริ่มหาย หลุมเริ่มดูตื้นกว่าเดิม",
+          "prompt": "macro Day 7 cheek · swelling subsided · less redness · honest gradual improvement"
+        },
+        {
+          "scene": 7,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "คอลลาเจนใหม่กำลังก่อตัว แต่ยังไม่เต็มที่",
+          "prompt": "animated cross-section · new collagen fibers small thin · partial growth visualization"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ใครวัดผลที่ Day 7 แล้วผิดหวัง คือวัดเร็วเกินไป",
+          "prompt": "mirror hand check + clock too early · warning subtle · honest realistic"
+        },
+        {
+          "scene": 9,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "Day 60 คอลลาเจน mature เต็มที่ ผลที่แท้จริงโผล่ออกมา",
+          "prompt": "macro Day 60 cheek · scars markedly shallower · side light same angle · reveal moment"
+        },
+        {
+          "scene": 10,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "หลุมตื้นกว่า Day 1 อย่างชัดเจน",
+          "prompt": "Day 0 vs Day 60 split-screen comparison · same crop · honest realistic before/after"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "นี่คือเหตุผลที่หมอบอกให้ดูยาวๆ ไม่ใช่ดูสั้น",
+          "prompt": "timeline graph long-term curve rising · \"ดูยาว · ไม่ใช่ดูสั้น\" stamp · honest framing"
+        },
+        {
+          "scene": 12,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "บางคนเห็น Day 7 แล้วท้อ คิดว่าไม่ได้ผล",
+          "prompt": "silhouette ดูกระจก · sad mood · X \"ไม่ได้ผล\" thought bubble · honest contrast"
+        },
+        {
+          "scene": 13,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "แต่ที่จริงร่างกายกำลังสร้างคอลลาเจนใหม่อยู่ ต้องให้เวลาผิวสร้างของขึ้นมา",
+          "prompt": "animated invisible biology · collagen building behind scenes · time-lapse · hopeful"
+        },
+        {
+          "scene": 14,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ไม่ใช่ตัดสินจากครั้งเดียว",
+          "prompt": "single mirror check X · multiple checks over time ✓ · contrast graphic"
+        },
+        {
+          "scene": 15,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "อยากให้หมอวางแผน timeline ของคุณ ปรึกษาฟรี ทาง LINE แอด at clarityclinic",
+          "prompt": "timeline planning visual + LINE OA chat mockup · CTA card · clean premium",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "PE4",
+      "title": "ไม่ทากันแดด = เผาเงิน 5,000",
+      "week": 3,
+      "day": "จ.",
+      "time": "17:00",
+      "pillar": 2,
+      "format": "Avatar",
+      "length": "~60s",
+      "cta": "save ไว้เลยครับ ใครมีเพื่อนเพิ่งทำหลุมสิว ส่งให้เขาดูซะ",
+      "tts_script": "ลงทุน 5,000 ทำหลุมสิว ไม่ทากันแดด เท่ากับคุณเผา 5,000 ทิ้ง\n\nฟังดูดราม่าใช่ไหมครับ แต่นี่คือเรื่องจริง ไม่ได้ขู่\n\nที่หมอทำ subcision RF microneedling ablative laser คือการกระตุ้นให้ร่างกายสร้างคอลลาเจนใหม่ขึ้นมาเติมหลุม แต่ UV จากแสงแดด ทำลายคอลลาเจน ทุกครั้งที่คุณออกไปเจอแดดโดยไม่ทากันแดด คุณกำลังทำลายคอลลาเจนใหม่ที่เพิ่งสร้าง\n\nทางแก้ง่ายมากครับ SPF 50 ทา 2 ข้อนิ้ว ทุกเช้า ครีมกันแดดที่ดีมียี่ห้อนิดนึง ขวดละ 500 บาทขึ้นไป\n\n500 บาท เทียบกับ 5,000 ที่จะเผา คุณเลือกอันไหน ครีมกันแดดคือสิ่งที่ราคาถูกที่สุด แต่สำคัญที่สุด ในการรักษาหลุมสิว\n\nsave ไว้เลยครับ ใครมีเพื่อนเพิ่งทำหลุมสิว ส่งให้เขาดูซะ",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "ลงทุน 5,000 ทำหลุมสิว ไม่ทากันแดด เท่ากับคุณเผา 5,000 ทิ้ง",
+          "prompt": "cash bundle \"5,000\" → flame animation → ashes · dramatic burn · sound feel fire crackle",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ฟังดูดราม่าใช่ไหมครับ แต่นี่คือเรื่องจริง ไม่ได้ขู่",
+          "prompt": "\"ไม่ได้ขู่ · เรื่องจริง\" stamp · doctor's hand on medical book · honest realistic"
+        },
+        {
+          "scene": 3,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ที่หมอทำ subcision RF microneedling ablative laser",
+          "prompt": "3 device close-ups quick cut — subcision · RF tip · ablative laser beam · clinical premium"
+        },
+        {
+          "scene": 4,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "คือการกระตุ้นให้ร่างกายสร้างคอลลาเจนใหม่ขึ้นมาเติมหลุม",
+          "prompt": "animated collagen fibers growing fill scar · clean medical animation"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "แต่ UV จากแสงแดด ทำลายคอลลาเจน",
+          "prompt": "animated UV rays hitting skin · collagen fibers breaking down · cool palette warning"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ทุกครั้งที่คุณออกไปเจอแดดโดยไม่ทากันแดด คุณกำลังทำลายคอลลาเจนใหม่ที่เพิ่งสร้าง",
+          "prompt": "silhouette เดินกลางแดด · ไม่มีหมวก · UV waves bombarding · cinematic warning"
+        },
+        {
+          "scene": 7,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ทางแก้ง่ายมากครับ SPF 50 ทา 2 ข้อนิ้ว ทุกเช้า",
+          "prompt": "SPF 50 bottle close-up + 2-finger measurement demo on hand · clean instruction"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ครีมกันแดดที่ดีมียี่ห้อนิดนึง ขวดละ 500 บาทขึ้นไป",
+          "prompt": "lineup of generic SPF bottles · price tag \"500฿+\" · no specific brand · clean"
+        },
+        {
+          "scene": 9,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "500 บาท เทียบกับ 5,000 ที่จะเผา คุณเลือกอันไหน",
+          "prompt": "scale balance — 500 ฿ SPF bottle vs 5,000 ฿ burning · choice graphic · dramatic"
+        },
+        {
+          "scene": 10,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ครีมกันแดดคือสิ่งที่ราคาถูกที่สุด แต่สำคัญที่สุด ในการรักษาหลุมสิว",
+          "prompt": "SPF bottle with \"MVP\" crown badge · honest medical mood · sage+coral palette"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "save ไว้เลยครับ ใครมีเพื่อนเพิ่งทำหลุมสิว ส่งให้เขาดูซะ",
+          "prompt": "phone screen — save + share buttons + 2 friend icons exchanging clip · friendly CTA",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "AM3",
+      "title": "5 ประโยคที่หมอ Big ไม่เคยพูด",
+      "week": 3,
+      "day": "อ.",
+      "time": "16:00",
+      "pillar": 3,
+      "format": "Avatar",
+      "length": "~80s",
+      "cta": "5 ประโยคนี้ ใครเคยได้ยินจากคลินิกอื่นบ้าง คอมเม้นต์มาเลย",
+      "tts_script": "5 ประโยคที่ผมไม่เคยพูดในห้องตรวจ ลองดูครับ\n\nประโยคที่ 1 รักษาแล้วหายขาด ไม่มีหมอคนไหนพูดได้ครับ เพราะหลุมสิวมันแก้ไม่ได้ 100% ใครพูดแบบนี้ คือขายของและให้ความหวัง\n\nประโยคที่ 2 ราคาเริ่มต้นเพียง 990 พอเข้าห้องตรวจจริง ราคาเกินหมื่น นั่นไม่ใช่ราคาเริ่มต้น คือกับดักหลอกให้คุณมา\n\nประโยคที่ 3 วันนี้ลดสูงสุด ตัดสินใจเลย ความรีบเป็นเครื่องมือขาย ไม่ใช่ความหวังดี การรักษาผิวต้องคิดให้รอบคอบ ไม่ใช่ตัดสินจากโปรการตลาด\n\nประโยคที่ 4 ทำคอร์ส 10 ครั้ง ผูกมัดถูกกว่า ผูกมัดเสร็จ คุณเปลี่ยนใจไม่ได้ ถ้าผิวคุณไม่ตอบสนอง คุณเสียเงินทิ้ง ที่ Clarity จ่ายทีละครั้ง ครั้งละ 5,000\n\nประโยคที่ 5 เครื่องที่ดีที่สุดในไทย ใครพิสูจน์ครับ ดีที่สุด วัดจากอะไร ที่ Clarity ผมเลือกเครื่องตามเทคโนโลยี ไม่ใช่ความดัง\n\n5 ประโยคนี้ ใครเคยได้ยินจากคลินิกอื่นบ้าง คอมเม้นต์มาเลย",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "4s",
+          "avatar_position": "full_body",
+          "phrase": "5 ประโยคที่ผมไม่เคยพูดในห้องตรวจ ลองดูครับ",
+          "prompt": "\"1/5 → 5/5\" counter + 5 finger icons · prep tease · clean serious mood",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ประโยคที่ 1 รักษาแล้วหายขาด ไม่มีหมอคนไหนพูดได้ครับ",
+          "prompt": "card \"1/5 · หายขาด\" + strike-through red · medical book in background"
+        },
+        {
+          "scene": 3,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เพราะหลุมสิวมันแก้ไม่ได้ 100% ใครพูดแบบนี้ คือขายของและให้ความหวัง",
+          "prompt": "animated 100% with strike + balloon \"ความหวัง\" floating away · honest contrast"
+        },
+        {
+          "scene": 4,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ประโยคที่ 2 ราคาเริ่มต้นเพียง 990 พอเข้าห้องตรวจจริง ราคาเกินหมื่น",
+          "prompt": "card \"2/5 · ราคาเริ่มต้น\" + price tag 990 → spinning to 10,000+ · trap animation"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "นั่นไม่ใช่ราคาเริ่มต้น คือกับดักหลอกให้คุณมา",
+          "prompt": "trap visual — price tag as mouse trap closing · cinematic warning"
+        },
+        {
+          "scene": 6,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ประโยคที่ 3 วันนี้ลดสูงสุด ตัดสินใจเลย",
+          "prompt": "card \"3/5 · วันนี้ลดสูงสุด\" + countdown timer \"00:01:30\" ticking · pressure visual"
+        },
+        {
+          "scene": 7,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ความรีบเป็นเครื่องมือขาย ไม่ใช่ความหวังดี",
+          "prompt": "countdown timer breaking + \"เครื่องมือขาย\" stamp · honest reveal"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "การรักษาผิวต้องคิดให้รอบคอบ ไม่ใช่ตัดสินจากโปรการตลาด",
+          "prompt": "silhouette นั่งคิดที่บ้าน · ดูเอกสารราคา · ไม่เห็นหน้า · contemplative mood"
+        },
+        {
+          "scene": 9,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ประโยคที่ 4 ทำคอร์ส 10 ครั้ง ผูกมัดถูกกว่า",
+          "prompt": "card \"4/5 · คอร์ส 10 ครั้ง\" + chain icon + 10 sessions package box"
+        },
+        {
+          "scene": 10,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ผูกมัดเสร็จ คุณเปลี่ยนใจไม่ได้ ถ้าผิวคุณไม่ตอบสนอง คุณเสียเงินทิ้ง",
+          "prompt": "chain locked + cash bundle เผา · warning honest visual"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ที่ Clarity จ่ายทีละครั้ง ครั้งละ 5,000",
+          "prompt": "chain breaking + single \"5,000฿\" bill per session animation · freedom mood"
+        },
+        {
+          "scene": 12,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ประโยคที่ 5 เครื่องที่ดีที่สุดในไทย ใครพิสูจน์ครับ",
+          "prompt": "card \"5/5 · ดีที่สุดในไทย\" + trophy with question mark · skeptical visual"
+        },
+        {
+          "scene": 13,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ดีที่สุด วัดจากอะไร",
+          "prompt": "scale/measurement icons with question marks · objective question"
+        },
+        {
+          "scene": 14,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ที่ Clarity ผมเลือกเครื่องตามเทคโนโลยี ไม่ใช่ความดัง",
+          "prompt": "device spec sheet · technology checkmark vs trendy marketing X · clean honest"
+        },
+        {
+          "scene": 15,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "5 ประโยคนี้ ใครเคยได้ยินจากคลินิกอื่นบ้าง คอมเม้นต์มาเลย",
+          "prompt": "5 cards stacked · comment bubbles popping up · \"Comment เคยเจอ\" engagement CTA",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "PE3",
+      "title": "Collagen drink ไม่ช่วย · โปรตีนช่วย",
+      "week": 3,
+      "day": "พ.",
+      "time": "17:00",
+      "pillar": 2,
+      "format": "Avatar",
+      "length": "~75s",
+      "cta": "save ไว้เลยครับ ใครเพิ่งทำหลุมสิว กินตามนี้ รับรองหลุมฟูแน่นอน",
+      "tts_script": "Collagen drink ไม่ช่วย โปรตีนต่างหากช่วย\n\nผมจะอธิบายให้ฟังครับ collagen drink ที่ขายอยู่ ราคา 500 ถึง 2,000 ต่อกล่อง ขายภาพ ดื่มแล้วผิวอ่อน ความจริงมันไม่ได้ทำงานแบบนั้น\n\ncollagen ที่กินเข้าไป ร่างกายย่อยเป็น amino acid แล้วเอาไปสร้างอะไรก็ได้ตามที่ร่างกายขาด ไม่ได้กลับมาเป็น collagen ที่ผิวคุณ\n\nสิ่งที่ช่วยจริง คือโปรตีนปกตินั่นแหละครับ เนื้อ ปลา ไก่ ไข่ ถั่ว ที่ร่างกายใช้เป็นวัตถุดิบสร้าง collagen ใหม่\n\nวัยทำงาน ควรกินโปรตีน 100 กรัมต่อวัน เฉลี่ย 25 ถึง 30 กรัม ต่อมื้อ ปลาแซลมอนชิ้นนึง ไข่ 3 ฟอง เท่ากับ 30 กรัมแล้ว ถ้ากินไม่พอก็เสริมโปรตีนพร้อมดื่มในเซเว่น 30 กรัม สัก 2 ขวด รับรองโปรตีนถึงแน่นอน\n\nวิตามินซีก็สำคัญ เป็น cofactor ที่ร่างกายใช้สร้าง collagen ขาดไม่ได้ครับ 1000 มิลลิกรัมต่อวัน\n\nสรุปง่ายๆ ครับ ก่อนซื้อ collagen drink 1,000 บาท เอาเงินไปกินแซลมอนอร่อยๆ คุ้มกว่าเยอะ\n\nsave ไว้เลยครับ ใครเพิ่งทำหลุมสิว กินตามนี้ รับรองหลุมฟูแน่นอน",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "Collagen drink ไม่ช่วย โปรตีนต่างหากช่วย",
+          "prompt": "collagen drink generic box with red X · cut to plate (salmon · eggs · meat) · clear honest message",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ผมจะอธิบายให้ฟังครับ collagen drink ที่ขายอยู่ ราคา 500 ถึง 2,000 ต่อกล่อง",
+          "prompt": "generic collagen drink lineup · price tags 500-2,000 · neutral pharmacy aisle vibe"
+        },
+        {
+          "scene": 3,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ขายภาพ ดื่มแล้วผิวอ่อน ความจริงมันไม่ได้ทำงานแบบนั้น",
+          "prompt": "advertisement-style young skin illustration with strike-through · honest medical reframe"
+        },
+        {
+          "scene": 4,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "collagen ที่กินเข้าไป ร่างกายย่อยเป็น amino acid",
+          "prompt": "animated digestion · collagen pill → breaking into amino acid letters · clean medical animation"
+        },
+        {
+          "scene": 5,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "แล้วเอาไปสร้างอะไรก็ได้ตามที่ร่างกายขาด ไม่ได้กลับมาเป็น collagen ที่ผิวคุณ",
+          "prompt": "amino acids distributing throughout body silhouette · scattered destinations · not just skin"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "สิ่งที่ช่วยจริง คือโปรตีนปกตินั่นแหละครับ เนื้อ ปลา ไก่ ไข่ ถั่ว",
+          "prompt": "macro food photography — salmon, chicken, eggs, beans · warm appetizing light · clean"
+        },
+        {
+          "scene": 7,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ที่ร่างกายใช้เป็นวัตถุดิบสร้าง collagen ใหม่",
+          "prompt": "animated collagen synthesis · protein → new fibers · clean medical visualization"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "วัยทำงาน ควรกินโปรตีน 100 กรัมต่อวัน เฉลี่ย 25 ถึง 30 กรัม ต่อมื้อ",
+          "prompt": "plate divided 3 meals · protein counter 25-30g per meal · clean meal plan graphic"
+        },
+        {
+          "scene": 9,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ปลาแซลมอนชิ้นนึง ไข่ 3 ฟอง เท่ากับ 30 กรัมแล้ว",
+          "prompt": "macro food shot — salmon slice + 3 eggs · protein label \"30g\" · warm appetizing"
+        },
+        {
+          "scene": 10,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ถ้ากินไม่พอก็เสริมโปรตีนพร้อมดื่มในเซเว่น 30 กรัม สัก 2 ขวด รับรองโปรตีนถึงแน่นอน",
+          "prompt": "7-Eleven generic shelf · ready-to-drink protein bottles · \"30g\" label visible · accessible vibe"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "วิตามินซีก็สำคัญ เป็น cofactor ที่ร่างกายใช้สร้าง collagen",
+          "prompt": "citrus fruits + vit C tablet · co-factor diagram simplified · clean"
+        },
+        {
+          "scene": 12,
+          "duration": "4s",
+          "avatar_position": "pip",
+          "phrase": "ขาดไม่ได้ครับ 1000 มิลลิกรัมต่อวัน",
+          "prompt": "vit C tablet \"1000mg\" close-up + dose counter · clean instruction"
+        },
+        {
+          "scene": 13,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "สรุปง่ายๆ ครับ ก่อนซื้อ collagen drink 1,000 บาท",
+          "prompt": "collagen drink with price 1,000฿ · about to be purchased · pause moment"
+        },
+        {
+          "scene": 14,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เอาเงินไปกินแซลมอนอร่อยๆ คุ้มกว่าเยอะ",
+          "prompt": "swap visualization — drink box → salmon plate · warm food photography · friendly mood"
+        },
+        {
+          "scene": 15,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "save ไว้เลยครับ ใครเพิ่งทำหลุมสิว กินตามนี้ รับรองหลุมฟูแน่นอน",
+          "prompt": "phone save icon + food plate + collagen fibers fluffing up · friendly playful CTA",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "PS8",
+      "title": "ฝ้า/กระแดด 5 ปี · ฝ้า = ตับแข็ง",
+      "week": 3,
+      "day": "พฤ.",
+      "time": "19:00",
+      "pillar": 1,
+      "format": "Real",
+      "length": "~75s",
+      "cta": "อยากให้หมอวางแผนเรื่องฝ้า กระ ปรึกษาฟรี ทางบ้านเขียว clarityclinic",
+      "tts_script": "ฝ้าที่รักษามา 5 ปี Clarity ใช้แบบไหน\n\nเคสนี้คนไข้ผู้หญิงทำงาน อายุปลาย 30s ฝ้าหลังคลอด กระแดดเพิ่ม เคยลองเลเซอร์ที่อื่น เคยใช้ครีม แต่ฝ้ากลับมาตลอด\n\nวันแรกผมบอกตรงๆ ฝ้าไม่เหมือนหลุมสิว ฝ้ามีฮอร์โมน UV เป็นตัวกระตุ้น แม้รักษาดีแค่ไหน ก็มีโอกาสกลับมา ถ้าไม่ดูแลตัวเอง\n\nฝ้าก็เหมือนโรคตับแข็ง ถ้ายังกินเหล้าอยู่ก็ไม่มีทางหาย ฝ้ายังโดนแดดก็ไม่มีทาง control ได้\n\nที่ Clarity ใช้ picolaser ที่ทำลาย melanin โดยตรง ผสมกับการกินยาและทา skincare ที่ช่วยลดเม็ดสี ทำต่อเนื่อง ทุก 2 ถึง 4 อาทิตย์\n\nหลัง 3 ครั้ง เห็นฝ้าจางลง คนรอบข้างทักทุกคน แต่ไม่ได้หายขาดนะครับ ยังเห็นจางๆ บางๆ อยู่\n\nแต่ต้อง maintenance ทุก 2 ถึง 3 เดือน ด้วย picolaser\n\nอยากให้หมอวางแผนเรื่องฝ้า กระ ปรึกษาฟรี ทางบ้านเขียว clarityclinic",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "ฝ้าที่รักษามา 5 ปี Clarity ใช้แบบไหน",
+          "prompt": "split-screen Before/After 3 sessions · cheek macro side light · ไม่เห็นตา/ปาก · cinematic reveal",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เคสนี้คนไข้ผู้หญิงทำงาน อายุปลาย 30s ฝ้าหลังคลอด กระแดดเพิ่ม",
+          "prompt": "B-roll working mom silhouette at office desk · ไม่เห็นหน้า · cut to macro ฝ้าบนแก้ม"
+        },
+        {
+          "scene": 3,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เคยลองเลเซอร์ที่อื่น เคยใช้ครีม แต่ฝ้ากลับมาตลอด",
+          "prompt": "skincare bottle lineup + laser device generic · cycle visualization · frustration mood"
+        },
+        {
+          "scene": 4,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "วันแรกผมบอกตรงๆ ฝ้าไม่เหมือนหลุมสิว",
+          "prompt": "split comparison icon ฝ้า vs หลุมสิว · honest direct mood · doctor's chart hand"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ฝ้ามีฮอร์โมน UV เป็นตัวกระตุ้น แม้รักษาดีแค่ไหน ก็มีโอกาสกลับมา ถ้าไม่ดูแลตัวเอง",
+          "prompt": "animated icons hormone + UV ray on skin · melanin trigger visualization · clean medical"
+        },
+        {
+          "scene": 6,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ฝ้าก็เหมือนโรคตับแข็ง ถ้ายังกินเหล้าอยู่ก็ไม่มีทางหาย",
+          "prompt": "liver organ icon + cocktail glass · analogy visualization · serious medical mood"
+        },
+        {
+          "scene": 7,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ฝ้ายังโดนแดดก็ไม่มีทาง control ได้",
+          "prompt": "cheek + sun ray icon · \"control ได้\" stamp with condition · honest analogy continuation"
+        },
+        {
+          "scene": 8,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ที่ Clarity ใช้ picolaser ที่ทำลาย melanin โดยตรง",
+          "prompt": "picolaser device close-up + animated melanin breaking down · clinical premium"
+        },
+        {
+          "scene": 9,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผสมกับการกินยาและทา skincare ที่ช่วยลดเม็ดสี",
+          "prompt": "medication blister pack + skincare bottle (generic) · combo treatment visualization"
+        },
+        {
+          "scene": 10,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ทำต่อเนื่อง ทุก 2 ถึง 4 อาทิตย์",
+          "prompt": "calendar dots 2-4 wk apart · animated cycle · steady rhythm"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "หลัง 3 ครั้ง เห็นฝ้าจางลง คนรอบข้างทักทุกคน",
+          "prompt": "3 sessions calendar + Before/After comparison · subtle improvement · social acknowledgment visual"
+        },
+        {
+          "scene": 12,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "แต่ไม่ได้หายขาดนะครับ ยังเห็นจางๆ บางๆ อยู่",
+          "prompt": "close-up cheek · faint melasma traces visible · honest realistic · soft mood"
+        },
+        {
+          "scene": 13,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "แต่ต้อง maintenance ทุก 2 ถึง 3 เดือน ด้วย picolaser",
+          "prompt": "maintenance calendar 2-3 month + picolaser icon · ongoing care visualization"
+        },
+        {
+          "scene": 14,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "อยากให้หมอวางแผนเรื่องฝ้า กระ ปรึกษาฟรี ทางบ้านเขียว clarityclinic",
+          "prompt": "LINE OA (green theme prominent — บ้านเขียว reference) + Clarity logo · CTA card clean premium",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "TC4",
+      "title": "เตรียมตัว 1 wk ก่อน subcision",
+      "week": 3,
+      "day": "อา.",
+      "time": "20:00",
+      "pillar": 4,
+      "format": "Real",
+      "length": "~70s",
+      "cta": "save ไว้เลยครับ ก่อนนัดหมอทำเลเซอร์เปิดดูทุกครั้ง ทำตามนี้ ฟื้นตัวเร็วขึ้นแน่นอน",
+      "tts_script": "1 อาทิตย์ก่อนนัด subcision เตรียมผิวยังไง\n\nผมจะแชร์ checklist สั้นๆ ครับ ทำตามนี้ ทุกอย่างจะง่ายขึ้นเยอะ\n\nหนึ่ง งดยาที่ทำให้เลือดออกง่าย แอสไพริน ibuprofen วิตามิน E ปลาน้ำมัน เพราะตอนทำ subcision จะมีจ้ำเลือดน้อยลง\n\nสอง งด skincare ที่มีส่วนผสมของกรด ถ้าใช้ retinol หรือ AHA BHA อยู่ หยุดก่อน เพราะผิวจะ sensitive ง่าย\n\nสาม เลี่ยงแดดและใช้ครีมกันแดดต่อเนื่อง ก่อนอย่างน้อย 1 อาทิตย์ เพราะช่วยลดรอยดำหลังยิงเลเซอร์ได้\n\nสี่ วันที่นัดหมอ ล้างหน้ามาเลย ห้ามแต่งหน้า ห้ามทาครีม กินอาหารปกติ ไม่ต้องอด\n\nห้า เตรียมหมวกไอโม่ง แว่นกันแดด หลังทำต้องใส่กลับบ้าน 7 วันแรกห้ามโดนแดดอย่างเคร่งครัด\n\nsave ไว้เลยครับ ก่อนนัดหมอทำเลเซอร์เปิดดูทุกครั้ง ทำตามนี้ ฟื้นตัวเร็วขึ้นแน่นอน",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "4s",
+          "avatar_position": "full_body",
+          "phrase": "1 อาทิตย์ก่อนนัด subcision เตรียมผิวยังไง",
+          "prompt": "clipboard with 5 checkboxes · \"1 week before\" stamp · clean medical UI",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "4s",
+          "avatar_position": "pip",
+          "phrase": "ผมจะแชร์ checklist สั้นๆ ครับ ทำตามนี้ ทุกอย่างจะง่ายขึ้นเยอะ",
+          "prompt": "hand-drawn checklist appearing · pen check ticks · friendly mood"
+        },
+        {
+          "scene": 3,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "หนึ่ง งดยาที่ทำให้เลือดออกง่าย แอสไพริน ibuprofen วิตามิน E ปลาน้ำมัน",
+          "prompt": "\"1/5\" + 4 generic pill bottles with red X · cross-out animation · clean"
+        },
+        {
+          "scene": 4,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เพราะตอนทำ subcision จะมีจ้ำเลือดน้อยลง",
+          "prompt": "animated cross-section · subcision needle + reduced bruising visualization · clean medical"
+        },
+        {
+          "scene": 5,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "สอง งด skincare ที่มีส่วนผสมของกรด ถ้าใช้ retinol หรือ AHA BHA อยู่ หยุดก่อน",
+          "prompt": "\"2/5\" + skincare bottles (retinol, AHA, BHA generic) with pause icon · clean"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เพราะผิวจะ sensitive ง่าย",
+          "prompt": "animated skin sensitivity icon · subtle redness warning · clean medical"
+        },
+        {
+          "scene": 7,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "สาม เลี่ยงแดดและใช้ครีมกันแดดต่อเนื่อง ก่อนอย่างน้อย 1 อาทิตย์",
+          "prompt": "\"3/5\" + SPF bottle + 1-week calendar + UV ray crossed out"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เพราะช่วยลดรอยดำหลังยิงเลเซอร์ได้",
+          "prompt": "animated PIH prevention · before/after pigmentation comparison · honest medical"
+        },
+        {
+          "scene": 9,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "สี่ วันที่นัดหมอ ล้างหน้ามาเลย ห้ามแต่งหน้า ห้ามทาครีม",
+          "prompt": "\"4/5\" + clean face wash basin + makeup brush X + cream bottle X · clean"
+        },
+        {
+          "scene": 10,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "กินอาหารปกติ ไม่ต้องอด",
+          "prompt": "breakfast plate normal meal · friendly reassuring mood"
+        },
+        {
+          "scene": 11,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ห้า เตรียมหมวกไอโม่ง แว่นกันแดด หลังทำต้องใส่กลับบ้าน",
+          "prompt": "\"5/5\" + ninja-style hood + sunglasses lineup · ready-to-wear · clean"
+        },
+        {
+          "scene": 12,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "7 วันแรกห้ามโดนแดดอย่างเคร่งครัด",
+          "prompt": "7-day calendar + sun ray bigger X · strict warning visual"
+        },
+        {
+          "scene": 13,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "save ไว้เลยครับ ก่อนนัดหมอทำเลเซอร์เปิดดูทุกครั้ง",
+          "prompt": "phone save icon + calendar reminder · friendly utility mood",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 14,
+          "duration": "4s",
+          "avatar_position": "full_body",
+          "phrase": "ทำตามนี้ ฟื้นตัวเร็วขึ้นแน่นอน",
+          "prompt": "time-lapse fast recovery · checkmark all 5 done · positive close",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "PS5",
+      "title": "Origin story · ครั้งละ 5,000",
+      "week": 4,
+      "day": "จ.",
+      "time": "17:00",
+      "pillar": 1,
+      "format": "Real",
+      "length": "~85s",
+      "cta": "อยากเจอผมบ้าง ปรึกษาฟรี ทางบ้านเขียว clarityclinic",
+      "tts_script": "ทำไมร้านเหล้าที่ผมชอบไป มีคนหน้าตาดีที่สุดในกรุงเทพ\n\nเพราะผมทำหน้าให้เพื่อนผมเองครับ 5555\n\nผมจะเล่าให้ฟัง ครั้งละ 5,000 ที่ Clarity ใช้ มาจากตอนที่ผมทำหน้าให้เพื่อนๆ\n\nตอนเริ่ม ผมไม่อยากเก็บเพื่อนแพง เลยตั้งราคาแบบที่จ่ายไหว แต่พอเพื่อนมาเยอะๆ ทำทุกเดือน ผมก็อยู่ได้ นั่นคือจุดเริ่ม ของ model ครั้งละ 5,000\n\nส่วนใหญ่เพื่อนผม วงการหมอ และมีเพื่อนจากร้านเหล้าที่ผมชอบไปบ้าง พวกเขาบอกผมว่า 5,000 คือตัดสินใจง่าย ทำทุกเดือนแบบต่อเนื่องได้ ไม่ต้องคิดมาก ไม่ผูกมัด ไม่กดดัน\n\nโปรแกรมที่เพื่อนชอบมาทำ คือยกกระชับ กับ งานผิวทั่วไป คนที่มีปัญหาหนักหน่อยอย่างหลุมสิว ก็มาต่อเนื่องตลอดปี\n\nผลคือ หน้าเพื่อนๆ ดีขึ้นเรื่อยๆ ทุกคนกลับมาเองโดยที่ผมไม่ต้องขาย\n\nทุกวันนี้ ร้านเหล้าที่ผมชอบไป น่าจะเป็นร้านที่มีคนหน้าตาดีเยอะที่สุดในกรุงเทพ จากฝีมือผมเอง 5555\n\nนี่คือ Clarity model ครับ จ่ายทีละครั้ง 5,000 ไม่ต้องผูกคอร์ส ทุกเดือนมาเจอผม\n\nอยากเจอผมบ้าง ปรึกษาฟรี ทางบ้านเขียว clarityclinic",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "ทำไมร้านเหล้าที่ผมชอบไป มีคนหน้าตาดีที่สุดในกรุงเทพ",
+          "prompt": "B-roll bar interior silhouettes · mood lighting · cocktail glasses · ไม่เห็นหน้าใคร · cinematic mystery",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "4s",
+          "avatar_position": "pip",
+          "phrase": "เพราะผมทำหน้าให้เพื่อนผมเองครับ 5555",
+          "prompt": "cut to clinic equipment + cocktail glass on same shot · playful reveal · 5555 stamp text overlay"
+        },
+        {
+          "scene": 3,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผมจะเล่าให้ฟัง ครั้งละ 5,000 ที่ Clarity ใช้ มาจากตอนที่ผมทำหน้าให้เพื่อนๆ",
+          "prompt": "\"5,000\" price tag close-up · doctor's hands consult notes · origin story vibe"
+        },
+        {
+          "scene": 4,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ตอนเริ่ม ผมไม่อยากเก็บเพื่อนแพง เลยตั้งราคาแบบที่จ่ายไหว",
+          "prompt": "handwritten price list \"friend price 5,000\" · soft warm desk lamp · friendly mood"
+        },
+        {
+          "scene": 5,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "แต่พอเพื่อนมาเยอะๆ ทำทุกเดือน ผมก็อยู่ได้",
+          "prompt": "calendar monthly dots growing · multiple silhouettes returning · sustained business visualization"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "นั่นคือจุดเริ่ม ของ model ครั้งละ 5,000",
+          "prompt": "\"Origin · 5,000 model\" stamp · timeline marker · clean medical professional"
+        },
+        {
+          "scene": 7,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ส่วนใหญ่เพื่อนผม วงการหมอ และมีเพื่อนจากร้านเหล้าที่ผมชอบไปบ้าง",
+          "prompt": "split — stethoscope icon vs cocktail glass icon · diverse friend group visualization · ไม่เห็นหน้า"
+        },
+        {
+          "scene": 8,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "พวกเขาบอกผมว่า 5,000 คือตัดสินใจง่าย ทำทุกเดือนแบบต่อเนื่องได้",
+          "prompt": "speech bubbles \"5,000 = ง่าย\" · monthly appointment calendar · friendly testimonial vibe"
+        },
+        {
+          "scene": 9,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ไม่ต้องคิดมาก ไม่ผูกมัด ไม่กดดัน",
+          "prompt": "chain breaking + lightbulb easy thought · freedom visual · clean"
+        },
+        {
+          "scene": 10,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "โปรแกรมที่เพื่อนชอบมาทำ คือยกกระชับ กับ งานผิวทั่วไป",
+          "prompt": "2 program icons — face lifting + skin glow · macro device close-ups quick · clinical premium"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "คนที่มีปัญหาหนักหน่อยอย่างหลุมสิว ก็มาต่อเนื่องตลอดปี",
+          "prompt": "subcision device + 12-month calendar dots · annual maintenance visualization"
+        },
+        {
+          "scene": 12,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผลคือ หน้าเพื่อนๆ ดีขึ้นเรื่อยๆ ทุกคนกลับมาเองโดยที่ผมไม่ต้องขาย",
+          "prompt": "silhouettes returning to clinic cycle animation · ไม่เห็นหน้า · organic referral visualization"
+        },
+        {
+          "scene": 13,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ทุกวันนี้ ร้านเหล้าที่ผมชอบไป น่าจะเป็นร้านที่มีคนหน้าตาดีเยอะที่สุดในกรุงเทพ",
+          "prompt": "bar silhouette wider shot · subtle \"Bangkok's prettiest crowd\" playful overlay · ไม่เห็นหน้า"
+        },
+        {
+          "scene": 14,
+          "duration": "4s",
+          "avatar_position": "pip",
+          "phrase": "จากฝีมือผมเอง 5555",
+          "prompt": "doctor's hand signature · \"5555\" text laugh overlay · playful close"
+        },
+        {
+          "scene": 15,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "นี่คือ Clarity model ครับ จ่ายทีละครั้ง 5,000 ไม่ต้องผูกคอร์ส ทุกเดือนมาเจอผม",
+          "prompt": "\"Clarity Model\" stamp + \"5,000/ครั้ง · ไม่ผูกคอร์ส · ทุกเดือน\" · clean brand summary",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 16,
+          "duration": "4s",
+          "avatar_position": "full_body",
+          "phrase": "อยากเจอผมบ้าง ปรึกษาฟรี ทางบ้านเขียว clarityclinic",
+          "prompt": "LINE OA (green prominent — บ้านเขียว) chat mockup · CTA card · clean premium",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "AM4",
+      "title": "ทำไมคลินิกอื่นไม่ทำแบบนั้น",
+      "week": 4,
+      "day": "อ.",
+      "time": "16:00",
+      "pillar": 3,
+      "format": "Avatar",
+      "length": "~70s",
+      "cta": "คุณอยู่ทีมไหน คอร์สผูกมัด หรือ จ่ายทีละครั้ง คอมเม้นต์มาเลย",
+      "tts_script": "ผมเคยเล่าว่า ครั้งละ 5,000 ที่ Clarity มาจากการทำหน้าให้เพื่อน แล้วทำไมคลินิกอื่น ถึงไม่ทำแบบนั้น\n\nคำตอบสั้นๆ ครับ เพราะถ้าจ่ายทีละครั้ง คลินิกบางที่อยู่ไม่ได้\n\nนี่คือ math ของวงการ คลินิกต้องจ่าย ค่าเช่าตึก ค่าเครื่องเลเซอร์ ค่าพนักงาน ทุกเดือน ไม่ว่ามีคนไข้กี่คน\n\nคอร์ส 100,000 ขายครั้งเดียว เท่ากับ cashflow ก้อนใหญ่ คลินิกรอด แต่คนไข้เสี่ยงเอง ถ้าผิวคุณไม่ตอบสนอง คุณเปลี่ยนใจไม่ได้ ผูกมัดเสร็จ เสียเงินทิ้ง\n\nที่ Clarity ผมเลือกแบบเพื่อน คือ 5,000 ครั้งเดียว ถ้าคุณเห็นว่าทำแล้วดี กลับมาทำต่อ ถ้ารู้สึกไม่ใช่ เปลี่ยนใจได้\n\nผมเลือกแบบนี้ เพราะเชื่อว่า ลูกค้าที่กลับมาเอง ดีกว่าลูกค้าที่ถูกผูกไว้\n\nคุณอยู่ทีมไหน คอร์สผูกมัด หรือ จ่ายทีละครั้ง คอมเม้นต์มาเลย",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "ผมเคยเล่าว่า ครั้งละ 5,000 ที่ Clarity มาจากการทำหน้าให้เพื่อน",
+          "prompt": "callback frame from PS5 — cocktail glass + clinic equipment shot · subtle \"previously\" stamp",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "แล้วทำไมคลินิกอื่น ถึงไม่ทำแบบนั้น",
+          "prompt": "question mark + clinic building generic silhouette · curious mood · clean"
+        },
+        {
+          "scene": 3,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "คำตอบสั้นๆ ครับ เพราะถ้าจ่ายทีละครั้ง คลินิกบางที่อยู่ไม่ได้",
+          "prompt": "empty clinic chairs + cash flow graph dropping · serious math reveal"
+        },
+        {
+          "scene": 4,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "นี่คือ math ของวงการ",
+          "prompt": "spreadsheet + calculator close-up · numbers on screen · honest analytical"
+        },
+        {
+          "scene": 5,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "คลินิกต้องจ่าย ค่าเช่าตึก ค่าเครื่องเลเซอร์ ค่าพนักงาน ทุกเดือน",
+          "prompt": "3 cost icons (building · laser device · staff) + recurring monthly bills visualization"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ไม่ว่ามีคนไข้กี่คน",
+          "prompt": "empty waiting chairs + bills stacking · honest cost pressure visual"
+        },
+        {
+          "scene": 7,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "คอร์ส 100,000 ขายครั้งเดียว เท่ากับ cashflow ก้อนใหญ่",
+          "prompt": "cash bundle \"100,000\" flowing into clinic safe · big single payment visualization"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "คลินิกรอด แต่คนไข้เสี่ยงเอง",
+          "prompt": "clinic building safe vs patient silhouette with chain · contrast risk visual"
+        },
+        {
+          "scene": 9,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ถ้าผิวคุณไม่ตอบสนอง คุณเปลี่ยนใจไม่ได้ ผูกมัดเสร็จ เสียเงินทิ้ง",
+          "prompt": "chain locked around cash · X mark \"เปลี่ยนใจไม่ได้\" · cash bundle burning"
+        },
+        {
+          "scene": 10,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ที่ Clarity ผมเลือกแบบเพื่อน คือ 5,000 ครั้งเดียว",
+          "prompt": "chain breaking + \"5,000\" single bill + cocktail glass subtle callback · freedom mood"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ถ้าคุณเห็นว่าทำแล้วดี กลับมาทำต่อ",
+          "prompt": "silhouette returning to clinic naturally · multiple visits cycle · positive flow"
+        },
+        {
+          "scene": 12,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ถ้ารู้สึกไม่ใช่ เปลี่ยนใจได้",
+          "prompt": "silhouette walking out · freedom + no obligation · honest reassuring"
+        },
+        {
+          "scene": 13,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผมเลือกแบบนี้ เพราะเชื่อว่า ลูกค้าที่กลับมาเอง ดีกว่าลูกค้าที่ถูกผูกไว้",
+          "prompt": "2 patient silhouettes — one returning happily vs one locked unwillingly · contrast"
+        },
+        {
+          "scene": 14,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "คุณอยู่ทีมไหน คอร์สผูกมัด หรือ จ่ายทีละครั้ง คอมเม้นต์มาเลย",
+          "prompt": "2-team vote graphic \"ทีมคอร์ส vs ทีมทีละครั้ง\" + comment bubbles popping · engagement CTA",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "PE5",
+      "title": "Picolaser หน้าแหก · สม่ำเสมอ",
+      "week": 4,
+      "day": "พ.",
+      "time": "17:00",
+      "pillar": 2,
+      "format": "Avatar",
+      "length": "~85s",
+      "cta": "save ไว้เลยครับ ก่อนใครชวนไปทำเลเซอร์หน้าแหก เปิดดูซะ",
+      "tts_script": "ทำพลังงานต่ำบ่อยๆ ดีกว่า ทำแรงๆ ทีเดียว\n\nเคยเห็นคลิป picolaser หน้าเลือดแดงสาดไหมครับ แดงเป็นจุดๆ ทั่วหน้า สมัยนี้ ใครยิงอย่างงั้น เสี่ยง complication เสี่ยงรอยดำหลังยิง สมัยนี้ เรายิงที่ระดับ end point พอ ไม่ต้องถึงระดับเลือด ไม่เสี่ยง complication ไม่ทิ้งรอยดำหลังยิง\n\nหลายคนคิดว่า ยิงเลเซอร์แรง ผลดีกว่า เจ็บมาก เท่ากับ effective มาก ความจริงคือ ตรงข้าม ผิวเราไม่ใช่กล้ามเนื้อ ไม่ใช่ยิ่งหนัก ยิ่งได้ผล\n\nผิวคือเนื้อเยื่อที่บอบบาง ต้องการการกระตุ้นแบบสม่ำเสมอ ให้ร่างกายค่อยๆ สร้าง collagen ใหม่ ไม่ใช่ shock treatment ครั้งเดียวจบ\n\nยิงแรงครั้งเดียว เท่ากับ ผิวบาดเจ็บ downtime นาน complication เสี่ยง\n\nทำพลังงานต่ำสม่ำเสมอ เท่ากับ ผิวฮีลทัน แต่ละครั้งเสริมขึ้นมา คุมผลได้\n\nเปรียบเหมือนออกกำลังกาย ใครจะแข็งแรงกว่า คนที่ยกหนัก 200 กิโล อาทิตย์ละครั้ง หรือ คนที่ออกกำลังกาย 30 นาทีทุกวัน คำตอบชัดครับ\n\nผมเลยใช้พลังงานที่เหมาะกับผิว ทำต่อเนื่อง ทุก 1 ถึง 2 เดือน ครั้งละ 5,000 แล้วเดี๋ยวหมอออกแบบโปรแกรมให้ คนไข้บอกเสมอ พอเปลี่ยนเป็นแบบนี้ หน้าตึงกว่ามาก\n\nsave ไว้เลยครับ ก่อนใครชวนไปทำเลเซอร์หน้าแหก เปิดดูซะ",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "4s",
+          "avatar_position": "full_body",
+          "phrase": "ทำพลังงานต่ำบ่อยๆ ดีกว่า ทำแรงๆ ทีเดียว",
+          "prompt": "2 dumbbells visual — heavy vs light + \"?\" between · clean comparison",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "เคยเห็นคลิป picolaser หน้าเลือดแดงสาดไหมครับ แดงเป็นจุดๆ ทั่วหน้า",
+          "prompt": "blurred stock B-roll of aggressive laser aftermath — red dotted texture · ไม่เห็นหน้าระบุได้ · honest warning"
+        },
+        {
+          "scene": 3,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "สมัยนี้ ใครยิงอย่างงั้น เสี่ยง complication เสี่ยงรอยดำหลังยิง",
+          "prompt": "warning icons — complication + PIH (post-inflammatory hyperpigmentation) visual · honest medical"
+        },
+        {
+          "scene": 4,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "สมัยนี้ เรายิงที่ระดับ end point พอ ไม่ต้องถึงระดับเลือด",
+          "prompt": "\"end point\" laser dial visualization · controlled gentle pulse · clean modern technique"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ไม่เสี่ยง complication ไม่ทิ้งรอยดำหลังยิง",
+          "prompt": "checkmark \"no complication\" + clear skin after · clean honest contrast"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "หลายคนคิดว่า ยิงเลเซอร์แรง ผลดีกว่า เจ็บมาก เท่ากับ effective มาก",
+          "prompt": "myth bubble \"เจ็บมาก = ดี\" with strike-through · honest reframe"
+        },
+        {
+          "scene": 7,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ความจริงคือ ตรงข้าม ผิวเราไม่ใช่กล้ามเนื้อ ไม่ใช่ยิ่งหนัก ยิ่งได้ผล",
+          "prompt": "skin tissue cross-section vs muscle fiber contrast · honest medical comparison"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผิวคือเนื้อเยื่อที่บอบบาง ต้องการการกระตุ้นแบบสม่ำเสมอ",
+          "prompt": "gentle pulses animation on skin cross-section · steady stimulation visualization"
+        },
+        {
+          "scene": 9,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ให้ร่างกายค่อยๆ สร้าง collagen ใหม่ ไม่ใช่ shock treatment ครั้งเดียวจบ",
+          "prompt": "slow collagen growth animation vs shock spike with X · gradual win visual"
+        },
+        {
+          "scene": 10,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ยิงแรงครั้งเดียว เท่ากับ ผิวบาดเจ็บ downtime นาน complication เสี่ยง",
+          "prompt": "aftermath visual — swollen red + warning icons + long calendar bar · honest realistic"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ทำพลังงานต่ำสม่ำเสมอ เท่ากับ ผิวฮีลทัน แต่ละครั้งเสริมขึ้นมา คุมผลได้",
+          "prompt": "gentle pulse + healing animation + steady progress curve · positive cumulative"
+        },
+        {
+          "scene": 12,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "เปรียบเหมือนออกกำลังกาย ใครจะแข็งแรงกว่า",
+          "prompt": "2 silhouettes — powerlifter pose vs jogger · ไม่เห็นหน้า · gym mood"
+        },
+        {
+          "scene": 13,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "คนที่ยกหนัก 200 กิโล อาทิตย์ละครั้ง หรือ คนที่ออกกำลังกาย 30 นาทีทุกวัน คำตอบชัดครับ",
+          "prompt": "barbell \"200kg\" weekly vs jogger daily · scale balance winner clear · honest analogy"
+        },
+        {
+          "scene": 14,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ผมเลยใช้พลังงานที่เหมาะกับผิว ทำต่อเนื่อง ทุก 1 ถึง 2 เดือน ครั้งละ 5,000",
+          "prompt": "calendar 1-2 month dots + \"5,000\" price tag · sustained rhythm visualization"
+        },
+        {
+          "scene": 15,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "แล้วเดี๋ยวหมอออกแบบโปรแกรมให้ คนไข้บอกเสมอ พอเปลี่ยนเป็นแบบนี้ หน้าตึงกว่ามาก",
+          "prompt": "doctor's hand drafting custom program · \"หน้าตึงกว่ามาก\" testimonial overlay · positive"
+        },
+        {
+          "scene": 16,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "save ไว้เลยครับ ก่อนใครชวนไปทำเลเซอร์หน้าแหก เปิดดูซะ",
+          "prompt": "phone save + warning icon · \"หน้าแหก\" stamp · friendly utility CTA",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "PS6",
+      "title": "เคสที่หมอ refuse upsell",
+      "week": 4,
+      "day": "พฤ.",
+      "time": "19:00",
+      "pillar": 1,
+      "format": "Real",
+      "length": "~80s",
+      "cta": "อยากให้หมอประเมินก่อน ปรึกษาฟรี ทางบ้านเขียว clarityclinic",
+      "tts_script": "วันนั้นผมบอกคนไข้ว่า คุณจ่ายเยอะเกินไป\n\nเคสนี้คนไข้ผู้ชาย อายุ 32 ทำงานออฟฟิศ มาที่ Clarity ครั้งแรก บอกว่าอยากทำ Acne Scar Pass 4 ครั้ง 29,900 ที่ผมขายอยู่บนเว็บ จ่ายเงินสดเลย\n\nผมขอเช็คผิวก่อน พอเช็คเสร็จ ผมบอกตรงๆ คุณไม่ต้องทำ Pass 4 ครั้งครับ หลุมของคุณไม่ลึก แค่ subcision 1 ถึง 2 ครั้ง ครั้งละ 5,000 ก็พอ รวมไม่เกิน 10,000 บาท\n\nคนไข้งงครับ ถามว่าหมอไม่อยากได้เงินก้อนใหญ่หรอ ผมบอกว่า เงินก้อนใหญ่ที่คุณจ่ายเกินจำเป็น คุณจะรู้สึกถูกหลอก กลับมาไม่ได้แล้ว ผมเลือกแบบยาวๆ ดีกว่า\n\nคนไข้ทำ subcision 2 ครั้ง ห่างกัน 2 เดือน ผิวดีขึ้นชัด เขาส่งเพื่อนมาที่ Clarity ตลอด ปีที่แล้วผมรับลูกค้าจากเขา 7 คน\n\nหมอที่ไม่อัพเซลล์ คือหมอที่หวังให้คุณกลับมา และพาเพื่อนกลับมาด้วย\n\nอยากให้หมอประเมินก่อน ปรึกษาฟรี ทางบ้านเขียว clarityclinic",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "วันนั้นผมบอกคนไข้ว่า คุณจ่ายเยอะเกินไป",
+          "prompt": "tablet showing Pass 29,900 price page · doctor's hand making \"wait\" gesture · serious mood",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "เคสนี้คนไข้ผู้ชาย อายุ 32 ทำงานออฟฟิศ",
+          "prompt": "B-roll office guy silhouette at desk · ไม่เห็นหน้า · cinematic realistic"
+        },
+        {
+          "scene": 3,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "มาที่ Clarity ครั้งแรก บอกว่าอยากทำ Acne Scar Pass 4 ครั้ง 29,900",
+          "prompt": "phone screen clarityclinic.co Pass page · price highlighted 29,900 · clean web UI"
+        },
+        {
+          "scene": 4,
+          "duration": "4s",
+          "avatar_position": "pip",
+          "phrase": "ที่ผมขายอยู่บนเว็บ จ่ายเงินสดเลย",
+          "prompt": "cash bundle laid on consult desk · ready to pay · ไม่เห็นหน้า"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผมขอเช็คผิวก่อน",
+          "prompt": "Trica3D scan in progress · monitor showing 3D mesh · clinical examination"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "พอเช็คเสร็จ ผมบอกตรงๆ คุณไม่ต้องทำ Pass 4 ครั้งครับ",
+          "prompt": "Pass package box with strike-through · \"ไม่ต้อง\" stamp · honest direct"
+        },
+        {
+          "scene": 7,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "หลุมของคุณไม่ลึก แค่ subcision 1 ถึง 2 ครั้ง",
+          "prompt": "3D scan showing shallow scars · arrows pointing · \"1-2 ครั้ง\" recommendation overlay"
+        },
+        {
+          "scene": 8,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ครั้งละ 5,000 ก็พอ รวมไม่เกิน 10,000 บาท",
+          "prompt": "math breakdown 5,000 x 2 = 10,000 · clean honest calculation graphic"
+        },
+        {
+          "scene": 9,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "คนไข้งงครับ ถามว่าหมอไม่อยากได้เงินก้อนใหญ่หรอ",
+          "prompt": "silhouette confused gesture · \"?\" thought bubble · big cash bundle pushed away"
+        },
+        {
+          "scene": 10,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "ผมบอกว่า เงินก้อนใหญ่ที่คุณจ่ายเกินจำเป็น คุณจะรู้สึกถูกหลอก กลับมาไม่ได้แล้ว",
+          "prompt": "split — happy returning patient vs angry departing patient · long-term vs short-term contrast"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผมเลือกแบบยาวๆ ดีกว่า",
+          "prompt": "long-term timeline graph rising · \"ยาวๆ\" stamp · honest philosophy"
+        },
+        {
+          "scene": 12,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "คนไข้ทำ subcision 2 ครั้ง ห่างกัน 2 เดือน ผิวดีขึ้นชัด",
+          "prompt": "calendar 2 sessions spaced + before/after subtle improvement · honest realistic"
+        },
+        {
+          "scene": 13,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "เขาส่งเพื่อนมาที่ Clarity ตลอด ปีที่แล้วผมรับลูกค้าจากเขา 7 คน",
+          "prompt": "network animation — 1 patient silhouette → 7 friend silhouettes connect · referral graphic"
+        },
+        {
+          "scene": 14,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "หมอที่ไม่อัพเซลล์ คือหมอที่หวังให้คุณกลับมา และพาเพื่อนกลับมาด้วย",
+          "prompt": "\"ไม่อัพเซลล์ = หวังให้กลับมา\" stamp + organic referral cycle visualization · trust mood",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 15,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "อยากให้หมอประเมินก่อน ปรึกษาฟรี ทางบ้านเขียว clarityclinic",
+          "prompt": "LINE OA (green theme — บ้านเขียว) + \"ปรึกษาฟรี\" CTA card · clean premium",
+          "b_roll_region": "top_half"
+        }
+      ]
+    },
+    {
+      "id": "TC5",
+      "title": "Skin cycling routine หลังเลเซอร์",
+      "week": 4,
+      "day": "อา.",
+      "time": "20:00",
+      "pillar": 4,
+      "format": "Real",
+      "length": "~85s",
+      "cta": "save ไว้เลยครับ พิมพ์ออกแปะข้างกระจกห้องน้ำได้เลย",
+      "tts_script": "หลังทำเลเซอร์ 1 สัปดาห์ ทำ skincare ยังไง\n\nผมจะแชร์ skincare routine ที่แนะนำคนไข้ Clarity หลังทำเลเซอร์ครับ\n\nอาทิตย์แรก ผิวยังบอบบาง ทาแค่มอยซ์ กับ กันแดด SPF 50 พอ ห้ามใช้สาร active ทุกชนิด\n\nหลัง 1 สัปดาห์ เริ่มทำ skin cycling ได้ Skin cycling คือ การวนสารกับการพัก ผิวจะไม่ระคายเคือง แต่ได้ประโยชน์ครบ\n\nกลางคืน วนกัน 3 คืน\n\nคืนที่ 1 ทา retinol ช่วยกระตุ้น cell turnover ทำให้ผิวสร้างใหม่เร็วขึ้น\n\nคืนที่ 2 ทา AHA หรือ BHA ผลัดเซลล์ผิว ลดการอุดตัน\n\nคืนที่ 3 พักหน้า ทาแค่มอยซ์อย่างเดียว ให้ผิวซ่อมแซมตัวเอง\n\nวนแบบนี้ไปเรื่อยๆ จะได้สุขภาพผิวที่ดี ไม่ระคายเคือง\n\nกลางวันทุกวัน ตื่นมาก็โบกมอยซ์ก่อนเลย ตามด้วยวิตามินซี และกันแดด SPF 50 ออกจากบ้านได้\n\nroutine นี้ใช้กับคนไข้ Clarity มาเป็นปี ผิวสุขภาพดีขึ้นชัด ลด complication หลังทำเลเซอร์ได้\n\nsave ไว้เลยครับ พิมพ์ออกแปะข้างกระจกห้องน้ำได้เลย",
+      "scenes": [
+        {
+          "scene": 1,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "หลังทำเลเซอร์ 1 สัปดาห์ ทำ skincare ยังไง",
+          "prompt": "skincare bottles arranged in skin-cycling order on bathroom counter · soft natural light · clean",
+          "b_roll_region": "top_half"
+        },
+        {
+          "scene": 2,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผมจะแชร์ skincare routine ที่แนะนำคนไข้ Clarity หลังทำเลเซอร์ครับ",
+          "prompt": "doctor's hand writing routine on notepad · clipboard ready · friendly mood"
+        },
+        {
+          "scene": 3,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "อาทิตย์แรก ผิวยังบอบบาง ทาแค่มอยซ์ กับ กันแดด SPF 50 พอ",
+          "prompt": "2 simple bottles — moisturizer + SPF 50 close-up · Day 1-7 calendar overlay · clean"
+        },
+        {
+          "scene": 4,
+          "duration": "4s",
+          "avatar_position": "pip",
+          "phrase": "ห้ามใช้สาร active ทุกชนิด",
+          "prompt": "skincare bottles with X marks — retinol, acids · \"active\" with strike-through · warning"
+        },
+        {
+          "scene": 5,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "หลัง 1 สัปดาห์ เริ่มทำ skin cycling ได้",
+          "prompt": "calendar \"Week 2\" marker · skin cycling badge unlocked · clean transition"
+        },
+        {
+          "scene": 6,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "Skin cycling คือ การวนสารกับการพัก ผิวจะไม่ระคายเคือง แต่ได้ประโยชน์ครบ",
+          "prompt": "3-night cycle animation graphic — N1 → N2 → N3 → repeat · clean educational visual"
+        },
+        {
+          "scene": 7,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "กลางคืน วนกัน 3 คืน",
+          "prompt": "night moon + 3 calendar dots cycling · clean rotation animation"
+        },
+        {
+          "scene": 8,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "คืนที่ 1 ทา retinol ช่วยกระตุ้น cell turnover ทำให้ผิวสร้างใหม่เร็วขึ้น",
+          "prompt": "\"Night 1\" marker + retinol bottle generic close-up + cell renewal animation"
+        },
+        {
+          "scene": 9,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "คืนที่ 2 ทา AHA หรือ BHA ผลัดเซลล์ผิว ลดการอุดตัน",
+          "prompt": "\"Night 2\" marker + AHA/BHA bottle generic + exfoliation animation showing dead cells lifting"
+        },
+        {
+          "scene": 10,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "คืนที่ 3 พักหน้า ทาแค่มอยซ์อย่างเดียว ให้ผิวซ่อมแซมตัวเอง",
+          "prompt": "\"Night 3\" marker + moisturizer only + healing animation · pause/rest visual"
+        },
+        {
+          "scene": 11,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "วนแบบนี้ไปเรื่อยๆ จะได้สุขภาพผิวที่ดี ไม่ระคายเคือง",
+          "prompt": "continuous cycle loop animation · healthy skin glow result · positive flow"
+        },
+        {
+          "scene": 12,
+          "duration": "6s",
+          "avatar_position": "pip",
+          "phrase": "กลางวันทุกวัน ตื่นมาก็โบกมอยซ์ก่อนเลย",
+          "prompt": "morning sun + moisturizer bottle being applied · soft daylight mood"
+        },
+        {
+          "scene": 13,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ตามด้วยวิตามินซี และกันแดด SPF 50 ออกจากบ้านได้",
+          "prompt": "morning routine 3-step — moisturizer → vit C → SPF 50 bottles in order · clean sequence"
+        },
+        {
+          "scene": 14,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "routine นี้ใช้กับคนไข้ Clarity มาเป็นปี",
+          "prompt": "calendar 1 year marker + multiple patient silhouettes · ใช้มาเป็นปี stamp"
+        },
+        {
+          "scene": 15,
+          "duration": "5s",
+          "avatar_position": "pip",
+          "phrase": "ผิวสุขภาพดีขึ้นชัด ลด complication หลังทำเลเซอร์ได้",
+          "prompt": "positive skin health trend graph + complication icons with strike-through"
+        },
+        {
+          "scene": 16,
+          "duration": "5s",
+          "avatar_position": "full_body",
+          "phrase": "save ไว้เลยครับ พิมพ์ออกแปะข้างกระจกห้องน้ำได้เลย",
+          "prompt": "phone save + printed routine card taped to bathroom mirror · friendly utility CTA",
+          "b_roll_region": "top_half"
+        }
+      ]
+    }
+  ]
+}
