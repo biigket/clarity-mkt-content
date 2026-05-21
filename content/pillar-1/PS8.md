@@ -1,0 +1,190 @@
+# PS8 — Before/After ฝ้า + กระแดด (5 ปี → จางลง 70%)
+
+**Pillar:** 1 (Patient Story & Result) · **Format:** Real · **Length:** 70-80s · **Aspect:** 9:16
+**Schedule:** Month 1 · Week 3 · พฤหัสบดี 19:00
+**Target:** Persona C (working women 30s)
+**Note:** เป็น clip แรกสำหรับ Persona C cross-sell · ฝ้าเป็น category รอง · ต้อง honest expectation
+
+---
+
+## Hook (0-3 วินาที)
+
+**Split screen: Before (5 ปี ก่อนมา Clarity) / After (3 sessions) · same angle · same lighting:**
+
+> หมอ Big VO: "ฝ้าที่รักษามา 5 ปี Clarity ใช้แบบไหน"
+
+**Visual:** Slow zoom into split-screen · cheek + cheekbone area
+**On-screen text:** "ฝ้า 5 ปี · 3 sessions"
+
+---
+
+## Script (3-72 วินาที)
+
+### Beat 1 — แนะนำเคส (3-15s)
+
+**หมอ Big to camera + B-roll คนไข้:**
+> "เคสนี้คนไข้ผู้หญิงทำงาน อายุปลาย 30s
+> ฝ้าหลังคลอด กระแดดเพิ่ม
+> เคยลองเลเซอร์ที่อื่น เคยใช้ครีม
+> แต่ฝ้ากลับมาตลอด"
+
+**Visual:** B-roll คนไข้ working at desk (with consent + permission to show face) · cut to ฝ้า close-up
+**On-screen text:** "อายุ 30s · ฝ้าหลังคลอด"
+
+### Beat 2 — ความจริงของฝ้า (15-30s)
+
+**หมอ Big, lean in (honest tone):**
+> "วันแรกผมบอกตรงๆ
+> ฝ้าไม่เหมือนหลุมสิว
+> ฝ้ามีฮอร์โมน UV เป็นตัวกระตุ้น
+> แม้รักษาดีแค่ไหน ก็มีโอกาสกลับมา ถ้าไม่ดูแลตัวเอง"
+
+**Visual:** หมอ Big direct + animated icon ฮอร์โมน + UV ray
+**On-screen text:** "ฝ้า ≠ หลุมสิว · กลับมาได้"
+
+### Beat 3 — Plan ที่ Clarity (30-45s)
+
+**หมอ Big VO + treatment shots:**
+> "ที่ Clarity ใช้ pico laser ที่ทำลาย melanin ละมุน ไม่ออกแรง
+> ผสม skincare ที่ลด melanin
+> ทำต่อเนื่อง ทุก 4 อาทิตย์"
+
+**Visual:** pico laser device + skincare bottle (generic) + calendar 4-week interval
+**On-screen text:** "Pico + Skincare · ทุก 4 wk"
+
+### Beat 4 — ผลลัพธ์ (45-58s)
+
+**หมอ Big VO + Before/After split:**
+> "หลัง 3 ครั้ง ฝ้าจางลงเยอะ
+> กระแดดหายไปประมาณ 70 เปอร์เซ็น
+> ผิวสว่างขึ้นเป็นชั้น"
+
+**Visual:** Before/After split-screen · subtle zoom on cheek
+**On-screen text:** "3 ครั้ง · ฝ้าจาง · กระ 70% หาย"
+
+### Beat 5 — Maintenance reality (58-68s)
+
+**หมอ Big, direct:**
+> "แต่ต้อง maintenance ทุก 2 ถึง 3 เดือน
+> ทาครีมกันแดดตลอด
+> นี่คือธรรมชาติของฝ้า ไม่ใช่หายขาด แต่ control ได้"
+
+**On-screen text:** "Maintenance · ไม่ใช่หายขาด · Control ได้"
+
+### Beat 6 — Patient voice (68-75s)
+
+**Cut to patient face (or blur if requested):**
+> Patient: "ฝ้าผมจางเยอะ มีคนทักทุกคน แต่หมอย้ำเสมอ ต้องทำต่อ ถ้าไม่ทำกลับมาเหมือนเดิม"
+
+**On-screen text:** "Patient · Working mom · 38"
+
+---
+
+## CTA (75-82s)
+
+**On-screen + voice:**
+> "อยากให้หมอวางแผนเรื่องฝ้า กระ ปรึกษาฟรี ทาง LINE แอด at clarityclinic"
+
+**Pinned comment:** "ราคา pico laser ดูที่ clarityclinic.co · ไม่ขายคอร์ส"
+
+---
+
+## Captions / On-screen Text
+
+- "ฝ้า 5 ปี · 3 sessions" (0-3s)
+- "อายุ 30s · ฝ้าหลังคลอด" (10s)
+- "ฝ้า ≠ หลุมสิว · กลับมาได้" (22s)
+- "Pico + Skincare · ทุก 4 wk" (38s)
+- "3 ครั้ง · ฝ้าจาง · กระ 70% หาย" (52s)
+- "Maintenance · ไม่ใช่หายขาด" (62s)
+- "Patient · Working mom · 38" (70s)
+- "LINE @clarityclinic" (78s)
+
+---
+
+## Hashtags (11 ตัว)
+
+`#ฝ้า #กระแดด #ผิวกระจ่าง #picolaser #หมอbig #clarityclinic #รักษาฝ้า #คลินิกราชเทวี #ราคาบนเว็บ #ไม่ขายคอร์ส #ผู้หญิงทำงาน`
+
+---
+
+## Disclaimer (สบส.)
+
+> "ผลลัพธ์ขึ้นอยู่กับสภาพผิวและการดูแลของแต่ละบุคคล · ฝ้าเป็นภาวะที่ต้องดูแลต่อเนื่อง · ปรึกษาแพทย์ก่อนรับการรักษา"
+
+ใส่เป็น text บนคลิป (sticky 45-58s ตอน before/after) + caption description
+
+---
+
+## Production Checklist
+
+### Pre-production — CRITICAL
+- [ ] **Patient consent ลายลักษณ์อักษร** — ใช้ template `assets/templates/patient-consent.md`
+- [ ] Patient sign ระบุ usage type ชัดเจน + ระบุ "working mom 38" tag
+- [ ] เลือก patient ที่ทำ 3 sessions + มี before photo · same angle/lighting
+- [ ] Mask identity ถ้า patient ขอ (blur eye area · ห้าม blur ฝ้า/กระ)
+- [ ] Patient interview script ส่งล่วงหน้า · ห้าม coach
+
+### Talent
+- หมอ Big — เสื้อยืดสี soft + เสื้อแล็บเปิด
+- Patient — สีหน้าธรรมชาติ · ไม่แต่งหน้า · lighting match before photo
+
+### Equipment
+- กล้อง 4K + tripod
+- Lavalier mic หมอ Big + patient
+- LED panel side 45° (warm 3200K) — match before photo
+- Reference photos จำเป็น
+
+### Setup
+- ห้าม retouch / filter / slim face
+- Color grade: warm tone match brand
+- A/B/A pattern: หมอ Big intro → patient → หมอ Big close
+
+---
+
+## Approval Gates
+
+1. **Script approved** — หมอ Big sign-off
+2. **Patient consent** — sign-off + initial usage type
+3. **Before photo verified** — timestamp + EXIF · same lighting
+4. **Recorded approved** — หมอ Big review
+5. **Final cut approved** — หมอ Big + ทีม สบส. compliance
+6. **Patient final approved** — preview ให้ patient 48 ชั่วโมงก่อน post
+
+---
+
+## Repurpose Plan
+
+| Platform | Format | Timing |
+|---|---|---|
+| TikTok @clarityclinic | 9:16 70-80s | T+0 |
+| IG Reels | 9:16 70-80s | T+1 hr |
+| Facebook Reels | 9:16 + caption ขยาย maintenance | T+24 hr |
+| Lemon8 | Long-form: "Maintenance plan สำหรับฝ้าหลังคลอด" | T+3 days |
+| YouTube Shorts | 9:16 + end card | T+7 days |
+| Facebook กลุ่มแม่ลูก | Cross-post + admin comment | T+5 days |
+
+---
+
+## Success Metrics (7-day window)
+
+- Views target: 35k (Persona C audience)
+- Engagement rate: ≥6%
+- Saves: ≥200 (ฝ้า maintenance reminder)
+- LINE OA add: ≥10 (lower bar — Persona C ใช้ Lemon8/FB หลัก)
+- Comment quality: ≥15 "ของฉันฝ้ามาก ทำได้ไหม"
+
+ถ้า top performer → ทำ PS8 sequel "1 ปี maintenance routine" + Lemon8 long-form
+
+---
+
+## Notes
+
+- **Patient consent = blocker** ห้ามถ่ายก่อน sign
+- **CRITICAL honest framing**: ฝ้า "control ได้" ไม่ใช่ "หาย" — หลีกเลี่ยง expectation creep
+- ห้ามใช้คำว่า "หายขาด" / "100%" / "การันตี" · ใช้ "จางลง" / "control ได้"
+- ตัวเลข "70%" = ของจริงเคสนี้ · ห้าม generalize ทุกเคส
+- ห้าม recommend specific skincare brand · generic only
+- Pair-clip กับ PS9 (รอยแดงหลังสิว) — narrative consistent สำหรับ Persona C
+- Persona C ดู Lemon8 มากกว่า TikTok — repurpose strategy weight Lemon8 หนัก
+- ถ้า cross-post Facebook กลุ่มแม่ลูก → admin reply ด้วยตัวเอง (ห้ามใช้ bot)

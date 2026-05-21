@@ -51,7 +51,8 @@
 >
 > วัยทำงาน ควรกินโปรตีน 100 กรัมต่อวัน
 > เฉลี่ย 25 ถึง 30 กรัม ต่อมื้อ
-> ไก่ครึ่งอก ปลาแซลมอนชิ้นนึง ไข่ 3 ฟอง = 30 กรัมแล้ว"
+> ปลาแซลมอนชิ้นนึง ไข่ 3 ฟอง เท่ากับ 30 กรัมแล้ว
+> ถ้ากินไม่พอก็เสริมโปรตีนพร้อมดื่มในเซเว่น 30 กรัม สัก 2 ขวด รับรองโปรตีนถึงแน่นอน"
 
 **Visual:** Cycle through food shots (warm lighting) + protein counter
 **On-screen text:** "100 ฿/วัน · 25-30g/มื้อ"
@@ -61,8 +62,7 @@
 **Avatar + lemon/orange visual:**
 > "วิตามินซีก็สำคัญ
 > เป็น cofactor ที่ร่างกายใช้สร้าง collagen
-> ขาดไม่ได้ครับ 1000 มิลลิกรัมต่อวัน
-> ฝรั่ง ส้ม กีวี เม็ดเดียวก็พอ"
+> ขาดไม่ได้ครับ 1000 มิลลิกรัมต่อวัน"
 
 **Visual:** Citrus fruits + vitamin C tablet + dose counter
 **On-screen text:** "Vitamin C · 1000 mg/วัน"
@@ -72,7 +72,7 @@
 **Avatar, lean in:**
 > "สรุปง่ายๆ ครับ
 > ก่อนซื้อ collagen drink 1,000 บาท
-> เอาเงินไปซื้อเนื้อปลาดีๆ คุ้มกว่าเยอะ"
+> เอาเงินไปกินแซลมอนอร่อยๆ คุ้มกว่าเยอะ"
 
 **Visual:** Drink box vs fish/meat at supermarket · scale balance
 **On-screen text:** "1,000 ฿ drink vs 1,000 ฿ food"
@@ -82,9 +82,9 @@
 ## CTA (72-80s)
 
 **Avatar, soft tone:**
-> "save ไว้เลยครับ ใครเพิ่งทำหลุมสิว นี่คือ 70 เปอร์เซ็น ที่อยู่กับคุณตลอดเวลา"
+> "save ไว้เลยครับ ใครเพิ่งทำหลุมสิว กินตามนี้ รับรองหลุมฟูแน่นอน"
 
-**On-screen:** "Save · 70% · ทุกมื้อ"
+**On-screen:** "Save · กินตามนี้ · หลุมฟู"
 **Pinned comment:** "ปรึกษาฟรี LINE @clarityclinic · ราคา treatment ดูที่ clarityclinic.co"
 
 ---
