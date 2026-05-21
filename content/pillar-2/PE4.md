@@ -11,11 +11,11 @@
 
 **Avatar หมอ Big · close-up · holding 30,000 baht bundle → animated money burn:**
 
-> "ลงทุน 30,000 ทำหลุมสิว ไม่ทากันแดด เท่ากับคุณเผา 30,000 ทิ้ง"
+> "ลงทุน 5,000 ทำหลุมสิว ไม่ทากันแดด เท่ากับคุณเผา 5,000 ทิ้ง"
 
 **Visual:** Cash bundle → flame animation → ashes
 **Sound:** subtle fire crackle (3s)
-**On-screen text:** "🔥 30,000 ฿"
+**On-screen text:** "🔥 5,000 ฿"
 
 ---
 
@@ -46,42 +46,42 @@
 
 **Avatar + sunscreen bottle visual:**
 > "ทางแก้ง่ายมากครับ
-> SPF 50 ทาทุก 2 ชั่วโมง
-> ครีมกันแดดที่ดีพอ ขวดละ 300 บาทขึ้นไป"
+> SPF 50 ทา 2 ข้อนิ้ว ทุกเช้า
+> ครีมกันแดดที่ดีมียี่ห้อนิดนึง ขวดละ 500 บาทขึ้นไป"
 
-**Visual:** SPF 50 bottle + clock showing 2-hour intervals
-**On-screen text:** "SPF 50 · ทุก 2 ชม. · 300฿+"
+**Visual:** SPF 50 bottle + 2-finger measurement visual
+**On-screen text:** "SPF 50 · 2 ข้อนิ้ว · ทุกเช้า"
 
 ### Beat 4 — Math punch (42-55s)
 
 **Avatar, lean in:**
-> "300 บาท เทียบกับ 30,000 ที่จะเผา
+> "500 บาท เทียบกับ 5,000 ที่จะเผา
 > คุณเลือกอันไหน
 > ครีมกันแดดคือสิ่งที่ราคาถูกที่สุด แต่สำคัญที่สุด ในการรักษาหลุมสิว"
 
-**Visual:** Scale balance — 300 ฿ bottle vs 30,000 ฿ burn
-**On-screen text:** "300 vs 30,000"
+**Visual:** Scale balance — 500 ฿ bottle vs 5,000 ฿ burn
+**On-screen text:** "500 vs 5,000"
 
 ---
 
 ## CTA (55-65s)
 
 **Avatar, soft tone:**
-> "save ไว้เลยครับ ใครเพิ่งทำหลุมสิว เปิดดูทุกเช้าก่อนออกจากบ้าน"
+> "save ไว้เลยครับ ใครมีเพื่อนเพิ่งทำหลุมสิว ส่งให้เขาดูซะ"
 
-**On-screen:** "Save · ทุกเช้าก่อนออกบ้าน"
+**On-screen:** "Save + Share · เตือนเพื่อน"
 **Pinned comment:** "ปรึกษาฟรี LINE @clarityclinic · ราคา treatment ดูที่ clarityclinic.co"
 
 ---
 
 ## Captions / On-screen Text
 
-- "🔥 30,000 ฿" (0-3s · large red)
+- "🔥 5,000 ฿" (0-3s · large red)
 - "ไม่ได้ขู่ · เรื่องจริง" (8s)
 - "UV = ทำลาย collagen" (sticky 15-30s)
-- "SPF 50 · ทุก 2 ชม. · 300฿+" (35s)
-- "300 vs 30,000" (48s · large)
-- "Save · ทุกเช้า" (60s)
+- "SPF 50 · 2 ข้อนิ้ว · ทุกเช้า" (35s)
+- "500 vs 5,000" (48s · large)
+- "Save + Share" (60s)
 
 ---
 

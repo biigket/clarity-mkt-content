@@ -9,85 +9,84 @@
 
 ## Hook (0-3 วินาที)
 
-**3-frame split screen: Day 7 / Day 30 / Day 90 · same angle · same lighting:**
+**3-frame split screen: หลังทำทันที / Day 7 / Day 60 · same angle · same lighting:**
 
-> หมอ Big VO: "วันที่ 7 ยังบวมแดง วันที่ 30 เริ่มเห็นผล วันที่ 90 มาดู"
+> หมอ Big VO: "หน้าแดง 5 วัน ได้ผลลัพธ์แบบนี้ คุ้มมั้ย?"
 
 **Visual:** Triple-pane comparison · slow zoom in
-**On-screen text:** "Day 7 · Day 30 · Day 90"
+**On-screen text:** "Day 0 · Day 7 · Day 60"
 
 ---
 
-## Script (3-65 วินาที)
+## Script (3-72 วินาที)
 
 ### Beat 1 — Intro timeline (3-12s)
 
 **หมอ Big to camera:**
-> "ผมจะพาดู timeline ของคนไข้ที่ทำ subcision ที่ Clarity
+> "ผมจะพาดู timeline ของคนไข้ที่ทำคอร์สรักษาหลุมสิว ที่ Clarity
 > ภาพถ่ายมุมเดียวกัน แสงเดียวกัน 3 ช่วง"
 
 **Visual:** Setup shot — photographer's reference grid · headrest marking same angle
 **On-screen text:** "Same angle · Same light · 3 timestamps"
 
-### Beat 2 — Day 7 (12-25s)
+### Beat 2 — หลังทำทันที (12-28s)
+
+**หมอ Big VO + Day 0 frame zoom:**
+> "หลังทำทันที บวมจากยาชา แดงจากเลเซอร์
+> หลุมสิวดูตื้นขึ้น เพราะเนื้อเยื่อบวม
+> คนไข้มักตกใจหลังทำ
+> ผมบอกเสมอ ตื่นมาพรุ่งนี้เช้า ก็ยุบลงเยอะแล้วครับ"
+
+**Visual:** Day 0 close-up · obvious redness/swelling · tissue inflammation
+**On-screen text:** "Day 0 · บวม + แดง = ปกติ"
+
+### Beat 3 — Day 7 (28-42s)
 
 **หมอ Big VO + Day 7 frame zoom:**
-> "Day 7 — บวมแดงครับ
-> หลุมยังเห็นชัด คนไข้ตกใจช่วงนี้บ่อย
-> แต่ผมบอกว่าให้รอ
-> ที่เห็นบวมคือ ร่างกายกำลังตอบสนองต่อ treatment"
-
-**Visual:** Day 7 close-up · subtle redness/swelling visible
-**On-screen text:** "Day 7 · บวมแดง = ร่างกายตอบสนอง"
-
-### Beat 3 — Day 30 (25-40s)
-
-**หมอ Big VO + Day 30 frame zoom:**
-> "Day 30 — บวมเริ่มหาย
-> หลุมเริ่มดูตื้นกว่าเดิม
+> "Day 7 บวมเริ่มหาย หลุมเริ่มดูตื้นกว่าเดิม
 > คอลลาเจนใหม่กำลังก่อตัว แต่ยังไม่เต็มที่
-> ใครวัดผลที่ Day 30 แล้วผิดหวัง คือวัดเร็วเกินไป"
+> ใครวัดผลที่ Day 7 แล้วผิดหวัง คือวัดเร็วเกินไป"
 
-**Visual:** Day 30 close-up · noticeable improvement vs Day 7
-**On-screen text:** "Day 30 · เริ่มดี · แต่ยังไม่จบ"
+**Visual:** Day 7 close-up · swelling subsiding · early improvement
+**On-screen text:** "Day 7 · เริ่มดี · แต่ยังไม่จบ"
 
-### Beat 4 — Day 90 (40-55s)
+### Beat 4 — Day 60 (42-58s)
 
-**หมอ Big VO + Day 90 frame zoom + side-by-side with Day 1:**
-> "Day 90 — คอลลาเจน mature เต็มที่
+**หมอ Big VO + Day 60 frame zoom + side-by-side with Day 0:**
+> "Day 60 คอลลาเจน mature เต็มที่
 > ผลที่แท้จริงโผล่ออกมา
 > หลุมตื้นกว่า Day 1 อย่างชัดเจน
 > นี่คือเหตุผลที่หมอบอกให้ดูยาวๆ ไม่ใช่ดูสั้น"
 
-**Visual:** Day 90 vs Day 1 split-screen · slow reveal
-**On-screen text:** "Day 90 · Collagen mature เต็มที่"
+**Visual:** Day 60 vs Day 0 split-screen · slow reveal
+**On-screen text:** "Day 60 · Collagen mature เต็มที่"
 
-### Beat 5 — Honest close (55-65s)
+### Beat 5 — Honest close (58-70s)
 
 **หมอ Big to camera:**
-> "บางคนวัดผลที่ Day 7 แล้วเลิก
-> เสียโอกาสที่ biology กำลังทำงานให้
-> ดูยาวๆ ครับ ไม่ใช่ดูครั้งเดียวแล้วตัดสิน"
+> "บางคนเห็น Day 7 แล้วท้อ คิดว่าไม่ได้ผล
+> แต่ที่จริงร่างกายกำลังสร้างคอลลาเจนใหม่อยู่
+> ต้องให้เวลาผิวสร้างของขึ้นมา ไม่ใช่ตัดสินจากครั้งเดียว"
 
 ---
 
-## CTA (65-72s)
+## CTA (70-77s)
 
 **On-screen + voice:**
-> "อยากให้หมอวางแผน timeline ของคุณ ปรึกษาฟรี LINE แอด at clarityclinic"
+> "อยากให้หมอวางแผน timeline ของคุณ ปรึกษาฟรี ทาง LINE แอด at clarityclinic"
 
-**Pinned comment:** "ราคา subcision + RF microneedling ดูที่ clarityclinic.co · ไม่ขายคอร์ส"
+**Pinned comment:** "ราคา treatment หลุมสิวทุกตัว ดูที่ clarityclinic.co · ไม่ขายคอร์ส"
 
 ---
 
 ## Captions / On-screen Text
 
-- "Day 7 · Day 30 · Day 90" (0-3s)
+- "Day 0 · Day 7 · Day 60" (0-3s)
 - "Same angle · Same light" (10s)
-- "Day 7 · บวมแดง = ร่างกายตอบสนอง" (20s)
-- "Day 30 · เริ่มดี · แต่ยังไม่จบ" (35s)
-- "Day 90 · Collagen mature เต็มที่" (50s)
-- "LINE @clarityclinic" (68s)
+- "Day 0 · บวม + แดง = ปกติ" (20s)
+- "Day 7 · เริ่มดี · แต่ยังไม่จบ" (35s)
+- "Day 60 · Collagen mature เต็มที่" (52s)
+- "LINE @clarityclinic" (75s)
 
 ---
 
