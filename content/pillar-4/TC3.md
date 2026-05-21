@@ -1,6 +1,6 @@
 # TC3 — ทัวร์ห้อง treatment ของ Clarity
 
-**Pillar:** 4 (Treatment & Clinic Experience) · **Format:** Real · **Length:** 60s · **Aspect:** 9:16
+**Pillar:** 4 (Treatment & Clinic Experience) · **Format:** Real · **Length:** 65s · **Aspect:** 9:16
 **Schedule:** Month 1 · Week 1 · อาทิตย์ 20:00
 **Target:** Persona A (office worker)
 
@@ -17,40 +17,40 @@
 
 ---
 
-## Script (3-55 วินาที)
+## Script (3-58 วินาที)
 
-### Beat 1 — ห้อง treatment (3-18s)
+### Beat 1 — ห้องเครื่องเลเซอร์ (3-25s)
 
-**หมอ Big walks + talks to camera:**
-> "ห้องนี้ออกแบบให้ calm นะครับ
-> ไม่ใช่ medical แข็งๆ
-> เพราะคนไข้ที่มาทำหลุมสิว เกร็งอยู่แล้ว
-> เราอยากให้รู้สึกเหมือนเข้าร้านทำผิวเพื่อนสนิท ไม่ใช่ห้อง ER"
+**หมอ Big walks into laser room + slow pan ผ่านเครื่อง:**
+> "ห้องแรกที่ผมจะพาดู คือห้องเครื่องเลเซอร์
+> ที่นี่มี picolaser, dermaV, fotona, doublo, microneedle RF, co2, erbium glass, diode laser เยอะมากครับ
+> เพราะหลุมสิวแต่ละคนตอบสนองไม่เหมือนกัน
+> ต้องรักษาให้ครบทุกชั้นผิว"
 
-**Visual:** pan ผ่านเตียง treatment · ผ้าปูสะอาด · แสง warm · ต้นไม้เล็ก
-**On-screen text:** "Calm · ไม่ใช่ ER"
+**Visual:** slow pan ผ่าน 8 เครื่อง · label brand visible · บรรยากาศ calm warm tone
+**On-screen text:** "8 เครื่อง · ครบทุกชั้นผิว"
 
-### Beat 2 — เครื่องมือ (18-35s)
+### Beat 2 — Philosophy + ราคาให้มาบ่อย (25-45s)
 
-**หมอ Big stops at equipment cart:**
-> "เครื่องมือทุกตัวที่ใช้ที่นี่
-> subcision, RF microneedling, ablative laser
-> เป็นเครื่องที่หมอใช้รักษาคนไข้ตัวเองจริง
-> ผมเลือกเอง ไม่ใช่ใช้เพราะใครให้ใช้"
+**หมอ Big to camera, lean in:**
+> "ผมเลือกเครื่องจากเทคโนโลยี ไม่ใช่จากความดังของเครื่อง
+> และใช้มันให้ชำนาญ เพื่อดึงประสิทธิภาพออกมาได้เต็มที่
+> และผมตั้งราคาให้เข้าถึงได้ คนไข้จะได้มาทำต่อเนื่อง ทุก 1 ถึง 2 เดือน
+> เพราะผิวต้องการความสม่ำเสมอ ไม่ใช่ความแรงครั้งเดียวแล้วรอเป็นปี"
 
-**Visual:** quick cut close-up เครื่องมือ 3 ตัว · label brand visible
-**On-screen text:** "Subcision · RF Microneedling · Ablative Laser"
+**Visual:** หมอ Big + cutaway B-roll เครื่องมือใช้งานจริง (ปลายมือถือเครื่อง)
+**On-screen text:** "สม่ำเสมอ > แรงครั้งเดียว"
 
-### Beat 3 — Lunch Hour setup (35-50s)
+### Beat 3 — ห้อง Postop Care (45-58s)
 
-**หมอ Big at after-care area:**
-> "ตรงนี้เป็นโซนหลังทำ
-> ล้างหน้า ทาบำรุง แต่งหน้าเบาๆ ก่อนกลับ
-> เพราะคนไข้ Clarity ส่วนใหญ่มาพักเที่ยง
-> ต้องกลับไปประชุมต่อบ่าย เราเลย design ให้ทำได้จริง"
+**หมอ Big walks to postop room:**
+> "อีกห้องที่ผมให้ความสำคัญ คือห้อง postop care สำหรับดูแลหลังทำ
+> โดยเฉพาะอบแสง
+> หรือถ้าคนไข้ว่าง ผมจะแนะนำให้เข้ามาอบแสง photodynamic therapy
+> เพราะจะยิ่งช่วยกระตุ้นคอลลาเจนไปอีกขั้น"
 
-**Visual:** mirror + skincare products + makeup essentials neat tray
-**On-screen text:** "Lunch hour · 30 นาที · กลับทำงานต่อได้"
+**Visual:** ห้อง postop care · เตียงพัก · light therapy device
+**On-screen text:** "Postop · PDT · กระตุ้นคอลลาเจนต่อ"
 
 ---
 
@@ -68,10 +68,10 @@
 ## Captions / On-screen Text
 
 - "Clarity Clinic · ราชเทวี" (0-3s)
-- "Calm · ไม่ใช่ ER" (12s)
-- "Subcision · RF Microneedling · Ablative Laser" (25s)
-- "Lunch hour · 30 นาที · กลับทำงานต่อได้" (45s)
-- "จองคิว LINE @clarityclinic" (55s)
+- "8 เครื่อง · ครบทุกชั้นผิว" (15s)
+- "สม่ำเสมอ > แรงครั้งเดียว" (35s)
+- "Postop · PDT · กระตุ้นคอลลาเจนต่อ" (50s)
+- "จองคิว LINE @clarityclinic" (60s)
 
 ---
 
@@ -84,10 +84,11 @@
 ## Production Checklist
 
 ### Pre-production
-- [ ] ห้อง treatment พร้อม · ผ้าปูใหม่ · แสง warm · ห้ามมีคนไข้ในเฟรม
-- [ ] เครื่องมือ 3 ตัวจัด display ที่ cart · label brand ชัด
-- [ ] After-care area จัด tidy · skincare products + makeup essentials
-- [ ] Front desk + ป้าย Clarity logo ชัด
+- [ ] ห้องเลเซอร์พร้อม · เครื่องทั้ง 8 ตัวจัด display + dust off + label visible
+- [ ] ตรวจ checklist: picolaser, dermaV, fotona, doublo, microneedle RF, co2, erbium glass, diode laser
+- [ ] ห้อง postop care จัด tidy · light therapy device พร้อม
+- [ ] ห้ามมีคนไข้ในเฟรม · ห้ามมีข้อมูลคนไข้ปรากฏบนจอ
+- [ ] Front desk + ป้าย Clarity logo ชัด (intro/outro shot)
 
 ### Talent
 - หมอ Big — เสื้อยืดสี sage หรือ coral + เสื้อแล็บเปิด (warm side)
@@ -100,7 +101,7 @@
 - B-roll camera secondary สำหรับ close-up เครื่องมือ
 
 ### Setup
-- Walk path: ประตูห้อง → เตียง → equipment cart → after-care area → front desk
+- Walk path: ประตู → ห้องเลเซอร์ (pan 8 เครื่อง) → ห้อง postop care → front desk
 - One-take ถ้าเป็นไปได้ · ตัดให้ดูเชื่อมต่อ
 - Color grade: warm tone match brand palette
 
