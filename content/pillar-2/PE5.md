@@ -1,6 +1,6 @@
 # PE5 — สม่ำเสมอ vs พลังงานสูง · ทำไม Clarity ใช้ pulse ละมุน
 
-**Pillar:** 2 (Education & Philosophy) · **Format:** Avatar · **Length:** 65-75s · **Aspect:** 9:16
+**Pillar:** 2 (Education & Philosophy) · **Format:** Avatar · **Length:** 85-90s · **Aspect:** 9:16
 **Schedule:** Month 1 · Week 4 · พุธ 17:00
 **Target:** Persona A (office worker), C (working women 30s)
 **Style:** Core philosophy clip · ตรง North Star "ความสม่ำเสมอ" · pair กับ PE1 (30/70) + PS4 (รอ 6 wk) + PS5 (1-year)
@@ -18,20 +18,34 @@
 
 ---
 
-## Script (3-72 วินาที)
+## Script (3-82 วินาที)
 
-### Beat 1 — Myth busting (3-15s)
+### Beat 1 — Picolaser หน้าแหก reference (3-18s)
+
+**Avatar voice + reference B-roll (old-style aggressive laser aftermath):**
+> "เคยเห็นคลิป picolaser หน้าเลือดแดงสาดไหมครับ
+> แดงเป็นจุดๆ ทั่วหน้า
+> สมัยนี้ ใครยิงอย่างงั้น เสี่ยง complication เสี่ยงรอยดำหลังยิง
+>
+> สมัยนี้ เรายิงที่ระดับ end point พอ
+> ไม่ต้องถึงระดับเลือด
+> ไม่เสี่ยง complication ไม่ทิ้งรอยดำหลังยิง"
+
+**Visual:** Old-school aggressive laser aftermath B-roll (stock/blurred) → cut to gentle pulse demo
+**On-screen text:** "Old: เลือดแดงสาด · New: end point พอ"
+
+### Beat 2 — Myth busting (18-30s)
 
 **Avatar voice (warm, slight smirk):**
 > "หลายคนคิดว่า ยิงเลเซอร์แรง ผลดีกว่า
 > เจ็บมาก เท่ากับ effective มาก
 > ความจริงคือ ตรงข้าม
-> ผิวเราไม่ใช่กล้ามเนื้อ ไม่ใช่ที่ยิ่งหนัก ยิ่งได้ผล"
+> ผิวเราไม่ใช่กล้ามเนื้อ ไม่ใช่ยิ่งหนัก ยิ่งได้ผล"
 
 **Visual:** Animation — myth bubble "เจ็บมาก = ดี" → strike-through
 **On-screen text:** "เจ็บมาก ≠ ดี"
 
-### Beat 2 — Biology ของผิว (15-30s)
+### Beat 3 — Biology ของผิว (30-42s)
 
 **Avatar + animated cross-section:**
 > "ผิวคือเนื้อเยื่อที่บอบบาง
@@ -42,7 +56,7 @@
 **Visual:** Cross-section — gentle pulses creating slow steady collagen growth
 **On-screen text:** "Steady pulses · Steady growth"
 
-### Beat 3 — เปรียบเทียบ 2 แนวทาง (30-50s)
+### Beat 4 — เปรียบเทียบ 2 แนวทาง (42-58s)
 
 **Avatar + split-screen comparison:**
 > "ยิงแรงครั้งเดียว เท่ากับ
@@ -51,10 +65,10 @@
 > ทำพลังงานต่ำสม่ำเสมอ เท่ากับ
 > ผิวฮีลทัน · แต่ละครั้งเสริมขึ้นมา · คุมผลได้"
 
-**Visual:** Split screen — heavy zap aftermath (red, swollen) vs gentle pulse (calm) + checklist
+**Visual:** Split screen — heavy zap aftermath (red, swollen) vs gentle pulse (calm)
 **On-screen text:** "แรงครั้งเดียว ≠ สม่ำเสมอ"
 
-### Beat 4 — Analogy (50-62s)
+### Beat 5 — Gym analogy (58-70s)
 
 **Avatar, relatable tone:**
 > "เปรียบเหมือนออกกำลังกาย
@@ -66,24 +80,25 @@
 **Visual:** Powerlifter once/week vs daily jogger · scale animation
 **On-screen text:** "ทุกวัน > ครั้งเดียว"
 
-### Beat 5 — Clarity model (62-72s)
+### Beat 6 — Clarity model (70-82s)
 
 **Avatar, soft tone:**
-> "ที่ Clarity เลยใช้ pulse ที่เหมาะกับผิว
-> ทำต่อเนื่อง ทุก 2 ถึง 4 อาทิตย์
+> "ผมเลยใช้พลังงานที่เหมาะกับผิว
+> ทำต่อเนื่อง ทุก 1 ถึง 2 เดือน ครั้งละ 5,000
+> แล้วเดี๋ยวหมอออกแบบโปรแกรมให้
 > คนไข้บอกเสมอ พอเปลี่ยนเป็นแบบนี้
-> ผิวฟื้นเร็วขึ้นมาก"
+> หน้าตึงกว่ามาก"
 
-**On-screen text:** "Pulse ละมุน · ทุก 2-4 wk"
+**On-screen text:** "ทุก 1-2 เดือน · 5,000 · หมอออกแบบให้"
 
 ---
 
-## CTA (72-78s)
+## CTA (82-88s)
 
 **Avatar, direct:**
-> "save ไว้เลยครับ ก่อนใครชวนไปทำ extreme treatment เปิดดูซะ"
+> "save ไว้เลยครับ ก่อนใครชวนไปทำเลเซอร์หน้าแหก เปิดดูซะ"
 
-**On-screen:** "Save · ก่อนใครชวน extreme"
+**On-screen:** "Save · ก่อนใครชวน หน้าแหก"
 **Pinned comment:** "ปรึกษาฟรี ทางบ้านเขียว clarityclinic · ราคา treatment ทุกตัว ที่ clarityclinic.co"
 
 ---
@@ -91,12 +106,13 @@
 ## Captions / On-screen Text
 
 - "พลังงานต่ำ vs ทีเดียว" (0-3s)
-- "เจ็บมาก ≠ ดี" (10s)
-- "Steady pulses · Steady growth" (22s)
-- "แรงครั้งเดียว ≠ สม่ำเสมอ" (sticky 38-50s)
-- "ทุกวัน > ครั้งเดียว" (58s)
-- "Pulse ละมุน · ทุก 2-4 wk" (68s)
-- "Save · ก่อนใครชวน extreme" (75s)
+- "Old: เลือดแดงสาด · New: end point พอ" (sticky 5-18s)
+- "เจ็บมาก ≠ ดี" (22s)
+- "Steady pulses · Steady growth" (35s)
+- "แรงครั้งเดียว ≠ สม่ำเสมอ" (50s)
+- "ทุกวัน > ครั้งเดียว" (62s)
+- "ทุก 1-2 เดือน · 5,000 · หมอออกแบบให้" (75s)
+- "Save · ก่อนใครชวน หน้าแหก" (85s)
 
 ---
 
