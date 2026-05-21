@@ -1,6 +1,6 @@
 # PS8 — Before/After ฝ้า + กระแดด (5 ปี → จางลง 70%)
 
-**Pillar:** 1 (Patient Story & Result) · **Format:** Real · **Length:** 70-80s · **Aspect:** 9:16
+**Pillar:** 1 (Patient Story & Result) · **Format:** Real · **Length:** 75-80s · **Aspect:** 9:16
 **Schedule:** Month 1 · Week 3 · พฤหัสบดี 19:00
 **Target:** Persona C (working women 30s)
 **Note:** เป็น clip แรกสำหรับ Persona C cross-sell · ฝ้าเป็น category รอง · ต้อง honest expectation
@@ -31,61 +31,56 @@
 **Visual:** B-roll คนไข้ working at desk (with consent + permission to show face) · cut to ฝ้า close-up
 **On-screen text:** "อายุ 30s · ฝ้าหลังคลอด"
 
-### Beat 2 — ความจริงของฝ้า (15-30s)
+### Beat 2 — ความจริงของฝ้า (15-35s)
 
 **หมอ Big, lean in (honest tone):**
 > "วันแรกผมบอกตรงๆ
 > ฝ้าไม่เหมือนหลุมสิว
 > ฝ้ามีฮอร์โมน UV เป็นตัวกระตุ้น
-> แม้รักษาดีแค่ไหน ก็มีโอกาสกลับมา ถ้าไม่ดูแลตัวเอง"
+> แม้รักษาดีแค่ไหน ก็มีโอกาสกลับมา ถ้าไม่ดูแลตัวเอง
+>
+> ฝ้าก็เหมือนโรคตับแข็ง
+> ถ้ายังกินเหล้าอยู่ก็ไม่มีทางหาย
+> ฝ้ายังโดนแดดก็ไม่มีทาง control ได้"
 
-**Visual:** หมอ Big direct + animated icon ฮอร์โมน + UV ray
-**On-screen text:** "ฝ้า ≠ หลุมสิว · กลับมาได้"
+**Visual:** หมอ Big direct + animated icon ฮอร์โมน + UV ray → split to liver/alcohol icon analogy
+**On-screen text:** "ฝ้า = ตับแข็ง · UV = เหล้า"
 
-### Beat 3 — Plan ที่ Clarity (30-45s)
+### Beat 3 — Plan ที่ Clarity (35-50s)
 
 **หมอ Big VO + treatment shots:**
-> "ที่ Clarity ใช้ pico laser ที่ทำลาย melanin ละมุน ไม่ออกแรง
-> ผสม skincare ที่ลด melanin
-> ทำต่อเนื่อง ทุก 4 อาทิตย์"
+> "ที่ Clarity ใช้ picolaser ที่ทำลาย melanin โดยตรง
+> ผสมกับการกินยาและทา skincare ที่ช่วยลดเม็ดสี
+> ทำต่อเนื่อง ทุก 2 ถึง 4 อาทิตย์"
 
-**Visual:** pico laser device + skincare bottle (generic) + calendar 4-week interval
-**On-screen text:** "Pico + Skincare · ทุก 4 wk"
+**Visual:** pico laser device + oral medication blister pack (generic) + skincare bottle + calendar 2-4 wk
+**On-screen text:** "Pico + ยา + Skincare · 2-4 wk"
 
-### Beat 4 — ผลลัพธ์ (45-58s)
+### Beat 4 — ผลลัพธ์ (honest framing) (50-62s)
 
 **หมอ Big VO + Before/After split:**
-> "หลัง 3 ครั้ง ฝ้าจางลงเยอะ
-> กระแดดหายไปประมาณ 70 เปอร์เซ็น
-> ผิวสว่างขึ้นเป็นชั้น"
+> "หลัง 3 ครั้ง เห็นฝ้าจางลง
+> คนรอบข้างทักทุกคน
+> แต่ไม่ได้หายขาดนะครับ ยังเห็นจางๆ บางๆ อยู่"
 
-**Visual:** Before/After split-screen · subtle zoom on cheek
-**On-screen text:** "3 ครั้ง · ฝ้าจาง · กระ 70% หาย"
+**Visual:** Before/After split-screen · subtle zoom on cheek · close-up shows faint remaining traces
+**On-screen text:** "จางลง · คนทัก · แต่ไม่หายขาด"
 
-### Beat 5 — Maintenance reality (58-68s)
+### Beat 5 — Maintenance reality (62-72s)
 
 **หมอ Big, direct:**
-> "แต่ต้อง maintenance ทุก 2 ถึง 3 เดือน
-> ทาครีมกันแดดตลอด
-> นี่คือธรรมชาติของฝ้า ไม่ใช่หายขาด แต่ control ได้"
+> "แต่ต้อง maintenance ทุก 2 ถึง 3 เดือน ด้วย picolaser"
 
-**On-screen text:** "Maintenance · ไม่ใช่หายขาด · Control ได้"
-
-### Beat 6 — Patient voice (68-75s)
-
-**Cut to patient face (or blur if requested):**
-> Patient: "ฝ้าผมจางเยอะ มีคนทักทุกคน แต่หมอย้ำเสมอ ต้องทำต่อ ถ้าไม่ทำกลับมาเหมือนเดิม"
-
-**On-screen text:** "Patient · Working mom · 38"
+**On-screen text:** "Maintenance · ทุก 2-3 เดือน · Picolaser"
 
 ---
 
-## CTA (75-82s)
+## CTA (72-80s)
 
 **On-screen + voice:**
-> "อยากให้หมอวางแผนเรื่องฝ้า กระ ปรึกษาฟรี ทาง LINE แอด at clarityclinic"
+> "อยากให้หมอวางแผนเรื่องฝ้า กระ ปรึกษาฟรี ทางบ้านเขียว clarityclinic"
 
-**Pinned comment:** "ราคา pico laser ดูที่ clarityclinic.co · ไม่ขายคอร์ส"
+**Pinned comment:** "บ้านเขียว = LINE OA @clarityclinic · ราคา picolaser ดูที่ clarityclinic.co"
 
 ---
 
@@ -93,12 +88,11 @@
 
 - "ฝ้า 5 ปี · 3 sessions" (0-3s)
 - "อายุ 30s · ฝ้าหลังคลอด" (10s)
-- "ฝ้า ≠ หลุมสิว · กลับมาได้" (22s)
-- "Pico + Skincare · ทุก 4 wk" (38s)
-- "3 ครั้ง · ฝ้าจาง · กระ 70% หาย" (52s)
-- "Maintenance · ไม่ใช่หายขาด" (62s)
-- "Patient · Working mom · 38" (70s)
-- "LINE @clarityclinic" (78s)
+- "ฝ้า = ตับแข็ง · UV = เหล้า" (sticky 22-32s)
+- "Pico + ยา + Skincare · 2-4 wk" (42s)
+- "จางลง · คนทัก · แต่ไม่หายขาด" (55s)
+- "Maintenance · 2-3 เดือน · Picolaser" (66s)
+- "บ้านเขียว clarityclinic" (76s)
 
 ---
 

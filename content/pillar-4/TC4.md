@@ -41,52 +41,52 @@
 ### Beat 3 — ข้อ 2 งด skincare (25-38s)
 
 **หมอ Big + skincare bottles visual:**
-> "สอง 3 วันก่อน งด acid และ retinol บนหน้า
-> ถ้าใช้ tretinoin หรือ AHA BHA อยู่ หยุดก่อน
-> ผิวจะ sensitive น้อยลง"
+> "สอง งด skincare ที่มีส่วนผสมของกรด
+> ถ้าใช้ retinol หรือ AHA BHA อยู่ หยุดก่อน
+> เพราะผิวจะ sensitive ง่าย"
 
 **Visual:** Skincare bottles with "pause" icon
-**On-screen text:** "2/5 · งด acid + retinol 3 วัน"
+**On-screen text:** "2/5 · งดกรด + retinol"
 
-### Beat 4 — ข้อ 3 นอน (38-46s)
+### Beat 4 — ข้อ 3 กันแดด pre-treatment (38-50s)
 
-**หมอ Big + clock visual:**
-> "สาม 1 วันก่อน นอนให้พอ
-> อย่าน้อยกว่า 7 ชั่วโมง
-> ผิวที่พักผ่อนพอ ฮีลลิ่งดีกว่า"
+**หมอ Big + sunscreen + UV icon:**
+> "สาม เลี่ยงแดดและใช้ครีมกันแดดต่อเนื่อง
+> ก่อนอย่างน้อย 1 อาทิตย์
+> เพราะช่วยลดรอยดำหลังยิงเลเซอร์ได้"
 
-**Visual:** Clock showing 7+ hours sleep
-**On-screen text:** "3/5 · นอน 7+ ชั่วโมง"
+**Visual:** Sunscreen bottle + UV ray icon crossed + 1-week timeline
+**On-screen text:** "3/5 · กันแดดก่อน 1 wk · ลดรอยดำ"
 
-### Beat 5 — ข้อ 4 วันที่ทำ (46-56s)
+### Beat 5 — ข้อ 4 วันที่นัด (50-60s)
 
 **หมอ Big + face wash visual:**
-> "สี่ วันที่ทำ ล้างหน้ามาเลย
+> "สี่ วันที่นัดหมอ ล้างหน้ามาเลย
 > ห้ามแต่งหน้า ห้ามทาครีม
 > กินอาหารปกติ ไม่ต้องอด"
 
 **Visual:** Clean face + no makeup + breakfast plate
 **On-screen text:** "4/5 · ล้างหน้ามา · กินปกติ"
 
-### Beat 6 — ข้อ 5 เตรียม after-care (56-68s)
+### Beat 6 — ข้อ 5 เตรียม after-care (60-72s)
 
 **หมอ Big + after-care items:**
-> "ห้า เตรียม mask icepack หมวก แว่นกันแดด
+> "ห้า เตรียมหมวกไอโม่ง แว่นกันแดด
 > หลังทำต้องใส่กลับบ้าน
-> 5 วันแรกห้ามให้แดด"
+> 7 วันแรกห้ามโดนแดดอย่างเคร่งครัด"
 
-**Visual:** Mask + icepack + hat + sunglasses lineup
-**On-screen text:** "5/5 · After-care kit"
+**Visual:** Ninja-style hood (หมวกไอโม่ง) + sunglasses lineup
+**On-screen text:** "5/5 · หมวกไอโม่ง · 7 วันห้ามแดด"
 
 ---
 
 ## CTA (68-75s)
 
 **หมอ Big to camera:**
-> "save ไว้เลยครับ ก่อนนัดเปิดดูทุกครั้ง
-> ทำตามนี้ ทำ treatment เนียนขึ้น ฟื้นตัวเร็วขึ้น"
+> "save ไว้เลยครับ ก่อนนัดหมอทำเลเซอร์เปิดดูทุกครั้ง
+> ทำตามนี้ ฟื้นตัวเร็วขึ้นแน่นอน"
 
-**On-screen:** "Save · ก่อนนัดเปิดดู"
+**On-screen:** "Save · ก่อนนัดเลเซอร์เปิดดู"
 **Pinned comment:** "นัด consult ฟรี LINE @clarityclinic · ราคา subcision ดูที่ clarityclinic.co"
 
 ---
@@ -96,11 +96,11 @@
 - "1 week · 5 ข้อ · save ไว้" (0-3s)
 - "5-Point Checklist" (8s)
 - "1/5 · งดยาเลือดออกง่าย" (18s)
-- "2/5 · งด acid + retinol 3 วัน" (32s)
-- "3/5 · นอน 7+ ชั่วโมง" (42s)
-- "4/5 · ล้างหน้ามา · กินปกติ" (52s)
-- "5/5 · After-care kit" (62s)
-- "Save · ก่อนนัดเปิดดู" (72s)
+- "2/5 · งดกรด + retinol" (32s)
+- "3/5 · กันแดดก่อน 1 wk · ลดรอยดำ" (44s)
+- "4/5 · ล้างหน้ามา · กินปกติ" (55s)
+- "5/5 · หมวกไอโม่ง · 7 วันห้ามแดด" (66s)
+- "Save · ก่อนนัดเลเซอร์เปิดดู" (74s)
 
 ---
 
