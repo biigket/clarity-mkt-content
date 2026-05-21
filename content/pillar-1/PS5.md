@@ -1,149 +1,159 @@
-# PS5 — คนไข้ทำซ้ำมา 1 ปี · Journey + Math
+# PS5 — Origin story · ทำไม Clarity ครั้งละ 5,000
 
 **Pillar:** 1 (Patient Story & Result) · **Format:** Real · **Length:** 80-90s · **Aspect:** 9:16
 **Schedule:** Month 1 · Week 4 · จันทร์ 17:00
-**Target:** Persona A (office worker), C (working women 30s)
-**Style:** Long-form journey · ตรง North Star "ความสม่ำเสมอ" · ADR-003 ไม่ขายคอร์ส
+**Target:** Persona A (office worker), C (working women 30s), D (skeptical)
+**Style:** Founder origin story · doctor-led narrative · pair กับ AM4 (Pillar 3 follow-up)
+**Note:** ตรง North Star "ความสม่ำเสมอ" + ADR-003 (ไม่ขายคอร์ส) + ADR-009 (Lunch Hour bread & butter)
 
 ---
 
 ## Hook (0-3 วินาที)
 
-**Split screen Day 1 (1 year ago) / Today · same angle · headline:**
+**On-cam หมอ Big · close-up · slight smirk · holding cocktail glass แล้ววางลง:**
 
-> หมอ Big VO: "คนไข้คนนี้มา Clarity ครบ 1 ปี — เป็นยังไงบ้าง"
+> "ทำไมร้านเหล้าที่ผมชอบไป มีคนหน้าตาดีที่สุดในกรุงเทพ"
 
-**Visual:** Slow zoom into split-screen comparison
-**On-screen text:** "1 year · Clarity journey"
-
----
-
-## Script (3-82 วินาที)
-
-### Beat 1 — เคสนี้คือใคร (3-15s)
-
-**หมอ Big to camera + B-roll คนไข้:**
-> "เคสนี้ คนไข้ทำงาน อายุ 30s
-> หลุมสิวลึก rolling กับ boxcar รอบแก้ม
-> วันแรกที่มา ฝ้าก็มีเพิ่ม"
-
-**Visual:** B-roll คนไข้ at office (with consent) · close-up Day 1 photo
-**On-screen text:** "Day 1 · หลุมสิว + ฝ้า"
-
-### Beat 2 — Timeline 1 ปี (15-35s)
-
-**หมอ Big + animated timeline:**
-> "ปีที่ผ่านมา ทำ subcision 3 ครั้ง
-> RF microneedling 2 ครั้ง
-> ablative laser 1 ครั้ง
-> pico สำหรับฝ้า 4 ครั้ง
-> รวมทั้งหมด 10 session
-> ห่างกันตามที่ผิวต้องการ"
-
-**Visual:** Timeline graphic — 12-month bar with dots marking each session
-**On-screen text:** "10 sessions · 12 เดือน"
-
-### Beat 3 — Math (transparency) (35-55s)
-
-**หมอ Big, direct:**
-> "รวมค่าใช้จ่าย ประมาณ 35,000 ตลอดปี
-> เฉลี่ยเดือนละ 3,000 บาท
-> ถ้าเทียบกับคอร์สหลุมสิวที่คลินิกอื่นขาย 100,000 ครั้งเดียวจ่ายหมด
-> คนไข้ที่นี่จ่ายน้อยกว่า แต่ได้ดูแลโดยหมอคนเดิมต่อเนื่อง"
-
-**Visual:** Math breakdown — 35,000 ÷ 12 = 3,000/month vs 100,000 lump sum
-**On-screen text:** "35,000 ตลอดปี · 3,000/เดือน"
-
-### Beat 4 — Patient voice (55-72s)
-
-**Cut to patient face (or blur):**
-> Patient: "หมอบอกผมตั้งแต่วันแรกว่า ทำครั้งเดียวไม่จบ ต้องค่อยๆ ทำ ตอนแรกผมคิดว่าหมอแค่อยากให้กลับมา แต่ทำไปเรื่อยๆ ผมเข้าใจ ผิวมันต้องการเวลา ไม่ใช่ความแรงครั้งเดียว"
-
-**Visual:** Patient at clinic chair · soft natural light
-**On-screen text:** "Patient · 1 ปี · 10 sessions"
-
-### Beat 5 — Philosophy close (72-82s)
-
-**หมอ Big to camera:**
-> "นี่คือเหตุผลที่ Clarity ไม่ขายคอร์สผูกมัด
-> เพราะการรักษาผิวที่ดี ต้องมาจากความสม่ำเสมอ
-> ไม่ใช่ความแรงครั้งเดียว"
-
-**On-screen text:** "สม่ำเสมอ > ครั้งเดียว"
+**Visual:** B-roll bar scene (silhouette, no faces) → cut back to หมอ Big in clinic
+**On-screen text:** "เรื่องจริง · ไม่ได้พูดเล่น"
 
 ---
 
-## CTA (82-90s)
+## Script (3-85 วินาที)
+
+### Beat 1 — Reveal punch line (3-12s)
+
+**หมอ Big to camera, laughing:**
+> "เพราะผมทำหน้าให้เพื่อนผมเองครับ 5555
+>
+> ผมจะเล่าให้ฟัง ครั้งละ 5,000 ที่ Clarity ใช้
+> มาจากตอนที่ผมทำหน้าให้เพื่อนๆ"
+
+**Visual:** หมอ Big talking direct + B-roll handheld behind-the-scenes
+**On-screen text:** "Origin · ครั้งละ 5,000"
+
+### Beat 2 — ไม่อยากเก็บเพื่อนแพง (12-30s)
+
+**หมอ Big, warmer tone:**
+> "ตอนเริ่ม ผมไม่อยากเก็บเพื่อนแพง
+> เลยตั้งราคาแบบที่จ่ายไหว
+> แต่พอเพื่อนมาเยอะๆ ทำทุกเดือน
+> ผมก็อยู่ได้
+> นั่นคือจุดเริ่ม ของ model ครั้งละ 5,000"
+
+**Visual:** Animated timeline · friends list growing · monthly calendar dots
+**On-screen text:** "ไม่อยากเก็บเพื่อนแพง · เลยเกิด model นี้"
+
+### Beat 3 — เพื่อนคือใคร (30-48s)
+
+**หมอ Big + B-roll generic group dynamic:**
+> "ส่วนใหญ่เพื่อนผม วงการหมอ
+> และมีเพื่อนจากร้านเหล้าที่ผมชอบไปบ้าง
+>
+> พวกเขาบอกผมว่า 5,000 คือตัดสินใจง่าย
+> ทำทุกเดือนแบบต่อเนื่องได้ ไม่ต้องคิดมาก
+> ไม่ผูกมัด ไม่กดดัน"
+
+**Visual:** Generic doctor stethoscope + cocktail glass icons · "ตัดสินใจง่าย" callout
+**On-screen text:** "หมอ + ร้านเหล้า · 5,000 = ตัดสินใจง่าย"
+
+### Beat 4 — Programs ที่เพื่อนชอบ (48-62s)
+
+**หมอ Big + program list visual:**
+> "โปรแกรมที่เพื่อนชอบมาทำ คือยกกระชับ กับ งานผิวทั่วไป
+> คนที่มีปัญหาหนักหน่อยอย่างหลุมสิว
+> ก็มาต่อเนื่องตลอดปี"
+
+**Visual:** 3 program icons (lifting · skin · acne scar) + monthly arrow
+**On-screen text:** "ยกกระชับ · งานผิว · หลุมสิว"
+
+### Beat 5 — ผลที่ตามมา (62-75s)
+
+**หมอ Big, slight smile:**
+> "ผลคือ หน้าเพื่อนๆ ดีขึ้นเรื่อยๆ
+> ทุกคนกลับมาเองโดยที่ผมไม่ต้องขาย
+>
+> ทุกวันนี้ ร้านเหล้าที่ผมชอบไป น่าจะเป็นร้านที่มีคนหน้าตาดีเยอะที่สุดในกรุงเทพ
+> จากฝีมือผมเอง 5555"
+
+**Visual:** Bar scene silhouette + "hottest bar" stamp playful
+**On-screen text:** "ฝีมือผมเอง 5555"
+
+### Beat 6 — Clarity model (75-85s)
+
+**หมอ Big to camera, soft:**
+> "นี่คือ Clarity model ครับ
+> จ่ายทีละครั้ง 5,000 ไม่ต้องผูกคอร์ส
+> ทุกเดือนมาเจอผม"
+
+---
+
+## CTA (85-90s)
 
 **On-screen + voice:**
-> "อยากให้หมอวางแผน 1 ปี timeline ของคุณ ปรึกษาฟรี ทางบ้านเขียว clarityclinic"
+> "อยากเจอผมบ้าง ปรึกษาฟรี ทางบ้านเขียว clarityclinic"
 
-**Pinned comment:** "ราคา treatment ทุกตัว ดูที่ clarityclinic.co · ไม่ขายคอร์ส · จ่ายทีละครั้ง"
+**Pinned comment:** "บ้านเขียว = LINE OA @clarityclinic · ราคาทุกตัวที่ clarityclinic.co · ไม่ขายคอร์ส"
 
 ---
 
 ## Captions / On-screen Text
 
-- "1 year · Clarity journey" (0-3s)
-- "Day 1 · หลุมสิว + ฝ้า" (10s)
-- "10 sessions · 12 เดือน" (sticky 18-32s)
-- "35,000 ตลอดปี · 3,000/เดือน" (45s)
-- "Patient · 1 ปี · 10 sessions" (62s)
-- "สม่ำเสมอ > ครั้งเดียว" (76s)
-- "บ้านเขียว clarityclinic" (85s)
+- "เรื่องจริง · ไม่ได้พูดเล่น" (0-3s)
+- "Origin · ครั้งละ 5,000" (10s)
+- "ไม่อยากเก็บเพื่อนแพง" (22s)
+- "หมอ + ร้านเหล้า · 5,000 = ตัดสินใจง่าย" (40s)
+- "ยกกระชับ · งานผิว · หลุมสิว" (55s)
+- "ฝีมือผมเอง 5555" (70s)
+- "บ้านเขียว clarityclinic" (88s)
 
 ---
 
 ## Hashtags (11 ตัว)
 
-`#หลุมสิว #ฝ้า #หมอbig #clarityclinic #ค่อยเป็นค่อยไป #ไม่ขายคอร์ส #ราคาบนเว็บ #subcision #picolaser #รักษาหลุมสิว #คลินิกราชเทวี`
+`#หมอbig #clarityclinic #ครั้งละ5000 #ไม่ขายคอร์ส #ราคาบนเว็บ #หลุมสิว #ยกกระชับ #งานผิว #คลินิกราชเทวี #ค่อยเป็นค่อยไป #originstory`
 
 ---
 
-## Disclaimer (สบส.)
+## Disclaimer
 
-> "ผลลัพธ์ขึ้นอยู่กับสภาพผิวและการดูแลของแต่ละบุคคล · ค่าใช้จ่ายอาจเปลี่ยนตามแผนการรักษา · ปรึกษาแพทย์ก่อนรับการรักษา"
+> "ผลลัพธ์ขึ้นอยู่กับสภาพผิวและการดูแลของแต่ละบุคคล · ราคาอาจปรับตามแผนการรักษา"
 
-ใส่เป็น text บนคลิป (sticky 35-55s ตอน math) + caption
+ใส่ใน caption · on-screen 5 วินาที ตอน Beat 6
 
 ---
 
 ## Production Checklist
 
-### Pre-production — CRITICAL
-- [ ] **Patient consent ลายลักษณ์อักษร** — usage type ระบุ "1 year journey" tag
-- [ ] เลือก patient ที่มี Day 1 + Year 1 photos · same angle/lighting · มี session log
-- [ ] Math breakdown verified — actual receipts/treatment log
-- [ ] Patient interview script ส่งล่วงหน้า · ห้าม coach
-- [ ] Mask identity ถ้า patient ขอ
+### Pre-production
+- [ ] Script approved by หมอ Big — origin story accuracy
+- [ ] No patient consent needed (doctor-led narrative · ไม่เห็นเพื่อน face)
+- [ ] Bar B-roll: licensed stock หรือถ่าย silhouette ที่ไม่เห็นหน้า · กฎหมาย privacy
+- [ ] Program icons: ยกกระชับ · งานผิว · หลุมสิว (consistent กับ brand style)
 
 ### Talent
-- หมอ Big — เสื้อยืดสี soft + เสื้อแล็บเปิด
-- Patient — สีหน้าธรรมชาติ · lighting match Day 1 photo
+- หมอ Big — เสื้อยืดสี soft + เสื้อแล็บเปิด (casual warm)
+- ไม่ต้องมี patient · ไม่ต้องมี friend cameo
 
 ### Equipment
-- กล้อง 4K + tripod
-- Lavalier mic หมอ Big + patient
+- กล้อง 4K + tripod (close-up หมอ Big) + handheld B-roll
+- Lavalier mic หมอ Big
 - LED panel side 45° (warm 3200K)
-- Reference photos Day 1 + Year 1
-- Treatment log printout for math accuracy
+- Cocktail glass prop สำหรับ Hook (optional)
 
 ### Setup
-- ห้าม retouch / filter / slim face
-- Color grade: warm tone match brand
-- A/B/A pattern: หมอ Big intro → math → patient → หมอ Big close
+- Hook in clinic with cocktail glass prop หรือ B-roll bar silhouette
+- One-take ถ้าได้ · ตัดให้ดู natural pace
+- Color grade: warm tone · มี contrast เล็กน้อยตอน bar B-roll (slightly cooler)
 
 ---
 
 ## Approval Gates
 
-1. **Script approved** — หมอ Big sign-off
-2. **Math verified** — Treatment log + receipts cross-check
-3. **Patient consent** — sign-off + initial usage type
-4. **Day 1 + Year 1 photos verified** — timestamp + EXIF
-5. **Recorded approved** — หมอ Big review
-6. **Final cut approved** — หมอ Big + ทีม สบส. compliance
-7. **Patient final approved** — preview 48 ชั่วโมงก่อน post
+1. **Script approved** — หมอ Big sign-off (story accuracy + tone)
+2. **Recorded approved** — หมอ Big review takes
+3. **Final cut approved** — หมอ Big + Marketing
+4. ไม่ต้องผ่าน สบส. (no medical claim · no patient · personal narrative)
 
 ---
 
@@ -153,32 +163,34 @@
 |---|---|---|
 | TikTok @clarityclinic | 9:16 80-90s | T+0 |
 | IG Reels | 9:16 80-90s | T+1 hr |
-| Facebook Reels | 9:16 + extended math caption | T+24 hr |
-| Lemon8 | Long-form: "1 ปี Journey · ค่าใช้จ่ายจริง" + receipts photo | T+3 days |
+| Facebook Reels | 9:16 + caption expand origin | T+24 hr |
+| Lemon8 | Long-form: "เรื่องเล่าจากคลินิก · เพื่อนๆ ที่เปลี่ยน Clarity" | T+3 days |
 | YouTube Shorts | 9:16 + end card | T+7 days |
-| LINE OA broadcast | 1-year anniversary newsletter | Monthly |
+| LINE OA welcome flow | Auto-send ให้ new add (introduce business model) | Ongoing |
 
 ---
 
 ## Success Metrics (7-day window)
 
-- Views target: 50k (long-form journey · evergreen)
-- Engagement rate: ≥7%
-- Saves: ≥350 (math + journey utility)
-- LINE OA add: ≥20
-- Comment quality: ≥20 "ของฉันใช้เงินไปเท่าไหร่แล้ว" · จะใช้ generate compare clip
+- Views target: 60k (founder story · viral potential)
+- Engagement rate: ≥8%
+- Saves: ≥200 (memorable story)
+- Share rate: ≥3% (funny + relatable = shareable)
+- LINE OA add: ≥25 (curiosity → consult)
+- Comment quality: ≥50 ("อยากไปเจอหมอบ้าง" / "ฉันต้องเป็นเพื่อนหมอ")
 
-ใช้เป็น cornerstone evergreen content + ads cold traffic
+ใช้เป็น cornerstone evergreen + LINE OA welcome (introduce business model)
+หาก top performer → ทำ PS5 sequel "เพื่อนคนแรกที่ผมทำ · 5 ปีผ่านไป"
 
 ---
 
 ## Notes
 
-- **Patient consent = blocker** ห้ามถ่ายก่อน sign
-- **Math accuracy = critical** · ตัวเลข 35,000 vs 100,000 ต้องอ้างอิงจริง · มี receipts backup
-- ห้ามชื่อ/พาดพิงคลินิกคู่แข่ง · ใช้ "คลินิกอื่น" generic
-- "100,000 ครั้งเดียวจ่ายหมด" = market common · ไม่ specific brand
-- ใช้คำว่า "ดูแลต่อเนื่อง" ไม่ใช่ "หาย" / "เปลี่ยนผิว"
-- Pair-clip กับ PS4 (เคสคนไข้ใจร้อน) + PE5 (สม่ำเสมอ vs พลังงานสูง) — narrative trilogy
-- ใช้เป็น top-of-funnel asset ใน ads — drive long-consideration buyers
-- หาก top performer → ทำ PS5 sequel · "Year 2 · maintenance ลดลงเหลือ X session"
+- **ไม่ต้อง patient consent** เพราะ doctor-led narrative ไม่มี patient face
+- Bar B-roll ต้อง silhouette เท่านั้น · ห้ามเห็นหน้าคน · privacy + brand image
+- "5555" laughter = signature TikTok tone · ห้ามทำเป็น corporate
+- ห้ามชื่อชื่อเพื่อน (หมอ X) · ห้ามชื่อร้านเหล้า specific · privacy
+- Programs list "ยกกระชับ · งานผิว · หลุมสิว" = top 3 ของ Clarity Lunch Hour
+- **Pair-clip กับ AM4** (Week 4 อ. = next day) — AM4 จะ link back ว่า "ผมเคยเล่าให้ฟัง..."
+- "ทุกเดือนมาเจอผม" = อ้างอิง maintenance frequency · ตรง ADR-009 (Lunch Hour bread & butter)
+- ถ้า top performer → ใช้เป็น brand asset · พิมพ์บนผนังคลินิก · cocktail napkin promotion

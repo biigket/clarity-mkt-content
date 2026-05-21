@@ -1,34 +1,37 @@
 # AM4 — ทำไมคลินิกผิวชอบขายคอร์ส 10 ครั้ง · Math ของวงการ
 
-**Pillar:** 3 (Anti-marketing & Transparency) · **Format:** Avatar · **Length:** 55-65s · **Aspect:** 9:16
+**Pillar:** 3 (Anti-marketing & Transparency) · **Format:** Avatar · **Length:** 65-72s · **Aspect:** 9:16
 **Schedule:** Month 1 · Week 4 · อังคาร 16:00
 **Target:** Persona A (office worker), D (skeptical)
 **Style:** Anti-positioning hammer · designed-for-comment ("อยู่ทีมไหน")
+**Pair-clip:** **PS5** (Week 4 จ. · Origin story 5,000 model) — AM4 = follow-up explaining why competitors don't do this
 
 ---
 
-## Hook (0-3 วินาที)
+## Hook (0-7 วินาที)
 
 **Avatar หมอ Big · close-up · direct stare · holding hands palms-up:**
 
-> "ทำไมคลินิกผิวชอบขายคอร์ส 10 ครั้ง"
+> "ผมเคยเล่าว่า ครั้งละ 5,000 ที่ Clarity มาจากการทำหน้าให้เพื่อน
+> แล้วทำไมคลินิกอื่น ถึงไม่ทำแบบนั้น"
 
-**Visual:** Pile of bundled banknotes at corner
-**On-screen text:** "ทำไม · คอร์ส 10 ครั้ง"
+**Visual:** Quick callback frame of PS5 cocktail glass → cut to current Avatar setup → pile of bundled banknotes appear
+**On-screen text:** "ทำไม · คลินิกอื่นไม่ทำ?"
 
 ---
 
 ## Script (3-58 วินาที)
 
-### Beat 1 — Punch answer (3-10s)
+### Beat 1 — Punch answer (7-15s)
 
 **Avatar voice (direct, slight smirk):**
-> "เพราะถ้าจ่ายทีละครั้ง คลินิกบางที่อยู่ไม่ได้"
+> "คำตอบสั้นๆ ครับ
+> เพราะถ้าจ่ายทีละครั้ง คลินิกบางที่อยู่ไม่ได้"
 
 **Visual:** Banknotes flow into clinic building visual
 **On-screen text:** "เพราะคลินิกอยู่ไม่ได้"
 
-### Beat 2 — Math ของวงการ (10-25s)
+### Beat 2 — Math ของวงการ (15-30s)
 
 **Avatar + cost breakdown:**
 > "ฟังดูตรงๆ แต่นี่คือ math ของวงการ
@@ -38,7 +41,7 @@
 **Visual:** 3 cost icons (building · laser device · staff) + monthly recurring symbol
 **On-screen text:** "ค่าเช่า · เครื่อง · คน · ทุกเดือน"
 
-### Beat 3 — คอร์ส = cashflow ก้อนใหญ่ (25-40s)
+### Beat 3 — คอร์ส = cashflow ก้อนใหญ่ (30-43s)
 
 **Avatar:**
 > "คอร์ส 100,000 ขายครั้งเดียว เท่ากับ cashflow ก้อนใหญ่
@@ -50,39 +53,39 @@
 **Visual:** 100,000 baht stack → into clinic safe → patient gets chain icon
 **On-screen text:** "100,000 ครั้งเดียว · คนไข้รับเสี่ยง"
 
-### Beat 4 — Clarity ทำตรงข้าม (40-55s)
+### Beat 4 — Clarity ทำแบบเพื่อน (43-65s)
 
 **Avatar, lean in, warmer tone:**
-> "ที่ Clarity ผมเลือกทำตรงข้าม
+> "ที่ Clarity ผมเลือกแบบเพื่อน
 > จ่ายทีละครั้ง ครั้งละ 5,000 ตามจริง
 > ถ้าคุณเห็นว่าทำแล้วดี กลับมาทำต่อ
 > ถ้ารู้สึกไม่ใช่ เปลี่ยนใจได้
 >
-> ผมเลือกแบบนี้ เพราะอยากได้ trust ไม่ได้อยากได้เงินก้อนเดียว"
+> ผมเลือกแบบนี้ เพราะเชื่อว่า ลูกค้าที่กลับมาเอง ดีกว่าลูกค้าที่ถูกผูกไว้"
 
-**Visual:** Chain breaking + 5,000 banknote × multiple sessions
-**On-screen text:** "5,000/ครั้ง · เปลี่ยนใจได้"
+**Visual:** Chain breaking + 5,000 banknote × multiple sessions + cocktail glass callback (subtle)
+**On-screen text:** "แบบเพื่อน · 5,000 · กลับมาเอง"
 
 ---
 
-## CTA (58-65s)
+## CTA (65-72s)
 
 **Avatar to camera:**
 > "คุณอยู่ทีมไหน คอร์สผูกมัด หรือ จ่ายทีละครั้ง คอมเม้นต์มาเลย"
 
 **On-screen:** "ทีมคอร์ส · ทีมทีละครั้ง"
-**Pinned comment:** "Clarity ราคาบนเว็บ · ไม่ขายคอร์ส · clarityclinic.co"
+**Pinned comment:** "Clarity ราคาบนเว็บ · ไม่ขายคอร์ส · clarityclinic.co · ดู PS5 ผม Origin story พึ่งโพสต์ไปเมื่อวาน"
 
 ---
 
 ## Captions / On-screen Text
 
-- "ทำไม · คอร์ส 10 ครั้ง" (0-3s)
-- "เพราะคลินิกอยู่ไม่ได้" (8s · large)
-- "ค่าเช่า · เครื่อง · คน · ทุกเดือน" (18s)
-- "100,000 ครั้งเดียว · คนไข้รับเสี่ยง" (32s)
-- "5,000/ครั้ง · เปลี่ยนใจได้" (48s · large)
-- "ทีมไหน · Comment" (60s)
+- "ทำไม · คลินิกอื่นไม่ทำ?" (0-7s)
+- "เพราะคลินิกอยู่ไม่ได้" (12s · large)
+- "ค่าเช่า · เครื่อง · คน · ทุกเดือน" (22s)
+- "100,000 ครั้งเดียว · คนไข้รับเสี่ยง" (36s)
+- "แบบเพื่อน · 5,000 · กลับมาเอง" (52s · large)
+- "ทีมไหน · Comment" (67s)
 
 ---
 
