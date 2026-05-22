@@ -21,14 +21,30 @@ if ! command -v uvx &> /dev/null; then
 fi
 
 # 2. Restore Google credentials from base64 env var
+mkdir -p "$HOME/.secrets"
 if [ -n "$GOOGLE_CREDENTIALS_B64" ]; then
   echo "Restoring Google credentials..."
-  mkdir -p "$HOME/.secrets"
-  echo "$GOOGLE_CREDENTIALS_B64" | base64 -d > "$HOME/.secrets/google-creds.json"
+  # Use printf to avoid trailing newline that breaks base64 decode
+  printf '%s' "$GOOGLE_CREDENTIALS_B64" | base64 -d > "$HOME/.secrets/google-creds.json"
   chmod 600 "$HOME/.secrets/google-creds.json"
-  echo "✅ Credentials written to $HOME/.secrets/google-creds.json"
+
+  # Verify file is non-empty
+  if [ ! -s "$HOME/.secrets/google-creds.json" ]; then
+    echo "❌ Credentials file is empty after decode"
+    exit 1
+  fi
+
+  # Verify valid JSON
+  python3 -c "import json; json.load(open('$HOME/.secrets/google-creds.json'))" 2>/dev/null || {
+    echo "❌ Credentials JSON invalid"
+    exit 1
+  }
+
+  SIZE=$(wc -c < "$HOME/.secrets/google-creds.json")
+  echo "✅ Credentials restored ($SIZE bytes)"
 else
   echo "⚠️  GOOGLE_CREDENTIALS_B64 not set — Google Sheets MCP will fail"
+  exit 1
 fi
 
 # 3. Pre-cache mcp-google-sheets (faster first call)
