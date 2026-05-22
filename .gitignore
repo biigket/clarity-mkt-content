@@ -18,3 +18,11 @@ Thumbs.db
 # Local env
 .env
 .env.local
+
+# Google service account credentials (NEVER COMMIT)
+*credentials*.json
+*creds*.json
+*service-account*.json
+secrets/
+.env
+*.key
