@@ -140,6 +140,19 @@ UPSELL PREMIUM (high margin)
 
 ---
 
+## Working Sheet (source of truth)
+
+**[Clarity MKT Content](https://docs.google.com/spreadsheets/d/1LhB6RNAmKShNNDOSKau8UrTW1708iPxC57DTYxx5-r8/edit)**
+— Google Sheet ที่ใช้ track/edit content calendar จริง
+
+- **Sheet ID:** `1LhB6RNAmKShNNDOSKau8UrTW1708iPxC57DTYxx5-r8`
+- **Owner:** thitikom1994@gmail.com
+- **Tabs (12):** Calendar · Clip Library · Production Status · Scripts · Scenes · Personas · Pillars · Pricing · Hashtags · KPIs · Voice Rules · Decisions
+
+> Sheet นี้คือ live source of truth — ไฟล์ `.md` และ `.xlsx` ใน repo เป็น snapshot/reference เท่านั้น เวลาแก้ content ให้แก้ใน Sheet ก่อน
+
+---
+
 ## MCP: Google Sheets
 
 This repo includes a `.mcp.json` that registers a **Google Sheets MCP server**
