@@ -137,3 +137,34 @@ UPSELL PREMIUM (high margin)
 ## Related Projects
 
 - Optima Aesthetic Content Strategy — B2B medical device (separate repo)
+
+---
+
+## MCP: Google Sheets
+
+This repo includes a `.mcp.json` that registers a **Google Sheets MCP server**
+([`mcp-google-sheets`](https://github.com/xing5/mcp-google-sheets), run via `uvx`)
+so Claude Code can read/write the content calendar directly in Google Sheets
+instead of editing `clarity-content-calendar.xlsx`.
+
+### Required setup (one-time)
+
+1. **Google Cloud project** → enable **Google Sheets API** + **Google Drive API**.
+2. **Create a service account** → download its JSON key.
+3. **Share the target Sheet (or Drive folder)** with the service account's
+   `client_email` (give Editor access).
+4. **Provide credentials to Claude Code** via one of:
+   - `SERVICE_ACCOUNT_PATH` → path to JSON file (default: `./.secrets/google-service-account.json`, gitignored), OR
+   - `GOOGLE_SHEETS_CREDENTIALS_BASE64` → base64-encoded JSON (preferred for web sessions; set in environment settings).
+5. **Optional:** set `GOOGLE_SHEETS_DRIVE_FOLDER_ID` to scope access to one folder.
+
+### Local use
+
+Drop the service-account JSON in `./.secrets/google-service-account.json`,
+then `claude` from this directory — the server starts automatically.
+
+### Claude Code on the web
+
+Set `GOOGLE_SHEETS_CREDENTIALS_BASE64` (and optionally `GOOGLE_SHEETS_DRIVE_FOLDER_ID`)
+in the environment's variable settings. The server is auto-launched when you
+approve `.mcp.json` on first session start.
