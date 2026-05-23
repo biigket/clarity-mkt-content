@@ -123,7 +123,9 @@ Social proof จากลูกค้าจริง — Before/After + journey 
 | **AM2** | "ราคาเริ่มต้นเพียง..." คือกับดัก | "เห็นคำว่า 'เริ่มต้น 999' — รู้เลย จ่ายจริง 9,999" | Avatar | A, B |
 | **AM3** | 5 คำพูดที่ผมไม่เคยใช้ในห้องตรวจ | "5 ประโยคที่ผมไม่เคยพูด — ลองดูครับ" | Avatar | A, D |
 | **AM4** | ทำไมคลินิกชอบขายคอร์ส 10 ครั้ง | "เพราะถ้าจ่ายทีละครั้ง — คลินิกบางที่อยู่ไม่ได้" | Avatar | A, D |
-| **AM5** | เปิดราคา subcision — 2,490 บนเว็บ | "ราคา 2,490 — บนเว็บ ไม่มี surprise" | Avatar | A, B, C |
+| **AM5** | เปิดราคา 5K bundle — ทุกอย่างบนเว็บ | "5 เครื่อง 1 session = 5,000 บนเว็บ ไม่มี surprise" | Avatar | A, B, C |
+| **AM7** | Guest Pass 3 ใบ vs Subscription แสน | "ทำไม Clarity ไม่ทำ membership monthly แต่ทำ Guest Pass" | Real | A, D |
+| **AM8** | Picolaser ที่ซื้อไม่ได้ — reward only | "เครื่องเดียวที่ Clarity ไม่ขาย — ต้องส่ง Guest Pass ก่อน" | Avatar | A, D |
 | **AM6** | ทำไม Clarity ไม่ลง flash sale 80% | "ลด 80% = ปกติ devalue ราคา — เราเลือกไม่ทำ" | Real | A, C, D |
 
 ### Sample Hook Library (Pillar 3)
