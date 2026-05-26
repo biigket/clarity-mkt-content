@@ -28,6 +28,9 @@
 | ADR-007 | ใช้ nano/micro KOL — ห้าม macro KOL | Accepted | 2026-05 |
 | ADR-008 | Service architecture 3 ชั้น (Hero / Bread & Butter / Premium) | Accepted | 2026-05 |
 | ADR-009 | Lunch Hour menu 30 นาที = bread & butter | Accepted | 2026-05 |
+| ADR-011 | Visual pivot: espresso/brown documentary for video · sage green for UI/print | Accepted | 2026-05 |
+| ADR-012 | Dual tagline: "5,000 จบที่ Clarity" (primary) + "ทุกชั้นผิว" (secondary) | Accepted | 2026-05 |
+| ADR-013 | Adopt Clarity AI Prompt System (Phase 1-4) for scale content production | Accepted | 2026-05 |
 | ADR-010 | Sub-brand @clarityacnescar = Phase 2 (optional) | Pending | 2026-05 |
 
 ---
@@ -359,3 +362,98 @@ DSK Clinic ใช้ @dsk.acnescar เป็น sub-brand แยก สำเร
 - Audience ที่ targeting จาก decisions → `AUDIENCE.md`
 - Pillars ที่ implement decisions → `PILLARS.md`
 - Calendar ที่ execute decisions → `CALENDAR.md`
+
+---
+
+## ADR-011 — Visual pivot · espresso/brown documentary
+
+**Status:** Accepted · 2026-05
+
+**Context**
+เดิม BRAND.md visual = sage green + coral · clean medical look. หลัง review Clarity AI Prompt System v1 (Phase 1-4) เสนอ "warm espresso/brown · bronze-gold highlights · cinematic shallow depth of field" สำหรับ video style.
+
+**Options**
+1. ยึด sage green เดิม · ใช้ทุก context
+2. Pivot ทั้งหมดไป espresso/brown
+3. Split: espresso/brown สำหรับ video + photo · sage green สำหรับ UI + print + static ads
+
+**Decision**
+Option 3 (split). Video และ photography ใช้ espresso/brown documentary cinematic palette · UI/print/static ads ยังใช้ sage green เป็น brand identity.
+
+**เหตุผล**
+- Video documentary needs warm cinematic lighting → espresso/brown ช่วย skin texture clarity + clinical drama
+- Static ads + condo screens ต้อง brand recognition ที่ scale (sage green = signature color)
+- Split visual ไม่ขัด · เป็น 2 layer ที่ทำงานด้วยกัน (cinematic content wrapped in brand UI)
+
+**Consequence**
+- Video editor + cinematographer ต้องตาม espresso/brown color grade
+- Designer ของ static ads + UI ใช้ sage green ตามเดิม
+- BRAND.md Visual Identity section ถูกอัพเดท reflect dual palette
+- Reference: Anthony Bourdain documentary feel · Apple product film mood
+
+---
+
+## ADR-012 — Dual tagline strategy
+
+**Status:** Accepted · 2026-05
+
+**Context**
+Clarity AI Prompt System v1 เสนอ "หลุมสิวต้องรักษาทุกชั้นผิว" เป็น recurring philosophical phrase. ขณะที่ business positioning เดิม = "หลุมสิว 5,000 จบที่ Clarity ราชเทวี ใกล้ BTS" (จาก strategy pivot Month 0)
+
+**Options**
+1. ยึด primary tagline เดิม · drop "ทุกชั้นผิว"
+2. Pivot ไป "ทุกชั้นผิว" เป็นหลัก
+3. ใช้ทั้ง 2 · กำหนด role ต่างกัน
+
+**Decision**
+Option 3 (dual tagline).
+- **Primary (commercial):** "หลุมสิว 5,000 จบที่ Clarity ราชเทวี ใกล้ BTS" — end card · CTA · static ads · condo screens
+- **Secondary (philosophical):** "หลุมสิวต้องรักษาทุกชั้นผิว" — body of script · recurring phrase · 1x per clip
+- **Internal catchphrase:** "หมอ 30% — คนไข้ 70%" (เดิม) — bio · printed · consult
+
+**เหตุผล**
+- 2 tagline ทำงานคนละ layer · ไม่ขัดกัน
+- Primary tagline = anchor business model (5K razor-and-blade) + location
+- Secondary tagline = anchor treatment philosophy (layer-based · ไม่ใช่ "เครื่องเดียวจบ") + counter to ADR ของวงการ
+- มี recurring phrase ที่ฝัง brand DNA = stronger brand recall (เหมือน "Just Do It")
+
+**Consequence**
+- AI Prompt System (01 Master) ต้อง reference dual tagline
+- ทุก script generated ต้องมี secondary tagline อย่างน้อย 1x
+- End card design ใช้ primary tagline เป็น hero
+- Hook bank Top 3 ของแต่ละ clip ควรมี 1 hook ที่ใช้ "ทุกชั้นผิว"
+
+---
+
+## ADR-013 — Adopt Clarity AI Prompt System
+
+**Status:** Accepted · 2026-05
+
+**Context**
+Doc "Clarity AI Prompt System Phase 1-4" จาก uploads · เสนอ template prompts สำหรับ Master / Script Generator / Hook Generator / Rewrite Modifier · workflow Topic → Script → Scene → Production → Analytics
+
+**Options**
+1. Adopt as-is
+2. Merge กับ BRAND.md ปัจจุบัน (reconcile conflicts) — strategy direction A+B hybrid
+3. Ignore · ใช้ของเดิม manual
+
+**Decision**
+Option 2 (A+B hybrid):
+- Adopt 4 prompt templates · save ที่ `ai-prompts/`
+- Reconcile conflicts: keep ของเรา visual (split per ADR-011) · voice · pillar mix · length 45-60s · forbidden words
+- Use Phase 3 (Hook Generator) เป็น primary tool สำหรับ ads testing
+- Use Phase 2 (Script Generator) สำหรับ Month 2-3 batch content
+- Use Phase 4 (Rewrite Modifier) สำหรับ ads variant generation
+
+**เหตุผล**
+- Hook Generator = highest immediate ROI (ads need 30-50 hooks · manual ใช้เวลาเยอะ)
+- Templates ที่ structured → onboard outsource agency / new copywriter ง่าย
+- Scalability — สามารถ generate 20 scripts/day แทน 3 manual
+- Workflow blueprint ใช้ได้ตรง pipeline ปัจจุบัน
+
+**Consequence**
+- `ai-prompts/` folder created · 4 prompt files + README
+- BRAND.md Content Specs section อ้างถึง prompt system
+- `ads/month-1-hook-bank.md` = first deliverable จาก Phase 3 (50 hooks · 5 ad clips)
+- Quality gate: ทุก AI-generated content ต้องผ่าน 6-point check (forbidden words · dual tagline · voice · length · CTA · human review)
+- Future: ขยาย prompts (Scene Plan · Quality Check · Batch Content)

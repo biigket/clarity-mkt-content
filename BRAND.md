@@ -37,12 +37,25 @@
 
 ---
 
-## Catchphrase (สาธารณะ)
+## Taglines (สาธารณะ · ใช้ทุก content)
 
+### Primary Tagline (commercial · use in CTA + end card)
+> **"หลุมสิว 5,000 จบที่ Clarity ราชเทวี ใกล้ BTS"**
+
+**ความหมาย:** ราคาเดียว · ที่เดียว · มี location anchor (BTS proximity)
+**ใช้ตรงไหน:** End card ทุกคลิป · Standard CTA · Static ads hero · Condo screens
+
+### Secondary Tagline (philosophical · recurring phrase)
+> **"หลุมสิวต้องรักษาทุกชั้นผิว"**
+
+**ความหมาย:** Layer-based treatment philosophy (subcision + RF + ablative) · ไม่ใช่ "เครื่องเดียวจบ"
+**ใช้ตรงไหน:** Body of script (1x per clip) · Education content · Anti-marketing reframe
+
+### Internal Catchphrase (visible to audience · pillar)
 > **"หมอ 30% — คนไข้ 70%"**
 
-**ความหมาย:** การรักษาหลุมสิว/งานผิว หมอทำได้แค่ 30% (กระตุ้น, ทำลาย, ตัดพังผืด)
-อีก 70% คือคนไข้ดูแลตัวเอง (โปรตีน, วิตามินซี, หลีกแดด, มอยส์เจอไรเซอร์)
+**ความหมาย:** การรักษาหลุมสิว/งานผิว หมอทำได้แค่ 30% (กระตุ้น · ทำลาย · ตัดพังผืด)
+อีก 70% คือคนไข้ดูแลตัวเอง (โปรตีน · วิตามินซี · หลีกแดด · มอยส์เจอไรเซอร์)
 
 **ใช้ตรงไหน:**
 - TikTok bio + pinned post
@@ -139,15 +152,25 @@
 ## Visual Identity
 
 ### Tone
-- Warm, approachable, medical-clean
-- Thai modern aesthetic — ไม่ Korean cold
-- Trustworthy but not intimidating
+- **Video/Photo:** Premium aesthetic-clinic documentary · cinematic
+- **UI/Print:** Warm · approachable · medical-clean
+- Thai modern aesthetic · ไม่ Korean cold · ไม่ sterile hospital
 
-### Color Palette (recommended)
+### Color Palette
+
+**Video/Photo (primary visual)** · ตาม Clarity AI Prompt System v1
+- **Base:** Warm espresso/brown tones `#3D2F24` · `#5C4534`
+- **Highlights:** Bronze-gold `#B8935B` · `#D4A574`
+- **Mood:** cinematic shallow depth of field · warm documentary · golden hour
+- **Reference:** Anthony Bourdain documentary feel · Apple product film · Tasting Table
+
+**UI/Print/Static ads (secondary · brand identity)**
 - **Primary:** Soft sage green `#7BA098` (medical + calm)
 - **Accent:** Warm coral `#E8967C` (energy + warmth)
 - **Neutral:** Cream `#F8F5F0` + Warm gray `#8B8278`
 - **Text:** Deep navy `#1B2A3D`
+
+> **Why split:** Video documentary style needs warm cinematic palette (espresso/bronze) ที่เน้น skin texture + clinical drama · ขณะที่ UI/print ต้อง brand recognition (sage green) ที่ work บน screen เล็ก
 
 ### Typography
 - **Headlines:** Sans-serif friendly (Noto Sans Thai, IBM Plex Thai)
@@ -155,19 +178,50 @@
 - **Pricing:** Bold numerals (tabular figures)
 
 ### Avatar (Dr.Big version for Clarity)
-- Style: Illustrated 2D stylized — warmer expression กว่า Optima version
+- Style: Illustrated 2D stylized · warmer expression กว่า Optima version
 - Outfit: เสื้อแล็บ + เสื้อยืดสี soft color
 - Prop: ไฟฉาย (signature) + clipboard
-- Background: ผนังคลินิก soft tone
-- Expression set: warm, listening, smiling, gentle teaching
+- Background: ผนังคลินิก warm tone (ตรง espresso/brown direction)
+- Expression set: warm · listening · smiling · gentle teaching
 
 *Detailed avatar brief ดูที่ `assets/avatar/avatar-brief.md`*
 
-### Photography Style
-- Natural light preferred
-- Patient close-ups: side light 45° (เห็น texture หลุมสิว)
-- Clinic environment: soft, uncluttered
-- ห้าม: filter, retouch, slim face app
+### Photography & Video Style
+- **Lighting:** Warm key light · golden hour mood · side light 45° (เห็น skin texture)
+- **Cinematography:** Shallow DoF · cinematic frames · slow camera moves
+- **Color grade:** Espresso/brown base · bronze-gold highlights · ไม่ over-saturated
+- **Patient close-ups:** Side light 45° · ไม่เห็นหน้า · texture-focused
+- **Clinic environment:** Warm wood + brass accents · documentary observation
+- **ห้าม:** filter · retouch · slim face app · sterile blue-white lighting · cyberpunk · cartoon
+
+---
+
+## Content Specs
+
+### Length Targets
+| Type | Target | Existing actual |
+|------|--------|-----------------|
+| New evergreen | **45-60s** | (some old at 75-90s · leave as-is) |
+| Ads cuts | 6s · 15s · 30s · 60s | per ad brief |
+| Condo screens | 15s · 30s (silent loop) | per ad brief |
+| Patient story | 45-60s | match |
+| Education | 45-60s | match |
+
+### Standard CTA Template
+```
+[Product] 5,000 จบที่ Clarity ราชเทวี ใกล้ BTS
+
+ปรึกษาฟรี ทักไลน์ at clarityclinic
+```
+
+Product variants: หลุมสิว · ยกกระชับ · งานผิว · 5,000 (compilation)
+
+### AI Prompt System
+สำหรับ scale content production · ดู `ai-prompts/`
+- `01-master-system.md` — system prompt · paste ก่อนทุก session
+- `02-script-generator.md` — generate 45-60s script
+- `03-hook-generator.md` — generate 10 hooks (ใช้สำหรับ ads testing)
+- `04-rewrite-modifier.md` — variant generator
 
 ---
 
