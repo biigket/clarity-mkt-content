@@ -1,0 +1,41 @@
+Horizontal 16:9 digital signage poster for premium aesthetic clinic in Bangkok, Thailand.
+
+LAYOUT:
+- Background: rich espresso/dark brown gradient from #3D2F24 to #5C4534 with subtle fabric texture
+- LEFT 40% of frame: medical-editorial skin cross-section illustration showing 4 horizontal layers stacked vertically:
+  · Top layer (lightest warm brown): subtle epidermis surface texture with a slight scar depression
+  · Second layer (medium-light brown): scattered melanin pigment dots
+  · Third layer (medium-dark brown): interwoven collagen mesh fibers
+  · Bottom layer (darkest brown): deep fibrous bands
+  · Thin bronze-gold hairline dividers between each layer
+  · NO TEXT LABELS on the diagram itself (kept clean for far viewing)
+  · Premium magazine editorial illustration style
+- RIGHT 60% of frame: bold Thai text centered vertically (3 lines):
+  · Line 1 (huge bold, cream white #F5F0E8): "หลุมสิว"
+  · Line 2 (medium, bronze-gold #B8935B): "มี 4 ชั้น"
+  · Line 3 (smaller, cream): "ต้องใช้ 4 เทคนิค"
+- Top-center: small bronze pill with "Clarity · Laser & Aesthetic" logo text
+
+STYLE:
+- Espresso/brown palette ONLY
+- Bronze-gold (#B8935B, #D4A574) accents only
+- Cream off-white (#F5F0E8) text
+- Cinematic warm documentary mood
+- Premium aesthetic clinic feeling
+- Thai sans-serif typography (Noto Sans Thai or IBM Plex Thai style)
+- Text minimum size readable from 2-3 meter viewing distance
+- Generous breathing room
+
+AVOID (critical):
+- Bright colors, neon, pastel, sterile clinical white, cyberpunk, cartoon style
+- Equipment or medical device images, silhouettes, or recognizable shapes
+- Brand machine names
+- Body parts visible (no face, arm, hand) in diagram
+- Textbook medical illustration look (too sterile)
+- 3D rendered look
+- Photographic skin layers
+- Red blood vessels or blue veins (off-palette)
+- Scarcity text such as "จำกัด", "เหลือ", "หมดเขต", "เฉพาะ X คนแรก"
+- Discount language such as "ลด", "ปกติ", "promotion", "save"
+- "การันตี", "หายขาด", "100%", "อันดับ 1", "ที่สุด"
+- Before/after photos

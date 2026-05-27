@@ -1,0 +1,38 @@
+Horizontal 16:9 digital signage poster for premium aesthetic clinic in Bangkok, Thailand.
+
+LAYOUT (split 60/40, NO diagram in this frame):
+- Background: rich espresso/dark brown gradient from #3D2F24 to #5C4534
+- LEFT 60% (left-aligned text, stacked vertically):
+  · Top: small bronze-gold spaced caps "CLARITY CLINIC"
+  · Big bold cream "ราชเทวี"
+  · Below medium cream "ใกล้ BTS"
+  · Below small bronze-gold spaced "ปรึกษาแพทย์ฟรี · ทักไลน์"
+  · Below medium cream highlighted "@clarityclinic"
+- RIGHT 40% (centered):
+  · Large white square placeholder for a QR code (LINE OA QR), approximately 600x600 pixels visual area
+  · Subtle bronze frame around the QR area
+  · The QR area should be high contrast white background ready for QR pattern overlay
+  · Below QR: small cream text "SCAN HERE"
+- Top-center: small bronze pill with "Clarity · Laser & Aesthetic" logo text
+
+STYLE:
+- Espresso/brown palette ONLY
+- Bronze-gold (#B8935B, #D4A574) accents only
+- Cream off-white (#F5F0E8) text
+- Welcoming, inviting mood (not pressured, not urgent)
+- Premium aesthetic clinic feel
+- Thai sans-serif typography (Noto Sans Thai or IBM Plex Thai style)
+- QR area: clean white square, high contrast, sized for scanning from 1-2 meter viewing distance
+- Cinematic warm documentary mood
+- Generous breathing room
+
+AVOID (critical):
+- Scarcity language: "จำกัด", "เหลือ", "หมดเขต"
+- Discount language: "ลด", "ปกติ", "promotion"
+- Urgency: "ด่วน", "วันนี้เท่านั้น", "เฉพาะ X คนแรก"
+- Equipment images
+- "การันตี", "หายขาด", "100%", "อันดับ 1", "ที่สุด"
+- Bright colors, neon, pastel, clinical white
+- Cartoon or 3D rendered style
+- Before/after photos
+- Body parts
