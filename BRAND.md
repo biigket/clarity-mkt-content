@@ -37,12 +37,57 @@
 
 ---
 
-## Catchphrase (สาธารณะ)
+## Founder Profile
 
+> **นพ.ฐิติคมน์ (หมอบิ๊ก)** — Founder, Clarity Clinic
+
+| Field | Value |
+|-------|-------|
+| ชื่อในสื่อ | หมอบิ๊ก · หมอ Big · Dr.Big |
+| ชื่อจริง | นพ.ฐิติคมน์ |
+| Specialty | Aesthetic Doctor |
+| เลขใบประกอบวิชาชีพ | ว.61395 |
+| Role | Founder · Clarity Clinic |
+
+**ใช้ตรงไหน (mandatory · ทุก asset):**
+- Ad creative (static poster · video end card) → ชื่อ + Specialty + ว.
+- Founder-led content (TikTok/IG/FB) → ชื่อจริงครั้งแรกในคลิป · หลังจากนั้นเรียก "หมอบิ๊ก"
+- Patient consult intro → "หมอบิ๊ก นพ.ฐิติคมน์ · Aesthetic Doctor"
+- Bio social channels → name + specialty + ว.
+- LINE OA welcome → ชื่อจริง + role
+
+**Display format ที่ approved:**
+- Full: `นพ.ฐิติคมน์ (หมอบิ๊ก) · Aesthetic Doctor · ว.61395`
+- Short: `หมอบิ๊ก · Aesthetic Doctor`
+- Casual (TikTok/Reel): `หมอบิ๊ก`
+
+**ห้าม:**
+- "ดร.ฐิติคมน์" / "Dr.Thitikom" → formal · ขัด voice rules
+- "Dermatologist" / "ผิวหนัง" → ไม่ใช่ board cert ที่ verify (specialty จริง = Aesthetic Doctor)
+- ภาพ 3 หมอ side-by-side ใน founder-led content → dilute founder brand
+- เลข ว. ผิด (verify 61395 ก่อน publish)
+
+---
+
+## Taglines (สาธารณะ · ใช้ทุก content)
+
+### Primary Tagline (commercial · use in CTA + end card)
+> **"หลุมสิว 5,000 จบที่ Clarity ราชเทวี ใกล้ BTS"**
+
+**ความหมาย:** ราคาเดียว · ที่เดียว · มี location anchor (BTS proximity)
+**ใช้ตรงไหน:** End card ทุกคลิป · Standard CTA · Static ads hero · Condo screens
+
+### Secondary Tagline (philosophical · recurring phrase)
+> **"หลุมสิวต้องรักษาทุกชั้นผิว"**
+
+**ความหมาย:** Layer-based treatment philosophy (subcision + RF + ablative) · ไม่ใช่ "เครื่องเดียวจบ"
+**ใช้ตรงไหน:** Body of script (1x per clip) · Education content · Anti-marketing reframe
+
+### Internal Catchphrase (visible to audience · pillar)
 > **"หมอ 30% — คนไข้ 70%"**
 
-**ความหมาย:** การรักษาหลุมสิว/งานผิว หมอทำได้แค่ 30% (กระตุ้น, ทำลาย, ตัดพังผืด)
-อีก 70% คือคนไข้ดูแลตัวเอง (โปรตีน, วิตามินซี, หลีกแดด, มอยส์เจอไรเซอร์)
+**ความหมาย:** การรักษาหลุมสิว/งานผิว หมอทำได้แค่ 30% (กระตุ้น · ทำลาย · ตัดพังผืด)
+อีก 70% คือคนไข้ดูแลตัวเอง (โปรตีน · วิตามินซี · หลีกแดด · มอยส์เจอไรเซอร์)
 
 **ใช้ตรงไหน:**
 - TikTok bio + pinned post
@@ -139,15 +184,17 @@
 ## Visual Identity
 
 ### Tone
-- Warm, approachable, medical-clean
-- Thai modern aesthetic — ไม่ Korean cold
-- Trustworthy but not intimidating
+- **Video/Photo:** Premium aesthetic-clinic documentary · cinematic
+- **UI/Print:** Warm · approachable · medical-clean
+- Thai modern aesthetic · ไม่ Korean cold · ไม่ sterile hospital
 
-### Color Palette (recommended)
-- **Primary:** Soft sage green `#7BA098` (medical + calm)
-- **Accent:** Warm coral `#E8967C` (energy + warmth)
-- **Neutral:** Cream `#F8F5F0` + Warm gray `#8B8278`
-- **Text:** Deep navy `#1B2A3D`
+### Color Palette
+
+**Single brand palette** · ใช้กับ video · photo · UI · print · static ads · condo screens
+- **Base:** Warm espresso/brown tones `#3D2F24` · `#5C4534`
+- **Highlights:** Bronze-gold `#B8935B` · `#D4A574`
+- **Mood:** cinematic shallow depth of field · warm documentary · golden hour
+- **Reference:** Anthony Bourdain documentary feel · Apple product film · Tasting Table
 
 ### Typography
 - **Headlines:** Sans-serif friendly (Noto Sans Thai, IBM Plex Thai)
@@ -155,19 +202,50 @@
 - **Pricing:** Bold numerals (tabular figures)
 
 ### Avatar (Dr.Big version for Clarity)
-- Style: Illustrated 2D stylized — warmer expression กว่า Optima version
+- Style: Illustrated 2D stylized · warmer expression กว่า Optima version
 - Outfit: เสื้อแล็บ + เสื้อยืดสี soft color
 - Prop: ไฟฉาย (signature) + clipboard
-- Background: ผนังคลินิก soft tone
-- Expression set: warm, listening, smiling, gentle teaching
+- Background: ผนังคลินิก warm tone (ตรง espresso/brown direction)
+- Expression set: warm · listening · smiling · gentle teaching
 
 *Detailed avatar brief ดูที่ `assets/avatar/avatar-brief.md`*
 
-### Photography Style
-- Natural light preferred
-- Patient close-ups: side light 45° (เห็น texture หลุมสิว)
-- Clinic environment: soft, uncluttered
-- ห้าม: filter, retouch, slim face app
+### Photography & Video Style
+- **Lighting:** Warm key light · golden hour mood · side light 45° (เห็น skin texture)
+- **Cinematography:** Shallow DoF · cinematic frames · slow camera moves
+- **Color grade:** Espresso/brown base · bronze-gold highlights · ไม่ over-saturated
+- **Patient close-ups:** Side light 45° · ไม่เห็นหน้า · texture-focused
+- **Clinic environment:** Warm wood + brass accents · documentary observation
+- **ห้าม:** filter · retouch · slim face app · sterile blue-white lighting · cyberpunk · cartoon
+
+---
+
+## Content Specs
+
+### Length Targets
+| Type | Target | Existing actual |
+|------|--------|-----------------|
+| New evergreen | **45-60s** | (some old at 75-90s · leave as-is) |
+| Ads cuts | 6s · 15s · 30s · 60s | per ad brief |
+| Condo screens | 15s · 30s (silent loop) | per ad brief |
+| Patient story | 45-60s | match |
+| Education | 45-60s | match |
+
+### Standard CTA Template
+```
+[Product] 5,000 จบที่ Clarity ราชเทวี ใกล้ BTS
+
+ปรึกษาฟรี ทักไลน์ at clarityclinic
+```
+
+Product variants: หลุมสิว · ยกกระชับ · งานผิว · 5,000 (compilation)
+
+### AI Prompt System
+สำหรับ scale content production · ดู `ai-prompts/`
+- `01-master-system.md` — system prompt · paste ก่อนทุก session
+- `02-script-generator.md` — generate 45-60s script
+- `03-hook-generator.md` — generate 10 hooks (ใช้สำหรับ ads testing)
+- `04-rewrite-modifier.md` — variant generator
 
 ---
 
@@ -177,6 +255,62 @@
 2. **ไม่ขายคอร์ส** — จ่ายทีละครั้งได้
 3. **หมอ Big คุยจริง** — ปรึกษาฟรี 30 นาที กับหมอเอง (ไม่ใช่เซลล์)
 4. **ค่อยเป็นค่อยไป** — เคารพ biology + ความสม่ำเสมอ
+
+---
+
+## Service Equipment Stack
+
+> **"All layers in 1 program · 5,000 ราคาเดียว"** (หลุมสิว hero)
+
+### หลุมสิว · Acne Scar Program (Hero)
+
+| Purpose | Technique | Equipment |
+|---------|-----------|-----------|
+| Sub-dermal fibrosis | **Subcision** *(manual · เข็ม · ไม่ใช่เครื่อง)* | Rolling scar · พังผืดใต้ผิว · tethered scar |
+| Dermal collagen rebuild | **Microneedle RF (MNRF)** | Box scar · skin tightening |
+| Surface ablation | **Ablative Fractional Laser** | CO2 · ER:YAG → texture · surface scar |
+| Mid-dermal remodel | **Non-Ablative Fractional Laser** | Thulium · ER:Glass → ผิวบาง · downtime ต่ำ |
+| Pigmentation (PIH) | **Picolaser** | post-acne pigment · scar color |
+
+### งานผิว · Skin Brightening (Cash Cow)
+
+| Purpose | Technique | Equipment |
+|---------|-----------|-----------|
+| Pigmentation | **Picolaser** | melasma · ฝ้า · กระ · PIH |
+| Surface ablation | **Ablative Fractional Laser** | CO2 · ER:YAG |
+| Mid-dermal | **Non-Ablative Fractional Laser** | Thulium · ER:Glass |
+| Dermal | **Microneedle RF (MNRF)** | collagen rebuild |
+| Superficial vascular | **Long-Pulsed KTP** | red spots · spider vessels |
+| Deep vascular / hair | **Long-Pulsed ND:YAG** | deep vessels · hair removal |
+| Tone & multi-target | **Diode 4-wavelength Laser** | overall skin · hair |
+
+### ยกกระชับ · Skin Tightening (Cash Cow)
+
+| Purpose | Technique | Equipment |
+|---------|-----------|-----------|
+| Deep SMAS lift | **HIFU** | jawline · neck · brow lift |
+| Dermal tightening | **Microneedle RF (MNRF)** | collagen + tightening |
+| RF + MFU combined | **Synergy Dotting** *(RF + MFU hybrid)* | dual-mechanism · multi-depth |
+
+---
+
+### Brand Positioning Lines (use ใน ad · video · static)
+
+- **Acne scar long:** `Subcision · MNRF · Ablative Fractional Laser · Picolaser · All layers in 1 program`
+- **Acne scar short:** `All scar layers in 1 program · 5,000 ราคาเดียว`
+- **Tagline ref:** ผูกเข้า secondary tagline "หลุมสิวต้องรักษาทุกชั้นผิว"
+
+### Why บอก technique stack
+- Differentiate จากคลินิกที่ใช้ "เครื่องเดียวจบ" (ขัด pillar)
+- Authority signal ที่ verifiable (ไม่ใช่ marketing fluff)
+- Educate audience เรื่อง layer-based treatment philosophy
+
+### ห้าม
+- ใช้ชื่อ brand เครื่อง specific (เช่น "Sylfirm X" / "Vbeam") → ขัดความเป็นกลาง · ลด credibility
+- บอกว่า "เครื่องที่ดีที่สุด/ใหม่ที่สุดในโลก" → ขัด forbidden words
+- เปรียบเทียบกับคลินิกโดยชื่อ
+- ใส่ technique อื่นที่ไม่ได้ทำจริง · ทุก ad ต้อง verify ตาม table นี้
+- โฆษณา Subcision ในรูป "เครื่อง" หรือ "machine" → ผิดความจริง (Subcision = manual procedure)
 
 ---
 
@@ -197,4 +331,4 @@
 
 - Audience ที่ brand นี้พูดถึง → `AUDIENCE.md`
 - Content ที่สื่อ brand นี้ → `PILLARS.md`
-- Decisions ที่ shape brand นี้ → `DECISIONS.md` *(to be created)*
+- Decisions ที่ shape brand นี้ → `DECISIONS.md`
