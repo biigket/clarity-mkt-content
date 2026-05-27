@@ -158,19 +158,11 @@
 
 ### Color Palette
 
-**Video/Photo (primary visual)** · ตาม Clarity AI Prompt System v1
+**Single brand palette** · ใช้กับ video · photo · UI · print · static ads · condo screens
 - **Base:** Warm espresso/brown tones `#3D2F24` · `#5C4534`
 - **Highlights:** Bronze-gold `#B8935B` · `#D4A574`
 - **Mood:** cinematic shallow depth of field · warm documentary · golden hour
 - **Reference:** Anthony Bourdain documentary feel · Apple product film · Tasting Table
-
-**UI/Print/Static ads (secondary · brand identity)**
-- **Primary:** Soft sage green `#7BA098` (medical + calm)
-- **Accent:** Warm coral `#E8967C` (energy + warmth)
-- **Neutral:** Cream `#F8F5F0` + Warm gray `#8B8278`
-- **Text:** Deep navy `#1B2A3D`
-
-> **Why split:** Video documentary style needs warm cinematic palette (espresso/bronze) ที่เน้น skin texture + clinical drama · ขณะที่ UI/print ต้อง brand recognition (sage green) ที่ work บน screen เล็ก
 
 ### Typography
 - **Headlines:** Sans-serif friendly (Noto Sans Thai, IBM Plex Thai)
