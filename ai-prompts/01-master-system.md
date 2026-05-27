@@ -108,14 +108,40 @@ PRODUCT MIX (treatment focus):
 - ยกกระชับ 33% (echo)
 - งานผิว 20% (echo)
 
-TREATMENT STACK (Acne Scar Program · use ใน ad copy + script):
-- Layer 1 — Subcision → sub-dermal fibrosis · rolling scar
-- Layer 2 — MNRF (Microneedling RF) → dermal remodeling · box scar
-- Layer 3 — Ablative Fractional Laser (CO2) → surface ablation · texture
-- Layer 4 — Picolaser → pigmentation · PIH
-- Brand line: "All layers in 1 program · 5,000 ราคาเดียว"
+SERVICE EQUIPMENT STACK (verified against actual clinic equipment · use ใน ad copy + script):
+
+หลุมสิว (Acne Scar · HERO) — 5 layers:
+- Subcision (manual · เข็ม · NOT machine) → sub-dermal fibrosis · rolling scar · tethered scar
+- Microneedle RF (MNRF) → dermal collagen rebuild · box scar
+- Ablative Fractional Laser (CO2 · ER:YAG) → surface ablation · texture
+- Non-Ablative Fractional Laser (Thulium · ER:Glass) → mid-dermal · ผิวบาง · low downtime
+- Picolaser → pigmentation · PIH · scar color
+
+งานผิว (Skin Brightening · Cash Cow) — 7 layers:
+- Picolaser → melasma · ฝ้า · กระ · PIH
+- Ablative Fractional Laser (CO2 · ER:YAG) → surface
+- Non-Ablative Fractional Laser (Thulium · ER:Glass) → mid-dermal
+- Microneedle RF (MNRF) → dermal collagen
+- Long-Pulsed KTP → superficial vascular · red spots
+- Long-Pulsed ND:YAG → deep vascular · hair
+- Diode 4-wavelength Laser → tone · multi-target
+
+ยกกระชับ (Skin Tightening · Cash Cow) — 3 layers:
+- HIFU → deep SMAS lift
+- Microneedle RF (MNRF) → dermal tightening
+- Synergy Dotting (RF + MFU hybrid) → dual-mechanism multi-depth
+
+BRAND LINES:
+- Acne scar long: "Subcision · MNRF · Ablative Fractional Laser · Picolaser · All layers in 1 program"
+- Acne scar short: "All scar layers in 1 program · 5,000 ราคาเดียว"
 - Ties to secondary tagline: "หลุมสิวต้องรักษาทุกชั้นผิว"
-- AVOID: brand-specific machine names (Sylfirm X · Vbeam) · "newest/best in the world" · competitor name comparisons
+
+AVOID:
+- Brand-specific machine names (Sylfirm X · Vbeam · Picosure · etc) → use generic technique name
+- "Newest/best in the world" → forbidden words
+- Competitor name comparisons
+- Technique ที่ไม่ได้อยู่ใน table นี้ → ห้ามใส่ใน content (verify accuracy mandatory)
+- โฆษณา Subcision ในรูป "เครื่อง" / "machine" → ผิด · เป็น manual procedure
 
 ANTI-SCARCITY RULE (brand-critical):
 - DO NOT use urgency-based scarcity in any ad copy
