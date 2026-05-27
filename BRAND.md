@@ -37,6 +37,38 @@
 
 ---
 
+## Founder Profile
+
+> **นพ.ฐิติคมน์ (หมอบิ๊ก)** — Founder, Clarity Clinic
+
+| Field | Value |
+|-------|-------|
+| ชื่อในสื่อ | หมอบิ๊ก · หมอ Big · Dr.Big |
+| ชื่อจริง | นพ.ฐิติคมน์ |
+| Specialty | Aesthetic Doctor |
+| เลขใบประกอบวิชาชีพ | ว.61395 |
+| Role | Founder · Clarity Clinic |
+
+**ใช้ตรงไหน (mandatory · ทุก asset):**
+- Ad creative (static poster · video end card) → ชื่อ + Specialty + ว.
+- Founder-led content (TikTok/IG/FB) → ชื่อจริงครั้งแรกในคลิป · หลังจากนั้นเรียก "หมอบิ๊ก"
+- Patient consult intro → "หมอบิ๊ก นพ.ฐิติคมน์ · Aesthetic Doctor"
+- Bio social channels → name + specialty + ว.
+- LINE OA welcome → ชื่อจริง + role
+
+**Display format ที่ approved:**
+- Full: `นพ.ฐิติคมน์ (หมอบิ๊ก) · Aesthetic Doctor · ว.61395`
+- Short: `หมอบิ๊ก · Aesthetic Doctor`
+- Casual (TikTok/Reel): `หมอบิ๊ก`
+
+**ห้าม:**
+- "ดร.ฐิติคมน์" / "Dr.Thitikom" → formal · ขัด voice rules
+- "Dermatologist" / "ผิวหนัง" → ไม่ใช่ board cert ที่ verify (specialty จริง = Aesthetic Doctor)
+- ภาพ 3 หมอ side-by-side ใน founder-led content → dilute founder brand
+- เลข ว. ผิด (verify 61395 ก่อน publish)
+
+---
+
 ## Taglines (สาธารณะ · ใช้ทุก content)
 
 ### Primary Tagline (commercial · use in CTA + end card)
