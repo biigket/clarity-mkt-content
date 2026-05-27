@@ -113,35 +113,87 @@
 
 ---
 
-## Month 2 — Preview
+## Month 2 — Day-by-Day Calendar
 
-### Week 5 — Specialist Authority
-- PE6 หลุมสิวไม่หายขาด — ดีขึ้น 60-80% (Real)
-- PE7 Skincare routine หลัง subcision (Avatar)
-- PS7 คนไข้ vlog จากที่ลองหลายคลินิก (Real)
-- AM6 ทำไม Clarity ไม่ลง flash sale (Real)
-- TC2 ไฟฉายส่อง texture (Real)
+### Week 5 — Specialist Authority (D29-D35)
 
-### Week 6 — Diverse Patient Stories
-- PS9 Before/After รอยแดง (Real)
-- PS10 คนไข้ออฟฟิศพักเที่ยง (Real)
-- PE8 ทำไมต้องเว้น 4-8 อาทิตย์ (Avatar)
-- AM2 ราคาเริ่มต้นเพียง...กับดัก (Avatar)
-- PS11 คนไข้ skeptic ที่สุดท้ายเชื่อ (Real)
+| Day | Time | Pillar | Format | Clip ID | Title |
+|---|---|---|---|---|---|
+| จ. | 17:00 | 1-Patient | **Real** | PS7 | คนไข้ vlog · เป็นมา 8 ปี เสียเงิน 300k |
+| อ. | 16:00 | 3-Anti-mkt | **Real** | AM6 | Clarity ไม่ลง flash sale 80% |
+| พ. | 17:00 | 2-Philosophy | **Real** | PE6 | หลุมสิวไม่หายขาด · ดีขึ้น 60-80% |
+| พฤ. | 19:00 | 1-Patient | **Real** | PS9 | Before/After รอยแดงหลังสิว |
+| อา. | 20:00 | 4-Clinic | **Real** | TC2 | ไฟฉายส่อง texture |
 
-### Week 7 — Deep Conversion
-- PS12 ทำที่นี่ต่างจากที่อื่นยังไง (Real)
-- PE6 sequel — case studies ที่ proof 60-80% (Real)
-- AM3 sequel — Q&A live (Real)
-- PS new — เคสเดือนนี้ (Real)
-- TC new — workshop client (Real)
+**Week 5 theme:** Specialist depth — Persona D (skeptical) heavy · honest expectation
 
-### Week 8 — Community Building
-- Inner Circle 100 — launch + first event recap
-- Founding member spotlight
-- Member-only LINE community intro
-- Behind-the-scenes — staff intro
-- Anniversary recap
+### Week 6 — Diverse Patient Stories (D36-D42)
+
+| Day | Time | Pillar | Format | Clip ID | Title |
+|---|---|---|---|---|---|
+| จ. | 17:00 | 1-Patient | **Real** | PS10 | คนไข้ออฟฟิศ · พักเที่ยง 45 นาที |
+| อ. | 16:00 | 3-Anti-mkt | Avatar | AM2 | "ราคาเริ่มต้นเพียง..." กับดัก |
+| พ. | 17:00 | 2-Philosophy | Avatar | PE7 | Skincare routine หลัง subcision |
+| พฤ. | 19:00 | 2-Philosophy | Avatar | PE8 | เว้น 4-8 อาทิตย์ ทำไม (PE2 sequel) |
+| อา. | 20:00 | 1-Patient | **Real** | PS11 | คนไข้ skeptic ที่สุดท้ายเชื่อ |
+
+**Week 6 theme:** Expand persona reach (A office + D skeptical) · sequel content
+
+### Week 7 — Deep Conversion (D43-D49)
+
+| Day | Time | Pillar | Format | Clip ID | Title |
+|---|---|---|---|---|---|
+| จ. | 17:00 | 1-Patient | **Real** | PS12 | ทำที่นี่ต่างจากที่อื่นยังไง |
+| อ. | 16:00 | 3-Anti-mkt | **Real** | AM3-Q | Q&A · ตอบคอมเม้นต์จาก AM3 (NEW) |
+| พ. | 17:00 | 2-Philosophy | **Real** | PE6-CS | Case studies proof 60-80% (PE6 sequel · NEW) |
+| พฤ. | 19:00 | 1-Patient | **Real** | PS13 | เคสเดือนนี้ · before/after recent (NEW) |
+| อา. | 20:00 | 4-Clinic | **Real** | TC6 | Workshop · Inner Circle event preview (NEW) |
+
+**Week 7 theme:** Convert long-watching audience · sequel + recency + event hype
+
+### Week 8 — Community Building (D50-D56)
+
+| Day | Time | Pillar | Format | Clip ID | Title |
+|---|---|---|---|---|---|
+| จ. | 17:00 | 1-Patient | **Real** | PS14 | Founding member spotlight (NEW) |
+| อ. | 16:00 | 3-Anti-mkt | Avatar | AM7 | ทำไม Clarity ไม่ลด PRICE ในเทศกาล (NEW) |
+| พ. | 17:00 | 2-Philosophy | Avatar | PE9 | 5 myth skincare ที่หมอเจอบ่อย (NEW) |
+| พฤ. | 19:00 | 4-Clinic | **Real** | TC7 | Inner Circle 100 · benefit + Line community (NEW) |
+| อา. | 20:00 | 4-Clinic | **Real** | TC8 | Month 2 recap + Month 3 sneak peek (NEW) |
+
+**Week 8 theme:** Community + Inner Circle 100 launch · member-only LINE intro
+
+---
+
+## Month 2 Summary
+
+| Metric | Count |
+|---|---|
+| Total clips | 20 |
+| Real (หมอ Big appear) | 14 |
+| Avatar | 6 |
+| New clips (no prior brief) | 9 |
+| Existing library clips | 11 |
+| Pillar 1 (Patient Story) | 7 |
+| Pillar 2 (Education) | 5 |
+| Pillar 3 (Anti-marketing) | 4 |
+| Pillar 4 (Clinic Experience) | 4 |
+
+**Avatar/Real Ratio:** 30/70 — heavier Real (specialist authority theme)
+
+### Month 2 NEW clip hooks (9 ตัว)
+
+| ID | Title | Hook 3 วินาที | Format |
+|---|---|---|---|
+| **AM3-Q** | Q&A · ตอบคอมเม้นต์จาก AM3 | "อาทิตย์ที่แล้วมีคอมเม้นต์ที่น่าตอบเยอะมาก" | Real |
+| **PE6-CS** | Case studies proof 60-80% | "พูดว่าดีขึ้น 60-80% ดูเคสจริงกัน" | Real |
+| **PS13** | เคสเดือนนี้ · before/after recent | "เคสที่หมอประทับใจที่สุดเดือนนี้" | Real |
+| **TC6** | Inner Circle event preview | "วันที่ 28 มีอีเวนต์ที่ Clarity คืออะไร" | Real |
+| **PS14** | Founding member spotlight | "วันแรกที่เธอมา ตอนนี้เป็น Founding Member" | Real |
+| **AM7** | ไม่ลด PRICE ในเทศกาล | "วันแม่ วันพ่อ ปีใหม่ คลินิกผมราคาเท่าเดิม" | Avatar |
+| **PE9** | 5 myth skincare ที่เจอบ่อย | "5 ความเชื่อผิดเรื่องผิว ที่ผมเจอทุกอาทิตย์" | Avatar |
+| **TC7** | Inner Circle 100 · benefit + LINE | "100 คนแรกของ Clarity ได้อะไรบ้าง" | Real |
+| **TC8** | Month 2 recap + Month 3 sneak | "2 เดือนผ่านไป Clarity เปลี่ยนยังไง" | Real |
 
 ---
 

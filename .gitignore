@@ -21,8 +21,11 @@ Thumbs.db
 
 # Secrets (Google service account, etc.)
 .secrets/
+secrets/
 *service-account*.json
 *credentials*.json
+*creds*.json
+*.key
 
 # Claude Code per-machine settings
 .claude/settings.local.json

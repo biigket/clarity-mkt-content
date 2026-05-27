@@ -12,11 +12,13 @@
 - [Target Audience](./AUDIENCE.md) — 4 B2C personas
 - [Content Pillars](./PILLARS.md) — 4 pillars + clip outlines
 - [Calendar](./CALENDAR.md) — Schedule + Month 1 day-by-day
+- [Decisions](./DECISIONS.md) — ADR + pending decisions
 - [Budget & Margin](./BUDGET.md) — Margin analysis + allocation
 - [Product Positioning](./playbook/product-positioning.md) — Per-product hook
 - [Guest Pass System](./playbook/guest-pass-system.md) — Full SOP
 - [Member Tier](./playbook/member-tier-benefits.md) — Upgrade benefits *(coming)*
 - [Admin Verification](./ops/admin-verification-script.md) — Counter scripts *(coming)*
+- [Playbook](./PLAYBOOK.md) — Production workflow *(to be created)*
 
 ---
 
