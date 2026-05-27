@@ -1,0 +1,33 @@
+Horizontal 16:9 digital signage poster for premium aesthetic clinic in Bangkok, Thailand.
+
+LAYOUT (centered composition, NO diagram in this frame):
+- Background: rich espresso/dark brown gradient from #3D2F24 to #5C4534
+- Top area: small bronze-gold spaced caps text "PROGRAM · รักษาหลุมสิว"
+- CENTER (dominant element): huge bold cream white "5,000.-" in tabular figures
+  · Font weight: heavy/bold
+  · Size: should dominate the frame, occupying roughly 30-40% of vertical space
+  · Color: cream/off-white #F5F0E8
+- Below the price: medium cream text "ราคาเดียว · ไม่ผูกคอร์ส"
+- Bottom area: rounded bronze frame badge containing cream text "✓ ราคาเดียวตลอดปี · ไม่มีลดราคา"
+- Top-center: small bronze pill with "Clarity · Laser & Aesthetic" logo text
+
+STYLE:
+- Espresso/brown palette ONLY
+- Bronze-gold (#B8935B, #D4A574) accents only
+- Cream off-white (#F5F0E8) text
+- Premium trustworthy mood
+- Thai sans-serif typography (Noto Sans Thai or IBM Plex Thai style)
+- Generous breathing room around the price (do not crowd)
+- Price "5,000.-" must dominate visually, readable from 5 meters
+- Cinematic warm documentary mood
+
+AVOID (critical):
+- Strikethrough/crossed-out prices
+- Discount language: "ลด", "ปกติ", "promotion", "save", "special offer"
+- Scarcity: "จำกัด X สิทธิ์", "เหลือ X ที่", "หมดเขต X"
+- Equipment or device images
+- Bright colors, neon, pastel, clinical white
+- "การันตี", "หายขาด", "100%", "อันดับ 1", "ที่สุด", "ครั้งเดียวจบ"
+- Before/after photos
+- Body parts
+- Cartoon or 3D rendered style
