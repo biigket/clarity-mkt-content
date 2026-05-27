@@ -1,0 +1,30 @@
+Reformat the reference skin cross-section diagram into a horizontal 16:9 digital signage poster for a premium aesthetic clinic in Bangkok.
+
+LAYOUT:
+- Keep the 4-layer skin diagram from the reference image, place it in the LEFT 40% of the new frame
+- Remove any large text labels that were on the diagram (keep it clean)
+- Background: extend the reference's espresso/brown gradient to fill the full horizontal frame
+- RIGHT 60% of frame: add bold Thai text centered vertically:
+  · Line 1 (huge bold, cream white #F5F0E8): "หลุมสิว"
+  · Line 2 (medium, bronze-gold #B8935B): "มี 4 ชั้น"
+  · Line 3 (smaller, cream): "ต้องใช้ 4 เทคนิค"
+- Top-center: small bronze pill containing "Clarity · Laser & Aesthetic" logo text
+
+STYLE:
+- Match the reference image's espresso/brown palette EXACTLY (#3D2F24 to #5C4534)
+- Match the reference's bronze-gold (#B8935B, #D4A574) accent style
+- Cream off-white (#F5F0E8) for primary text
+- Thai sans-serif typography (Noto Sans Thai / IBM Plex Thai style)
+- Premium aesthetic clinic mood matching reference exactly
+- Text minimum size readable from 2-3 meter viewing distance
+- Generous breathing room around text
+
+AVOID (critical):
+- Adding equipment images, device silhouettes, or brand machine names
+- Scarcity language: "จำกัด", "เหลือ", "หมดเขต"
+- Discount language: "ลด", "ปกติ", "promotion"
+- Forbidden words: "การันตี", "หายขาด", "100%", "อันดับ 1", "ที่สุด", "ครั้งเดียวจบ"
+- Before/after photos
+- Body parts visible (no face, arm, hand)
+- Bright colors, neon, pastel, clinical white
+- Cartoon or 3D rendered style
