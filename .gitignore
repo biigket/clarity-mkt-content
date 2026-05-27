@@ -19,5 +19,10 @@ Thumbs.db
 .env
 .env.local
 
+# Secrets (Google service account, etc.)
+.secrets/
+*service-account*.json
+*credentials*.json
+
 # Claude Code per-machine settings
 .claude/settings.local.json
