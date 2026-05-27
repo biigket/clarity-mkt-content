@@ -19,10 +19,13 @@ Thumbs.db
 .env
 .env.local
 
-# Google service account credentials (NEVER COMMIT)
+# Secrets (Google service account, etc.)
+.secrets/
+secrets/
+*service-account*.json
 *credentials*.json
 *creds*.json
-*service-account*.json
-secrets/
-.env
 *.key
+
+# Claude Code per-machine settings
+.claude/settings.local.json

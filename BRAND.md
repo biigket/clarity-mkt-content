@@ -258,32 +258,59 @@ Product variants: หลุมสิว · ยกกระชับ · งาน
 
 ---
 
-## Treatment Stack (Acne Scar Program)
+## Service Equipment Stack
 
-> **"All layers in 1 program · 5,000 ราคาเดียว"**
+> **"All layers in 1 program · 5,000 ราคาเดียว"** (หลุมสิว hero)
 
-| Layer | Technique | Targets |
-|-------|-----------|---------|
-| 1 · Sub-dermal fibrosis | **Subcision** | Rolling scar · พังผืดใต้ผิว · tethered scar |
-| 2 · Dermal remodeling | **MNRF** (Microneedling RF) | Box scar · collagen rebuild · skin tightening |
-| 3 · Surface ablation | **Ablative Fractional Laser** (CO2) | Texture · surface scar · pore size |
-| 4 · Pigmentation | **Picolaser** | PIH · post-acne pigmentation · scar color |
+### หลุมสิว · Acne Scar Program (Hero)
 
-**Brand positioning line (use ใน ad · video · static):**
-- Long: `Subcision · MNRF · Ablative Fractional Laser · Picolaser · All layers in 1 program`
-- Short: `All scar layers in 1 program · 5,000 ราคาเดียว`
-- Tagline ref: ผูกเข้า secondary tagline "หลุมสิวต้องรักษาทุกชั้นผิว"
+| Purpose | Technique | Equipment |
+|---------|-----------|-----------|
+| Sub-dermal fibrosis | **Subcision** *(manual · เข็ม · ไม่ใช่เครื่อง)* | Rolling scar · พังผืดใต้ผิว · tethered scar |
+| Dermal collagen rebuild | **Microneedle RF (MNRF)** | Box scar · skin tightening |
+| Surface ablation | **Ablative Fractional Laser** | CO2 · ER:YAG → texture · surface scar |
+| Mid-dermal remodel | **Non-Ablative Fractional Laser** | Thulium · ER:Glass → ผิวบาง · downtime ต่ำ |
+| Pigmentation (PIH) | **Picolaser** | post-acne pigment · scar color |
 
-**Why บอก technique stack:**
+### งานผิว · Skin Brightening (Cash Cow)
+
+| Purpose | Technique | Equipment |
+|---------|-----------|-----------|
+| Pigmentation | **Picolaser** | melasma · ฝ้า · กระ · PIH |
+| Surface ablation | **Ablative Fractional Laser** | CO2 · ER:YAG |
+| Mid-dermal | **Non-Ablative Fractional Laser** | Thulium · ER:Glass |
+| Dermal | **Microneedle RF (MNRF)** | collagen rebuild |
+| Superficial vascular | **Long-Pulsed KTP** | red spots · spider vessels |
+| Deep vascular / hair | **Long-Pulsed ND:YAG** | deep vessels · hair removal |
+| Tone & multi-target | **Diode 4-wavelength Laser** | overall skin · hair |
+
+### ยกกระชับ · Skin Tightening (Cash Cow)
+
+| Purpose | Technique | Equipment |
+|---------|-----------|-----------|
+| Deep SMAS lift | **HIFU** | jawline · neck · brow lift |
+| Dermal tightening | **Microneedle RF (MNRF)** | collagen + tightening |
+| RF + MFU combined | **Synergy Dotting** *(RF + MFU hybrid)* | dual-mechanism · multi-depth |
+
+---
+
+### Brand Positioning Lines (use ใน ad · video · static)
+
+- **Acne scar long:** `Subcision · MNRF · Ablative Fractional Laser · Picolaser · All layers in 1 program`
+- **Acne scar short:** `All scar layers in 1 program · 5,000 ราคาเดียว`
+- **Tagline ref:** ผูกเข้า secondary tagline "หลุมสิวต้องรักษาทุกชั้นผิว"
+
+### Why บอก technique stack
 - Differentiate จากคลินิกที่ใช้ "เครื่องเดียวจบ" (ขัด pillar)
 - Authority signal ที่ verifiable (ไม่ใช่ marketing fluff)
 - Educate audience เรื่อง layer-based treatment philosophy
 
-**ห้าม:**
+### ห้าม
 - ใช้ชื่อ brand เครื่อง specific (เช่น "Sylfirm X" / "Vbeam") → ขัดความเป็นกลาง · ลด credibility
 - บอกว่า "เครื่องที่ดีที่สุด/ใหม่ที่สุดในโลก" → ขัด forbidden words
 - เปรียบเทียบกับคลินิกโดยชื่อ
-- ใส่ technique อื่นที่ไม่ได้ทำจริง (ต้อง verify clinic offers all 4)
+- ใส่ technique อื่นที่ไม่ได้ทำจริง · ทุก ad ต้อง verify ตาม table นี้
+- โฆษณา Subcision ในรูป "เครื่อง" หรือ "machine" → ผิดความจริง (Subcision = manual procedure)
 
 ---
 

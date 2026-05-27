@@ -64,7 +64,7 @@
 | Day | Time | Pillar | Format | Clip ID | Title |
 |---|---|---|---|---|---|
 | จ. | 17:00 | 1-Patient | **Real** | PS4 | เคสคนไข้ใจร้อน |
-| อ. | 16:00 | 3-Anti-mkt | Avatar | AM5 | เปิดราคา subcision 2,490 |
+| อ. | 16:00 | 3-Anti-mkt | Avatar | AM5 | เปิดราคา 5K bundle บนเว็บ |
 | พ. | 17:00 | 2-Philosophy | Avatar | PE2 | Collagen mature คืออะไร |
 | พฤ. | 19:00 | 4-Clinic | **Real** | TC1 | Trica3D scan POV |
 | อา. | 20:00 | 1-Patient | **Real** | PS3 | Day 7/30/90 timelapse |
