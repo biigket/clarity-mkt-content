@@ -20,6 +20,12 @@
 - [Admin Verification](./ops/admin-verification-script.md) — Counter scripts *(coming)*
 - [Playbook](./PLAYBOOK.md) — Production workflow *(to be created)*
 
+## Local Workflow (Claude Code CLI)
+
+- [Local Setup Guide](./docs/local-setup.md) — install · API keys · workflows
+- `make help` — workflow shortcuts (generate · animate · upload)
+- `.env.example` — API keys template (Phaya · ElevenLabs · Imgur)
+
 ---
 
 ## Project Status
