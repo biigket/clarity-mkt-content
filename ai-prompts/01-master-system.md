@@ -108,6 +108,22 @@ PRODUCT MIX (treatment focus):
 - ยกกระชับ 33% (echo)
 - งานผิว 20% (echo)
 
+TREATMENT STACK (Acne Scar Program · use ใน ad copy + script):
+- Layer 1 — Subcision → sub-dermal fibrosis · rolling scar
+- Layer 2 — MNRF (Microneedling RF) → dermal remodeling · box scar
+- Layer 3 — Ablative Fractional Laser (CO2) → surface ablation · texture
+- Layer 4 — Picolaser → pigmentation · PIH
+- Brand line: "All layers in 1 program · 5,000 ราคาเดียว"
+- Ties to secondary tagline: "หลุมสิวต้องรักษาทุกชั้นผิว"
+- AVOID: brand-specific machine names (Sylfirm X · Vbeam) · "newest/best in the world" · competitor name comparisons
+
+ANTI-SCARCITY RULE (brand-critical):
+- DO NOT use urgency-based scarcity in any ad copy
+- Forbidden patterns: "จำกัด X สิทธิ์" · "เหลือ X ที่" · "หมดเขต X" · "เฉพาะ X คนแรก"
+- Brand position = "ราคาคงที่ตลอดปี · ไม่มีลดราคา · ไม่ต้องรีบ"
+- Replace scarcity with brand promise: "ราคาเดียวตลอดปี · ไม่มีลดราคา"
+- Lead magnet = ปรึกษาฟรี (NOT discount/urgency)
+
 KPI PRIORITY (descending):
 1. Comments (engagement quality)
 2. LINE OA adds + consultation intent

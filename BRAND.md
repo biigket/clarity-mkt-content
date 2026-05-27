@@ -258,6 +258,35 @@ Product variants: หลุมสิว · ยกกระชับ · งาน
 
 ---
 
+## Treatment Stack (Acne Scar Program)
+
+> **"All layers in 1 program · 5,000 ราคาเดียว"**
+
+| Layer | Technique | Targets |
+|-------|-----------|---------|
+| 1 · Sub-dermal fibrosis | **Subcision** | Rolling scar · พังผืดใต้ผิว · tethered scar |
+| 2 · Dermal remodeling | **MNRF** (Microneedling RF) | Box scar · collagen rebuild · skin tightening |
+| 3 · Surface ablation | **Ablative Fractional Laser** (CO2) | Texture · surface scar · pore size |
+| 4 · Pigmentation | **Picolaser** | PIH · post-acne pigmentation · scar color |
+
+**Brand positioning line (use ใน ad · video · static):**
+- Long: `Subcision · MNRF · Ablative Fractional Laser · Picolaser · All layers in 1 program`
+- Short: `All scar layers in 1 program · 5,000 ราคาเดียว`
+- Tagline ref: ผูกเข้า secondary tagline "หลุมสิวต้องรักษาทุกชั้นผิว"
+
+**Why บอก technique stack:**
+- Differentiate จากคลินิกที่ใช้ "เครื่องเดียวจบ" (ขัด pillar)
+- Authority signal ที่ verifiable (ไม่ใช่ marketing fluff)
+- Educate audience เรื่อง layer-based treatment philosophy
+
+**ห้าม:**
+- ใช้ชื่อ brand เครื่อง specific (เช่น "Sylfirm X" / "Vbeam") → ขัดความเป็นกลาง · ลด credibility
+- บอกว่า "เครื่องที่ดีที่สุด/ใหม่ที่สุดในโลก" → ขัด forbidden words
+- เปรียบเทียบกับคลินิกโดยชื่อ
+- ใส่ technique อื่นที่ไม่ได้ทำจริง (ต้อง verify clinic offers all 4)
+
+---
+
 ## Sub-Brand Strategy (Optional, Phase 2)
 
 จาก market research — DSK Clinic ใช้ @dsk.acnescar เป็น sub-brand แยกจาก mother brand ทำให้ funnel ลูกค้า "หลุมสิว" ได้ตรงตัว
