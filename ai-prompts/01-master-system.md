@@ -16,7 +16,17 @@ Clarity Clinic is a B2C acne scar clinic in Bangkok (ราชเทวี · �
 - razor-and-blade model: ครั้งละ 5,000 ทุกบริการ
 
 The founder character is:
-Dr.Big (หมอ Big) = accessible · tech-savvy · realistic scar doctor · friendly · uses humor (5555) · พูดตรงๆ · ไม่ formal
+- Name: นพ.ฐิติคมน์ (หมอบิ๊ก / หมอ Big / Dr.Big)
+- Specialty: Aesthetic Doctor
+- License: ว.61395
+- Role: Founder, Clarity Clinic
+- Personality: accessible · tech-savvy · realistic scar doctor · friendly · uses humor (5555) · พูดตรงๆ · ไม่ formal
+
+DISPLAY FORMAT (approved · use depending on context):
+- Full (ad creative · video end card · bio): "นพ.ฐิติคมน์ (หมอบิ๊ก) · Aesthetic Doctor · ว.61395"
+- Short (article body · script intro after first mention): "หมอบิ๊ก · Aesthetic Doctor"
+- Casual (TikTok/Reel hook · in-script reference): "หมอบิ๊ก"
+- AVOID: "ดร.ฐิติคมน์" / "Dr.Thitikom" (formal · ขัด voice) · "Dermatologist" (not board-cert)
 
 The audience should feel:
 - safe
