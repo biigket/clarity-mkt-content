@@ -25,10 +25,14 @@ Static-to-static silent loop · no audio · text readable from 2-3 meter viewing
 
 | File | Purpose |
 |------|---------|
-| `prompts/cut1.txt` | Cut 1 · Education + 4-layer diagram + headline "หลุมสิว มี 4 ชั้น" |
-| `prompts/cut2.txt` | Cut 2 · Price 5,000 + brand promise badge |
-| `prompts/cut3.txt` | Cut 3 · Location + QR + LINE @clarityclinic |
-| `generate.sh` | Async script · submits 3 jobs to Phaya · polls · downloads |
+| `generate.sh` | **Text-to-Image** · async script · no reference image needed |
+| `generate-i2i.sh` | **Image-to-Image** · uses v3 diagram as reference (preserves brand visual) |
+| `prompts/cut1.txt` | Cut 1 t2i · detailed full description with diagram |
+| `prompts/cut2.txt` | Cut 2 t2i · price + brand promise badge |
+| `prompts/cut3.txt` | Cut 3 t2i · location + QR + LINE @clarityclinic |
+| `prompts/cut1-i2i.txt` | Cut 1 i2i · reformat ref diagram into 16:9 |
+| `prompts/cut2-i2i.txt` | Cut 2 i2i · style guide only, no diagram in frame |
+| `prompts/cut3-i2i.txt` | Cut 3 i2i · style guide only, no diagram in frame |
 
 ---
 
@@ -48,19 +52,70 @@ export PHAYA_API_KEY="pk_xxx"
 
 > ⚠️ **Never commit** your API key. The `.gitignore` already covers common patterns.
 
-### 3. Run
+### 3. Pick mode · t2i or i2i
+
+#### Mode A · Text-to-Image (no reference)
+
+Quick · designed entirely from prompt · ไม่ต้อง host รูป
 
 ```bash
 cd ads/condo-tv-loop-15s/
 ./generate.sh
 ```
 
-Expected output:
+#### Mode B · Image-to-Image (uses v3 diagram as reference) ⭐ recommended for brand consistency
+
+Better brand match · uses your existing v3 diagram poster as style ref
+
+```bash
+# 1. Host the v3 diagram somewhere public (see "Hosting reference image" below)
+export REFERENCE_URL="https://raw.githubusercontent.com/biigket/clarity-mkt-content/main/ads/assets/v3-diagram.png"
+
+# 2. Run i2i script
+cd ads/condo-tv-loop-15s/
+./generate-i2i.sh
+```
+
+### Expected output (either mode)
+
 - `clarity-condo-cut1.png` (16:9 · 2K)
 - `clarity-condo-cut2.png`
 - `clarity-condo-cut3.png`
 - Each cut takes ~5-15s to process
 - Total credits used: ~3 (1 per cut · depends on Phaya pricing)
+
+---
+
+## Hosting reference image (for i2i mode)
+
+Phaya i2i needs `input_urls` (public URL · not file upload). Options:
+
+### Option 1 · GitHub Raw (recommended · reproducible)
+
+```bash
+# 1. Save v3 diagram PNG locally
+# 2. Move into repo
+mv ~/Downloads/clarity-v3-diagram.png ads/assets/v3-diagram.png
+git add ads/assets/v3-diagram.png
+git commit -m "Add v3 diagram as i2i reference"
+git push origin main
+
+# 3. Use raw URL
+export REFERENCE_URL="https://raw.githubusercontent.com/biigket/clarity-mkt-content/main/ads/assets/v3-diagram.png"
+```
+
+### Option 2 · Imgur (no commit · temporary)
+
+1. Drag PNG to https://imgur.com
+2. Right-click uploaded image → "Copy image address"
+3. Use that URL:
+```bash
+export REFERENCE_URL="https://i.imgur.com/xxxxx.png"
+```
+
+### Option 3 · Cloudinary / S3 / any CDN
+
+Any public HTTPS URL that returns a PNG/JPEG/WEBP works. Limit: ≤30MB per image, max 5 URLs.
 
 ### 4. Review & iterate
 
@@ -87,29 +142,73 @@ Import 3 PNGs into CapCut / Premiere / After Effects:
 
 ## Phaya API reference
 
-### Endpoint (text-to-image · async)
+### Endpoint A · Text-to-Image (async)
 
 ```bash
-# Submit job
+# Submit
 POST https://api.phaya.io/api/v1/gpt-image-2-text-to-image/create
 Authorization: Bearer YOUR_API_KEY
 Content-Type: application/json
 
 {
   "prompt": "...",
-  "aspect_ratio": "16:9",   # auto · 1:1 · 5:4 · 9:16 · 21:9 · 16:9 · 4:3 · 3:2 · 4:5 · 3:4 · 2:3
-  "resolution": "2K"        # 1K · 2K · 4K
+  "aspect_ratio": "16:9",
+  "resolution": "2K"
 }
 
-→ returns: { "job_id": "...", "task_id": "...", "status": "processing", "credits_used": 1.0 }
+# Poll
+GET https://api.phaya.io/api/v1/gpt-image-2-text-to-image/status/{job_id}
 ```
 
-```bash
-# Poll status
-GET https://api.phaya.io/api/v1/gpt-image-2-text-to-image/status/{job_id}
-Authorization: Bearer YOUR_API_KEY
+### Endpoint B · Image-to-Image (async)
 
-→ returns: { "status": "completed", "image_url": "https://.../...png", "processing_time_ms": 4820 }
+```bash
+# Submit · requires input_urls
+POST https://api.phaya.io/api/v1/gpt-image-2-image-to-image/create
+Authorization: Bearer YOUR_API_KEY
+Content-Type: application/json
+
+{
+  "prompt": "...",
+  "input_urls": ["https://.../source.png"],
+  "aspect_ratio": "16:9",
+  "resolution": "2K"
+}
+
+# Poll
+GET https://api.phaya.io/api/v1/gpt-image-2-image-to-image/status/{job_id}
+```
+
+### Common params
+
+- `aspect_ratio` (string): `auto` · `1:1` · `5:4` · `9:16` · `21:9` · `16:9` · `4:3` · `3:2` · `4:5` · `3:4` · `2:3`
+- `resolution` (string): `1K` · `2K` · `4K`
+- `input_urls` (i2i only): array of 1-5 URLs · JPEG/PNG/WEBP · ≤30MB each
+
+### Constraints
+
+- `aspect_ratio="auto"` ใช้ได้เฉพาะ `resolution="1K"` เท่านั้น
+- `aspect_ratio="1:1"` ไม่รองรับ `resolution="4K"`
+
+### Response (submit)
+
+```json
+{
+  "job_id": "f1c2...",
+  "task_id": "281e...",
+  "status": "processing",
+  "credits_used": 1.0
+}
+```
+
+### Response (status · completed)
+
+```json
+{
+  "status": "completed",
+  "image_url": "https://bvlk....supabase.co/.../...png",
+  "processing_time_ms": 4820
+}
 ```
 
 Status values: `processing` · `completed` · `failed`

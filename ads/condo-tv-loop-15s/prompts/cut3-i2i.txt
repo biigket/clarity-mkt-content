@@ -1,0 +1,38 @@
+Using the reference image's espresso/brown color palette and brand mood as a STYLE GUIDE ONLY, create a completely NEW horizontal 16:9 digital signage poster.
+
+DO NOT include the skin diagram from the reference — design this frame from scratch.
+
+LAYOUT (split 60/40, NO diagram):
+- Background: warm espresso/brown gradient matching reference (#3D2F24 to #5C4534)
+- LEFT 60% of frame (left-aligned text, stacked vertically):
+  · Top: small bronze-gold spaced caps "CLARITY CLINIC"
+  · Big bold cream "ราชเทวี"
+  · Below medium cream "ใกล้ BTS"
+  · Below small bronze-gold spaced "ปรึกษาแพทย์ฟรี · ทักไลน์"
+  · Below medium cream highlighted "@clarityclinic"
+- RIGHT 40% of frame (centered):
+  · Large white square placeholder for QR code (LINE OA QR), approximately 600x600 pixels visual area
+  · Subtle bronze frame around the QR placeholder
+  · The QR area should be high contrast white background ready for QR pattern overlay
+  · Below QR: small cream text "SCAN HERE"
+- Top-center: small bronze pill with "Clarity · Laser & Aesthetic" logo text
+
+STYLE:
+- Match reference palette EXACTLY: espresso/brown background, bronze-gold (#B8935B, #D4A574) accents, cream (#F5F0E8) text
+- Match reference's premium aesthetic clinic mood
+- Welcoming, inviting mood (not pressured, not urgent)
+- Thai sans-serif typography matching reference
+- QR area: clean white square, high contrast, sized for scanning from 1-2 meter viewing distance
+- Cinematic warm documentary feeling
+
+AVOID (critical):
+- DO NOT include the skin diagram from reference
+- Scarcity language: "จำกัด", "เหลือ", "หมดเขต"
+- Discount language: "ลด", "ปกติ", "promotion"
+- Urgency: "ด่วน", "วันนี้เท่านั้น", "เฉพาะ X คนแรก"
+- Equipment images
+- Forbidden words: "การันตี", "หายขาด", "100%", "อันดับ 1", "ที่สุด"
+- Bright colors, neon, pastel, clinical white
+- Cartoon or 3D rendered style
+- Before/after photos
+- Body parts
