@@ -113,55 +113,111 @@
 
 ---
 
-## Month 2 — Day-by-Day Calendar
+## Month 2 — EV Sprint (Live Rollout · D29-D50)
 
-### Week 5 — Specialist Authority (D29-D35)
+> **Active launch:** Fri 29 พ.ค. 2026 → Fri 19 มิ.ย. 2026 (22 days)
+> **Cadence:** 1 hero EV/day · cross-posted to 4 platforms · + 2-3 derivative posts/day
+> **Total daily output:** 5-7 posts/day (hero + derivatives from D-1)
+> **Inventory:** 22/22 EV briefs used · pillar mix PS 7 / PE 6 / AM 4 / TC 5 (≈ 32/27/18/23)
+> **Status:** APPROVED 28 พ.ค. · pending Notion Clips Master sync
+> **Note:** Replaces original Month 2 plan (W5-W8 · 20 clips) · same 4-week timeframe · higher cadence
 
-| Day | Time | Pillar | Format | Clip ID | Title |
+---
+
+### Daily Posting Template (every day · cross-platform)
+
+| Time | Asset | Source | Notes |
+|------|-------|--------|-------|
+| 12:00 | LINE OA broadcast | D-1 hero (snippet 30s + text) | Lunch · re-engage |
+| 12:30 | TikTok 15s cut (hook only) | D-1 hero | Algorithm boost · re-test |
+| 18:00 | IG carousel 3-5 cards | D-1 hero (script breakdown) | Save-able feed post |
+| **19:30** | **TikTok (full 45-60s)** | **TODAY hero** ⭐ | **Peak hour** |
+| 19:45 | IG Reel (full) | TODAY hero | |
+| 20:00 | FB Reel (full) | TODAY hero | |
+| 20:30 | YouTube Shorts (full) | TODAY hero | |
+
+**Special:** D1 (29 พ.ค.) — only today's hero · derivatives start D2
+
+---
+
+### Notion Naming Convention
+
+เมื่อ sync เข้า `🎬 Clips Master` · ใช้ format `[ID] — [Title] [Pillar]`:
+- `PE1 — หมอ 30%–คนไข้ 70% [Education]`
+- `PS1 — Trica3D scan ครั้งแรก [Patient]`
+- `AM1 — ไม่ใช้คำว่าหายขาด [Anti-marketing]`
+- `TC3 — ทัวร์ห้อง treatment [Clinic]`
+
+→ `Bucket` property = pillar tag · for filter/group views
+→ `Type` property = `Evergreen`
+→ `Posted Platforms` = TikTok · IG Reels · Facebook · YouTube Shorts · LINE OA
+
+---
+
+### Week 1 · Foundation (D29-D35 · 29 พ.ค. – 4 มิ.ย.)
+
+Signature clips · brand DNA + first proof
+
+| D | Date | วัน | Hero EV | Pillar | Title |
 |---|---|---|---|---|---|
-| จ. | 17:00 | 1-Patient | **Real** | PS7 | คนไข้ vlog · เป็นมา 8 ปี เสียเงิน 300k |
-| อ. | 16:00 | 3-Anti-mkt | **Real** | AM6 | Clarity ไม่ลง flash sale 80% |
-| พ. | 17:00 | 2-Philosophy | **Real** | PE6 | หลุมสิวไม่หายขาด · ดีขึ้น 60-80% |
-| พฤ. | 19:00 | 1-Patient | **Real** | PS9 | Before/After รอยแดงหลังสิว |
-| อา. | 20:00 | 4-Clinic | **Real** | TC2 | ไฟฉายส่อง texture |
+| D29 | 29 พ.ค. | ศ. | **PE1** | Education | หมอ 30% — คนไข้ 70% (signature) |
+| D30 | 30 พ.ค. | ส. | **AM1** | Anti-mkt | ไม่ใช้คำว่าหายขาด |
+| D31 | 31 พ.ค. | อา. | **PS1** | Patient | Trica3D scan ครั้งแรก (signature) |
+| D32 | 1 มิ.ย. | จ. | **TC3** | Clinic | ทัวร์ห้อง treatment |
+| D33 | 2 มิ.ย. | อ. | **PE2** | Education | Collagen mature คืออะไร |
+| D34 | 3 มิ.ย. | พ. | **PS2** | Patient | Before/After 4 session |
+| D35 | 4 มิ.ย. | พฤ. | **TC1** | Clinic | Trica3D scan POV (PS1 pair) |
 
-**Week 5 theme:** Specialist depth — Persona D (skeptical) heavy · honest expectation
+**Week 1 theme:** Foundation — introduce หมอ Big + 30/70 + tech proof + clinic premise
 
-### Week 6 — Diverse Patient Stories (D36-D42)
+---
 
-| Day | Time | Pillar | Format | Clip ID | Title |
+### Week 2 · Build Trust (D36-D42 · 5–11 มิ.ย.)
+
+Deeper proof + transparency + actionable education
+
+| D | Date | วัน | Hero EV | Pillar | Title |
 |---|---|---|---|---|---|
-| จ. | 17:00 | 1-Patient | **Real** | PS10 | คนไข้ออฟฟิศ · พักเที่ยง 45 นาที |
-| อ. | 16:00 | 3-Anti-mkt | Avatar | AM2 | "ราคาเริ่มต้นเพียง..." กับดัก |
-| พ. | 17:00 | 2-Philosophy | Avatar | PE7 | Skincare routine หลัง subcision |
-| พฤ. | 19:00 | 2-Philosophy | Avatar | PE8 | เว้น 4-8 อาทิตย์ ทำไม (PE2 sequel) |
-| อา. | 20:00 | 1-Patient | **Real** | PS11 | คนไข้ skeptic ที่สุดท้ายเชื่อ |
+| D36 | 5 มิ.ย. | ศ. | **PS3** | Patient | Day 7/30/90 timelapse |
+| D37 | 6 มิ.ย. | ส. | **AM5** | Anti-mkt | เปิดราคา 5K bundle บนเว็บ |
+| D38 | 7 มิ.ย. | อา. | **PE3** | Education | โปรตีน + วิตามินซี |
+| D39 | 8 มิ.ย. | จ. | **PS4** | Patient | เคสคนไข้ใจร้อน |
+| D40 | 9 มิ.ย. | อ. | **TC4** | Clinic | ก่อนทำ subcision เตรียมตัว |
+| D41 | 10 มิ.ย. | พ. | **PE4** | Education | ไม่ทากันแดด = เผาเงิน |
+| D42 | 11 มิ.ย. | พฤ. | **PS8** | Patient | Before/After ฝ้า/กระ |
 
-**Week 6 theme:** Expand persona reach (A office + D skeptical) · sequel content
+**Week 2 theme:** Trust builders — pricing transparency · long-term proof · 70% partnership
 
-### Week 7 — Deep Conversion (D43-D49)
+---
 
-| Day | Time | Pillar | Format | Clip ID | Title |
+### Week 3 · Differentiation + Realism (D43-D49 · 12–18 มิ.ย.)
+
+Anti-marketing push + honest expectations
+
+| D | Date | วัน | Hero EV | Pillar | Title |
 |---|---|---|---|---|---|
-| จ. | 17:00 | 1-Patient | **Real** | PS12 | ทำที่นี่ต่างจากที่อื่นยังไง |
-| อ. | 16:00 | 3-Anti-mkt | **Real** | AM3-Q | Q&A · ตอบคอมเม้นต์จาก AM3 (NEW) |
-| พ. | 17:00 | 2-Philosophy | **Real** | PE6-CS | Case studies proof 60-80% (PE6 sequel · NEW) |
-| พฤ. | 19:00 | 1-Patient | **Real** | PS13 | เคสเดือนนี้ · before/after recent (NEW) |
-| อา. | 20:00 | 4-Clinic | **Real** | TC6 | Workshop · Inner Circle event preview (NEW) |
+| D43 | 12 มิ.ย. | ศ. | **AM3** | Anti-mkt | 5 คำพูดที่ไม่เคยใช้ |
+| D44 | 13 มิ.ย. | ส. | **PS5** | Patient | คนไข้ทำซ้ำ 1 ปี journey |
+| D45 | 14 มิ.ย. | อา. | **PE5** | Education | สม่ำเสมอ vs พลังงานสูง |
+| D46 | 15 มิ.ย. | จ. | **AM4** | Anti-mkt | ทำไมชอบขายคอร์ส 10 ครั้ง |
+| D47 | 16 มิ.ย. | อ. | **PE6** | Education | หลุมสิวไม่หายขาด · ดีขึ้น 60-80% |
+| D48 | 17 มิ.ย. | พ. | **PS6** | Patient | เคสที่หมอเลือกไม่ทำ |
+| D49 | 18 มิ.ย. | พฤ. | **TC2** | Clinic | ไฟฉายส่อง texture |
 
-**Week 7 theme:** Convert long-watching audience · sequel + recency + event hype
+**Week 3 theme:** Differentiation — counter-marketing · realistic claims · counter-intuitive trust
 
-### Week 8 — Community Building (D50-D56)
+---
 
-| Day | Time | Pillar | Format | Clip ID | Title |
+### Week 4 (partial · D50) + Buffer (22 มิ.ย. onwards)
+
+| D | Date | วัน | Hero EV | Pillar | Title |
 |---|---|---|---|---|---|
-| จ. | 17:00 | 1-Patient | **Real** | PS14 | Founding member spotlight (NEW) |
-| อ. | 16:00 | 3-Anti-mkt | Avatar | AM7 | ทำไม Clarity ไม่ลด PRICE ในเทศกาล (NEW) |
-| พ. | 17:00 | 2-Philosophy | Avatar | PE9 | 5 myth skincare ที่หมอเจอบ่อย (NEW) |
-| พฤ. | 19:00 | 4-Clinic | **Real** | TC7 | Inner Circle 100 · benefit + Line community (NEW) |
-| อา. | 20:00 | 4-Clinic | **Real** | TC8 | Month 2 recap + Month 3 sneak peek (NEW) |
+| D50 | 19 มิ.ย. | ศ. | **TC5** | Clinic | Care kit หลังทำ |
 
-**Week 8 theme:** Community + Inner Circle 100 launch · member-only LINE intro
+**After D50 (22 มิ.ย.+):**
+- 🔄 Brief 8 new EV clips (target 30 evergreen)
+- 🔁 Re-share top-performing clips (use analytics from Week 1-3)
+- 🎬 New ad creative cycle (AD07-AD12)
 
 ---
 
@@ -169,31 +225,61 @@
 
 | Metric | Count |
 |---|---|
-| Total clips | 20 |
-| Real (หมอ Big appear) | 14 |
-| Avatar | 6 |
-| New clips (no prior brief) | 9 |
-| Existing library clips | 11 |
-| Pillar 1 (Patient Story) | 7 |
-| Pillar 2 (Education) | 5 |
-| Pillar 3 (Anti-marketing) | 4 |
-| Pillar 4 (Clinic Experience) | 4 |
+| Total hero EV | 22 (unique) |
+| Total posts (hero + derivatives) | ~110-130 (22 × 5-7 outputs) |
+| Pillar 1 (Patient · PS) | 7 clips |
+| Pillar 2 (Education · PE) | 6 clips |
+| Pillar 3 (Anti-marketing · AM) | 4 clips |
+| Pillar 4 (Clinic · TC) | 5 clips |
+| Pillar mix actual | PS 32% · PE 27% · AM 18% · TC 23% |
+| Pillar mix target | PS 23% · PE 33% · AM 17% · Brand 27% |
+| Δ vs target | PS +9% · PE -6% · AM +1% · TC↔Brand -4% |
 
-**Avatar/Real Ratio:** 30/70 — heavier Real (specialist authority theme)
+**Avatar/Real Ratio:** ~30/70 (per existing brief specs)
 
-### Month 2 NEW clip hooks (9 ตัว)
+### Pillar mix variance · notes
 
-| ID | Title | Hook 3 วินาที | Format |
-|---|---|---|---|
-| **AM3-Q** | Q&A · ตอบคอมเม้นต์จาก AM3 | "อาทิตย์ที่แล้วมีคอมเม้นต์ที่น่าตอบเยอะมาก" | Real |
-| **PE6-CS** | Case studies proof 60-80% | "พูดว่าดีขึ้น 60-80% ดูเคสจริงกัน" | Real |
-| **PS13** | เคสเดือนนี้ · before/after recent | "เคสที่หมอประทับใจที่สุดเดือนนี้" | Real |
-| **TC6** | Inner Circle event preview | "วันที่ 28 มีอีเวนต์ที่ Clarity คืออะไร" | Real |
-| **PS14** | Founding member spotlight | "วันแรกที่เธอมา ตอนนี้เป็น Founding Member" | Real |
-| **AM7** | ไม่ลด PRICE ในเทศกาล | "วันแม่ วันพ่อ ปีใหม่ คลินิกผมราคาเท่าเดิม" | Avatar |
-| **PE9** | 5 myth skincare ที่เจอบ่อย | "5 ความเชื่อผิดเรื่องผิว ที่ผมเจอทุกอาทิตย์" | Avatar |
-| **TC7** | Inner Circle 100 · benefit + LINE | "100 คนแรกของ Clarity ได้อะไรบ้าง" | Real |
-| **TC8** | Month 2 recap + Month 3 sneak | "2 เดือนผ่านไป Clarity เปลี่ยนยังไง" | Real |
+PS (Patient) เกินตา + PE (Education) ขาดเล็กน้อย
+→ Next 8 EV briefs ควร focus PE + Brand pillar (TC ใช้ Brand bucket ใน Notion)
+→ Target: D51-D72 = 5 PE + 3 Brand
+
+---
+
+## Production Notes · Daily Workflow
+
+### Morning (8:00 - 11:00)
+- Editor finalize TODAY's hero EV cut (45-60s vertical)
+- Prepare 3 derivatives from D-1 hero (carousel + 15s cut + LINE snippet)
+- Caption + hashtag draft per platform
+
+### Midday (12:00 - 12:30)
+- 12:00 · LINE OA broadcast (D-1 hero)
+- 12:30 · TikTok 15s cut (D-1 hero)
+
+### Afternoon (18:00)
+- 18:00 · IG carousel (D-1 hero · 3-5 cards)
+
+### Evening (19:30 - 20:30)
+- 19:30 · TikTok (TODAY hero · full) ⭐ peak slot
+- 19:45 · IG Reel
+- 20:00 · FB Reel
+- 20:30 · YouTube Shorts
+
+### Tracking
+- Each clip's analytics → Notion Clips Master (Status = Posted)
+- LINE OA new adds → daily tally
+- Comments quality → respond within 4 hours
+- Weekly review · Sun evening · adjust next week
+
+---
+
+## Hold-back EV (not in sprint)
+
+ตอนนี้ไม่มี · ใช้ครบทั้ง 22 ใน D29-D50
+
+**Re-share strategy หลัง D50:**
+- Pick top 3 by engagement → re-post 30 วันหลัง original (different platform/time)
+- Lowest 3 → analyze why · adjust before re-share or skip
 
 ---
 
