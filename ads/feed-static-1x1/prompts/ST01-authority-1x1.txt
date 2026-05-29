@@ -1,0 +1,66 @@
+Using the reference image's espresso/brown color palette and brand mood as a STYLE GUIDE, create a SQUARE 1:1 digital ad creative for a premium aesthetic clinic in Bangkok. This is for Meta (Facebook/Instagram) feed placement.
+
+PRESERVE from the reference: the 4-layer skin cross-section diagram visual style (Surface → Pigment → Collagen → Fibrous · stacked vertically with hairline dividers), the espresso/brown palette, the typography mood.
+
+ADAPT into a SQUARE 1:1 layout (compressed compared to the vertical reference).
+
+THE MESSAGE = "หลุมสิวต้องรักษาทุกชั้นผิว" — the brand's layered-treatment philosophy.
+
+LAYOUT (square 1:1 · top → bottom):
+
+[Zone 1 · ~7% top] Header
+- Small bronze pill: "Clarity · Laser & Aesthetic" centered horizontally
+
+[Zone 2 · ~55% · HORIZONTAL SPLIT inside this zone]
+- LEFT 55% of this zone: 4-layer skin cross-section diagram stacked vertically
+  · Top: SURFACE LAYER · with subtle ablative texture pattern
+  · Then: PIGMENT LAYER · with scattered pigment dots
+  · Then: COLLAGEN LAYER · with interwoven mesh
+  · Bottom: FIBROUS LAYER · with deep fibrous bands
+  · Each layer separated by bronze hairline
+  · Layer labels in small caps bronze on the leftmost edge
+- RIGHT 45% of this zone: stacked Thai headlines · cream · centered vertically
+  · "หลุมสิว" (huge bold)
+  · "ต้องรักษา" (medium)
+  · "ทุกชั้นผิว" (medium bold · bronze accent for "ทุก")
+
+[Zone 3 · ~10%] Technique line · centered horizontally
+- Small caps bronze letter-spaced (one line): "Subcision · MNRF · Ablative Laser · Picolaser"
+- Below it small caps cream: "ALL LAYERS IN 1 PROGRAM"
+
+[Zone 4 · ~12%] Price block · centered horizontally
+- "5,000.-" cream huge bold · tabular figures
+- Below: "ราคาเดียว · ไม่ผูกคอร์ส" cream small
+
+[Zone 5 · ~9%] Brand promise badge · centered horizontally
+- Rounded bronze frame with cream text inside: "✓ ราคาคงที่ตลอดปี · ไม่มีลดราคา"
+
+[Zone 6 · ~7%] Footer · centered horizontally
+- Small cream: "Clarity Clinic · ราชเทวี · ใกล้ BTS · @clarityclinic"
+
+STYLE:
+- Match reference palette EXACTLY: espresso/brown background (#3D2F24 → #5C4534 gradient), bronze-gold (#B8935B, #D4A574) accents, cream (#F5F0E8) text
+- Match reference's premium aesthetic clinic mood · cinematic warm documentary
+- Thai sans-serif typography matching reference
+- Composition optimized for SQUARE viewing (Meta feed)
+- Generous breathing room
+
+THAI SPELLING (render exactly):
+- "หลุมสิว", "ต้องรักษา", "ทุกชั้นผิว"
+- "ราคาเดียว", "ไม่ผูกคอร์ส"
+- "ราคาคงที่ตลอดปี · ไม่มีลดราคา"
+- "Clarity Clinic · ราชเทวี · ใกล้ BTS"
+
+AVOID (critical):
+- DO NOT include doctor's face / portrait / human figure / silhouette
+- DO NOT include before/after photos
+- DO NOT include scar type close-up photos
+- DO NOT include equipment / device images / machine names
+- DO NOT use price slash or strikethrough
+- DO NOT use vertical 9:16 framing — must be SQUARE 1:1
+- Discount language: "ลด", "ปกติ", "promotion", "save", "เริ่มต้นเพียง"
+- Scarcity: "จำกัด", "เหลือ", "หมดเขต", "ด่วน", "วันนี้เท่านั้น"
+- Forbidden words: "การันตี", "หายขาด", "100%", "อันดับ 1", "ที่สุด", "ครั้งเดียวจบ"
+- Bright colors, neon, pastel, clinical white background
+- Cartoon or 3D rendered style
+- Title formats "ดร.ฐิติคมน์" / "Dr.Thitikom"

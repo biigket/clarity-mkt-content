@@ -1,0 +1,65 @@
+Using the reference image's espresso/brown color palette and brand mood as a STYLE GUIDE ONLY, create a completely NEW SQUARE 1:1 digital ad creative for a premium aesthetic clinic in Bangkok. This is for Meta (Facebook/Instagram) feed placement.
+
+DO NOT include the skin diagram from the reference — design this frame from scratch around the TRANSPARENCY message.
+
+THE MESSAGE = "ราคาบนเว็บ · ไม่ขายคอร์ส" — the clinic's pricing transparency position. This is the brand's anti-marketing identity line (audience prompt to scan QR to see the clinic's web pricing).
+
+LAYOUT (square 1:1 · centered composition · top → bottom):
+
+[Zone 1 · ~8% top] Header
+- Background: warm espresso/brown gradient matching reference (#3D2F24 → #5C4534)
+- Small bronze pill with "Clarity · Laser & Aesthetic" logo text · centered horizontally
+
+[Zone 2 · ~30% · HERO BLOCK · cream · HUGE bold · stacked vertically · generous line height]
+- Line 1: "ราคาบนเว็บ"
+- Line 2: "ไม่ขายคอร์ส"
+- Both lines dominate the frame · readable from 3 meters
+- Center-aligned horizontally
+- Cream/off-white (#F5F0E8) · heavy bold
+
+[Zone 3 · ~13% · centered horizontally]
+- Medium cream: "5,000 ทุกรายการ · จ่ายทีละครั้ง"
+- Below it small caps bronze-gold with letter-spacing: "หลุมสิว · งานผิว"
+
+[Zone 4 · ~10%] Brand promise badge · centered
+- Rounded bronze frame · cream text inside: "✓ ที่อยู่บนเว็บ = ที่จ่ายจริง"
+
+[Zone 5 · ~30%] QR centered horizontally
+- Large WHITE SQUARE placeholder for QR code (LINE OA QR) · approximately 500-600px visual area · centered horizontally
+- Subtle bronze frame around the QR placeholder
+- The QR area must be clean high-contrast white background ready for QR pattern overlay
+- Below QR: medium cream "@clarityclinic" · centered
+- Below LINE handle: small bronze caps "SCAN HERE"
+
+[Zone 6 · ~9% · very bottom]
+- Small cream centered: "Clarity Clinic · ราชเทวี · ใกล้ BTS"
+
+STYLE:
+- Match reference palette EXACTLY: espresso/brown background, bronze-gold (#B8935B, #D4A574) accents, cream (#F5F0E8) text
+- Match reference's premium aesthetic clinic mood · cinematic warm documentary
+- Thai sans-serif typography matching reference (Noto Sans Thai / IBM Plex Thai style)
+- Headlines "ราคาบนเว็บ" + "ไม่ขายคอร์ส" must dominate visually
+- Composition optimized for SQUARE viewing (Meta feed)
+- Generous breathing room · editorial premium feel
+
+THAI SPELLING (render exactly):
+- "ราคาบนเว็บ"
+- "ไม่ขายคอร์ส"
+- "5,000 ทุกรายการ · จ่ายทีละครั้ง"
+- "หลุมสิว · งานผิว"
+- "ที่อยู่บนเว็บ = ที่จ่ายจริง"
+- "Clarity Clinic · ราชเทวี · ใกล้ BTS"
+
+AVOID (critical):
+- DO NOT include the skin diagram from reference
+- DO NOT include doctor's face / portrait / human figure / silhouette
+- DO NOT use price slash or strikethrough
+- DO NOT include equipment / device images / machine names
+- DO NOT use vertical 9:16 framing — must be SQUARE 1:1
+- Discount language: "ลด", "ปกติ", "promotion", "save", "special offer", "เริ่มต้นเพียง"
+- Scarcity: "จำกัด X สิทธิ์", "เหลือ X ที่", "หมดเขต X", "ด่วน", "วันนี้เท่านั้น"
+- Forbidden words: "การันตี", "หายขาด", "100%", "อันดับ 1", "ที่สุด", "ครั้งเดียวจบ"
+- Before/after photos
+- Body parts (face, arm, hand)
+- Bright colors, neon, pastel, clinical white background
+- Cartoon or 3D rendered style

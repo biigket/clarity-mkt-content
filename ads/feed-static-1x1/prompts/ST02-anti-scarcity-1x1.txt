@@ -1,0 +1,69 @@
+Using the reference image's espresso/brown color palette and brand mood as a STYLE GUIDE ONLY, create a completely NEW SQUARE 1:1 digital ad creative for a premium aesthetic clinic in Bangkok. This is for Meta (Facebook/Instagram) feed placement.
+
+DO NOT include the skin diagram from the reference — design this frame from scratch around the ANTI-SCARCITY message.
+
+THE MESSAGE = "ราคาคงที่ตลอดปี · ไม่มีลดราคา" — the brand's anti-scarcity positioning. No flash sales · no surprise pricing · no "limited time" tricks. This is the brand's commercial integrity statement.
+
+LAYOUT (square 1:1 · centered composition · top → bottom):
+
+[Zone 1 · ~8% top] Header
+- Background: warm espresso/brown gradient matching reference (#3D2F24 → #5C4534)
+- Small bronze pill with "Clarity · Laser & Aesthetic" logo text · centered
+
+[Zone 2 · ~10%] Eyebrow text · centered
+- Small caps bronze-gold letter-spaced: "BRAND PROMISE · คำสัญญา"
+
+[Zone 3 · ~35% · HERO · stacked vertically · centered · cream · HUGE bold]
+- Line 1: "ราคาคงที่"
+- Line 2: "ตลอดปี"
+- Both lines dominate the frame · readable from 3 meters
+- Heavy bold · vertical breathing room between lines
+- Cream off-white #F5F0E8
+
+[Zone 4 · ~12%] Sub-message · centered
+- Medium cream: "ไม่มีลดราคา · ไม่มี promotion"
+- Below in small caps bronze letter-spaced: "ไม่ต้องรีบ · ไม่ต้องรอ"
+
+[Zone 5 · ~13%] Service anchor · centered
+- Small caps bronze letter-spaced (one line): "หลุมสิว · งานผิว"
+- Below medium cream: "5,000 ครั้งเดียว · ทุกครั้ง"
+
+[Zone 6 · ~12%] Brand promise badge · centered
+- Rounded bronze frame · cream text inside: "✓ ที่อยู่บนเว็บ = ที่จ่ายจริง"
+- Below the badge medium cream: "@clarityclinic"
+
+[Zone 7 · ~10%] Footer · centered
+- Small cream: "Clarity Clinic · ราชเทวี · ใกล้ BTS"
+
+STYLE:
+- Match reference palette EXACTLY: espresso/brown background, bronze-gold (#B8935B, #D4A574) accents, cream (#F5F0E8) text
+- Match reference's premium aesthetic clinic mood · cinematic warm documentary
+- Thai sans-serif typography matching reference (Noto Sans Thai / IBM Plex Thai style)
+- HERO lines "ราคาคงที่ตลอดปี" must dominate visually
+- Composition optimized for SQUARE viewing (Meta feed)
+- Generous breathing room · editorial premium feel
+
+THAI SPELLING (render exactly):
+- "ราคาคงที่"
+- "ตลอดปี"
+- "ไม่มีลดราคา"
+- "ไม่ต้องรีบ", "ไม่ต้องรอ"
+- "หลุมสิว · งานผิว"
+- "5,000 ครั้งเดียว · ทุกครั้ง"
+- "ที่อยู่บนเว็บ = ที่จ่ายจริง"
+- "Clarity Clinic · ราชเทวี · ใกล้ BTS"
+
+AVOID (critical):
+- DO NOT include the skin diagram from reference
+- DO NOT include doctor's face / portrait / human figure
+- DO NOT include equipment / device images / machine names
+- DO NOT include price slash or strikethrough
+- DO NOT include QR code (this is awareness · brand-promise tile)
+- DO NOT use vertical 9:16 framing — must be SQUARE 1:1
+- Discount language: "ลด", "ปกติ", "promotion", "save", "special offer", "เริ่มต้นเพียง"
+- Scarcity: "จำกัด X สิทธิ์", "เหลือ X ที่", "หมดเขต X", "ด่วน", "วันนี้เท่านั้น", "เฉพาะ X คนแรก"
+- Forbidden words: "การันตี", "หายขาด", "100%", "อันดับ 1", "ที่สุด", "ครั้งเดียวจบ"
+- Before/after photos
+- Body parts (face, arm, hand)
+- Bright colors, neon, pastel, clinical white background
+- Cartoon or 3D rendered style
