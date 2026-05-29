@@ -77,8 +77,8 @@ Social proof จากลูกค้าจริง — Before/After + journey 
 - Build "Approachable Expert" voice
 - Avatar work ได้ดี — เพราะเน้น education ไม่ใช่ proof
 
-### Content Count: 8 clips
-### Format Mix: 40% Real / 60% Avatar
+### Content Count: 12 clips
+### Format Mix: 50% Real / 50% Avatar
 
 ### Clip List
 
@@ -90,8 +90,14 @@ Social proof จากลูกค้าจริง — Before/After + journey 
 | **PE4** | ไม่ทากันแดด = เผาเงินที่ทำหลุมสิว | "ลงทุน 30,000 ทำหลุมสิว — ไม่ทากันแดด = เผา 30,000" | Avatar | A, B, C |
 | **PE5** | ความสม่ำเสมอ vs พลังงานสูง | "ทำพลังงานต่ำบ่อยๆ ดีกว่าแรงๆ ทีเดียว" | Avatar | A, C |
 | **PE6** | ทำไมหลุมสิวไม่หายขาด — ดีขึ้น 60-80% | "พูดตรงๆ — ไม่หาย 100% แต่ดีขึ้น 60-80%" | Real | D, A |
-| **PE7** | Skincare routine หลัง subcision | "หลังทำ subcision — ใช้อะไรห้ามใช้อะไร" | Avatar | A, C |
-| **PE8** | ทำไมต้องเว้น 4-8 อาทิตย์ระหว่าง session | "อยากทำถี่ๆ? ขอให้รอ — biology ต้องการเวลา" | Avatar | A, D |
+| **PE7** | Skincare routine หลัง subcision (3 phases) | "หลังทำ subcision — ใช้อะไรได้ ห้ามอะไร" | Avatar | A, C |
+| **PE8** | เว้น 4-8 อาทิตย์ · baby → mature collagen | "อยากทำ session ถัดไปเร็วๆ? ขอให้รอ — ร่างกายยังทำงานไม่เสร็จ" | Avatar | A, D |
+| **PE9** | หลุมสิว 3 ประเภท · เครื่องคนละตัว (setup) | "หลุมสิวไม่ใช่อันเดียวกัน — มี 3 แบบ" | Avatar | A, C, D |
+| **PE10** | Rolling + volume loss → Subcision + HA + PDLLA | "ยิงเลเซอร์เท่าไหร่ก็ไม่ขึ้น เพราะ volume หายไป" | Real | A, D |
+| **PE11** | Ice pick · จิกลึก → ทำลายฐาน + PN ขึงหลุม | "subcision เข็มเข้าไม่ถึง — หมอใช้ PN ขึงจากใน" | Real | A, D |
+| **PE12** | ผิวยังไม่พร้อม · หยุดก่อน · เตรียมผิว (signature) | "ทำเลเซอร์มาหลายปี ไม่ดีขึ้น — หมอบอก หยุดก่อน" | Real | D, A |
+
+> **PE9-12 cluster (acne scar modality deep-dive):** PE9 = setup (3 scar types) · PE10/PE11 = branch deep-dives (Rolling → HA/PDLLA · Ice pick → PN/TCA) · PE12 = priming philosophy. ⚠️ PE9-12 อ้าง modalities ใหม่ (TCA CROSS · HA · PDLLA · PN · NAFL Er:Glass/Thulium) — ต้อง confirm + เพิ่มใน `BRAND.md § Service Equipment Stack` + ADR ก่อน publish.
 
 ### Sample Hook Library (Pillar 2)
 - "ผมบอกคนไข้ทุกคนว่า ผมทำได้แค่ 30%"
