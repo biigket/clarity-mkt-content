@@ -110,12 +110,19 @@ PRODUCT MIX (treatment focus):
 
 SERVICE EQUIPMENT STACK (verified against actual clinic equipment · use ใน ad copy + script):
 
-หลุมสิว (Acne Scar · HERO) — 5 layers:
+หลุมสิว (Acne Scar · HERO):
 - Subcision (manual · เข็ม · NOT machine) → sub-dermal fibrosis · rolling scar · tethered scar
+- TCA CROSS (manual · กรด · NOT machine · included ตามพิจารณาแพทย์) → ice pick · ทำลายฐานหลุม
 - Microneedle RF (MNRF) → dermal collagen rebuild · box scar
 - Ablative Fractional Laser (CO2 · ER:YAG) → surface ablation · texture
 - Non-Ablative Fractional Laser (Thulium · ER:Glass) → mid-dermal · ผิวบาง · low downtime
 - Picolaser → pigmentation · PIH · scar color
+
+Injectable adjuncts (case-by-case · ราคาแยก · ไม่อยู่ใน 5,000 · ตามพิจารณาแพทย์ · ref ADR-014):
+- HA (Hyaluronic Acid) → volume restore (rolling) · เติม volume ทันที
+- PDLLA (biostimulator) → long-term collagen scaffold 3-6 เดือน (rolling)
+- PN (Polynucleotide) → skin priming + tension (ice pick · prep)
+- เมื่ออ้างถึง: ต้องระบุ "ไม่ใช่ทุกเคส · ตามการประเมินแพทย์" + ห้ามผูกกับ "5,000 ราคาเดียว"
 
 งานผิว (Skin Brightening · Cash Cow) — 7 layers:
 - Picolaser → melasma · ฝ้า · กระ · PIH
@@ -138,10 +145,12 @@ BRAND LINES:
 
 AVOID:
 - Brand-specific machine names (Sylfirm X · Vbeam · Picosure · etc) → use generic technique name
+- Brand-specific injectable names (Juvederm · Restylane · Sculptra · Rejuran · Plinest · etc) → use generic (HA · PDLLA · PN)
 - "Newest/best in the world" → forbidden words
 - Competitor name comparisons
 - Technique ที่ไม่ได้อยู่ใน table นี้ → ห้ามใส่ใน content (verify accuracy mandatory)
-- โฆษณา Subcision ในรูป "เครื่อง" / "machine" → ผิด · เป็น manual procedure
+- โฆษณา Subcision / TCA CROSS ในรูป "เครื่อง" / "machine" → ผิด · เป็น manual procedure
+- ผูก injectable adjunct (HA/PDLLA/PN) เข้ากับ "5,000 ราคาเดียว" → ราคาแยก · case-by-case (ref ADR-014)
 
 ANTI-SCARCITY RULE (brand-critical):
 - DO NOT use urgency-based scarcity in any ad copy

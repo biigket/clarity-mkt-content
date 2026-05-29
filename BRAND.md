@@ -267,10 +267,23 @@ Product variants: หลุมสิว · ยกกระชับ · งาน
 | Purpose | Technique | Equipment |
 |---------|-----------|-----------|
 | Sub-dermal fibrosis | **Subcision** *(manual · เข็ม · ไม่ใช่เครื่อง)* | Rolling scar · พังผืดใต้ผิว · tethered scar |
+| Ice pick scar floor | **TCA CROSS** *(manual · กรด · ไม่ใช่เครื่อง · included ตามพิจารณาแพทย์)* | Ice pick · จิกลึก · ทำลายฐานหลุม |
 | Dermal collagen rebuild | **Microneedle RF (MNRF)** | Box scar · skin tightening |
 | Surface ablation | **Ablative Fractional Laser** | CO2 · ER:YAG → texture · surface scar |
 | Mid-dermal remodel | **Non-Ablative Fractional Laser** | Thulium · ER:Glass → ผิวบาง · downtime ต่ำ |
 | Pigmentation (PIH) | **Picolaser** | post-acne pigment · scar color |
+
+> **TCA CROSS = manual chemical procedure** (เหมือน Subcision) · รวมอยู่ในโปรแกรมหลุมสิว · ใช้ **ตามการประเมินแพทย์** (ไม่ใช่ทุกเคส) · ห้ามโฆษณาเป็น "เครื่อง"
+
+#### Injectable Adjuncts · case-by-case (ราคาแยกจากโปรแกรมหลุมสิว · ไม่ผูกคอร์ส)
+
+> ใช้เฉพาะเคสที่ laser/subcision อย่างเดียวไม่พอ — **ไม่ใช่ทุกคนต้องฉีด · ตามการประเมินแพทย์** · ราคาแยก ดูบนเว็บ · ไม่กระทบ promise "5,000 ราคาเดียว" ของ core program (ดู ADR-014)
+
+| Purpose | Adjunct | When |
+|---------|---------|------|
+| Volume restore (Rolling) | **HA (Hyaluronic Acid)** | ผิวยุบ · volume loss → เติม volume ทันที + กระตุ้น collagen ระยะสั้น |
+| Long-term collagen (Rolling) | **PDLLA** *(biostimulator)* | สร้าง collagen scaffold ระยะยาว 3-6 เดือน |
+| Skin priming + tension (Ice pick · prep) | **PN (Polynucleotide)** | ขึงผิวจากใน · ฟื้น skin barrier ก่อนรักษา |
 
 ### งานผิว · Skin Brightening (Cash Cow)
 
@@ -307,10 +320,12 @@ Product variants: หลุมสิว · ยกกระชับ · งาน
 
 ### ห้าม
 - ใช้ชื่อ brand เครื่อง specific (เช่น "Sylfirm X" / "Vbeam") → ขัดความเป็นกลาง · ลด credibility
+- ใช้ชื่อ brand injectable specific (เช่น "Juvederm" / "Restylane" / "Sculptra" / "Rejuran" / "Plinest") → พูด generic เท่านั้น (HA · PDLLA · PN)
 - บอกว่า "เครื่องที่ดีที่สุด/ใหม่ที่สุดในโลก" → ขัด forbidden words
 - เปรียบเทียบกับคลินิกโดยชื่อ
 - ใส่ technique อื่นที่ไม่ได้ทำจริง · ทุก ad ต้อง verify ตาม table นี้
-- โฆษณา Subcision ในรูป "เครื่อง" หรือ "machine" → ผิดความจริง (Subcision = manual procedure)
+- โฆษณา Subcision หรือ TCA CROSS ในรูป "เครื่อง" หรือ "machine" → ผิดความจริง (manual procedure)
+- โฆษณา injectable adjunct (HA/PDLLA/PN) เป็นส่วนหนึ่งของ "5,000 ราคาเดียว" → ราคาแยก · case-by-case (ดู ADR-014)
 
 ---
 

@@ -31,6 +31,7 @@
 | ADR-011 | Visual pivot: espresso/brown documentary for video · sage green for UI/print | Accepted | 2026-05 |
 | ADR-012 | Dual tagline: "5,000 จบที่ Clarity" (primary) + "ทุกชั้นผิว" (secondary) | Accepted | 2026-05 |
 | ADR-013 | Adopt Clarity AI Prompt System (Phase 1-4) for scale content production | Accepted | 2026-05 |
+| ADR-014 | ขยาย acne scar stack: TCA CROSS (รวมในโปรแกรม) + injectable adjuncts HA/PDLLA/PN (แยก) | Accepted | 2026-05 |
 | ADR-010 | Sub-brand @clarityacnescar = Phase 2 (optional) | Pending | 2026-05 |
 
 ---
@@ -457,3 +458,35 @@ Option 2 (A+B hybrid):
 - `ads/month-1-hook-bank.md` = first deliverable จาก Phase 3 (50 hooks · 5 ad clips)
 - Quality gate: ทุก AI-generated content ต้องผ่าน 6-point check (forbidden words · dual tagline · voice · length · CTA · human review)
 - Future: ขยาย prompts (Scene Plan · Quality Check · Batch Content)
+
+---
+
+## ADR-014 — ขยาย acne scar stack: TCA CROSS + injectable adjuncts (HA/PDLLA/PN)
+
+**Status:** Accepted · 2026-05 · Related: ADR-002 (hero = หลุมสิว) · ADR-003 (ราคาบนเว็บ · ไม่ผูกคอร์ส)
+
+**Context**
+Content pillar 2 (Education) deep-dive clips PE9-PE12 ต้องการอธิบายการรักษาหลุมสิวตามชนิด (ice pick · boxcar · rolling) ตามที่หมอ Big ทำจริงในห้องตรวจ — ซึ่งรวมเทคนิคที่ยังไม่อยู่ใน `BRAND.md § Service Equipment Stack`:
+- **TCA CROSS** — manual chemical สำหรับ ice pick (ทำลายฐานหลุม)
+- **HA · PDLLA · PN** — injectable ที่ใช้เสริมเมื่อ laser/subcision อย่างเดียวไม่พอ (rolling volume loss · ice pick · skin priming)
+
+ต้อง verify stack ให้ตรงก่อน publish (ทุก ad/clip ต้องตรง table — ADR rule)
+
+**Decision**
+1. **TCA CROSS = รวมในโปรแกรมหลุมสิว** (manual procedure เหมือน Subcision) · ใช้ **ตามการประเมินแพทย์** (ไม่ใช่ทุกเคส) · ไม่คิดเงินเพิ่มแยก — ไม่กระทบ promise "5,000 ราคาเดียว"
+2. **HA / PDLLA / PN = injectable adjuncts แยก** · ราคาแยกจาก core program · case-by-case ตามการประเมินแพทย์ · ไม่ผูกคอร์ส
+3. NAFL (Er:Glass/Thulium) มีอยู่ใน stack แล้ว (Non-Ablative Fractional Laser) — PE9 แค่ระบุชื่อชัดขึ้น · ไม่ใช่ของใหม่
+4. ราคา adjunct บนเว็บ = **TBD** · ต้องกำหนดก่อน publish PE10-PE12 (ดู Consequence)
+
+**เหตุผล**
+- สะท้อนสิ่งที่ทำจริง → content มี authority + verifiable (ตรง brand DNA)
+- แยก injectable ออกจาก 5,000 → ปกป้อง hero promise + ไม่สร้างภาพ upsell/scarcity (ตรง ADR-003 · Anti-Scarcity Rule)
+- TCA CROSS free ตามพิจารณาแพทย์ → reinforce "30% ของหมอ" · ไม่ใช่ขายของเพิ่ม
+- generic terms เท่านั้น (HA/PDLLA/PN) → ห้าม brand (Juvederm/Sculptra/Rejuran) · ตรงหลักความเป็นกลาง
+
+**Consequence**
+- `BRAND.md § Service Equipment Stack` updated: +TCA CROSS row (hero table) · +Injectable Adjuncts sub-section · +ห้าม brand injectable names
+- `ai-prompts/01-master-system.md` ต้อง sync stack ให้ตรง
+- **Blocking ก่อน publish PE10-PE12:** กำหนดราคา HA/cc · PDLLA/vial · PN/session บนเว็บ + ใส่ disclaimer "ราคาแยก · ตามการประเมินแพทย์"
+- ทุก clip/ad ที่อ้าง injectable ต้องระบุ "ไม่ใช่ทุกเคส · ตามการประเมินแพทย์" เพื่อกัน over-promise
+- Core marketing line ไม่เปลี่ยน: `Subcision · MNRF · Ablative Fractional Laser · Picolaser · All layers in 1 program` (injectables ไม่อยู่ใน hero marketing line)
