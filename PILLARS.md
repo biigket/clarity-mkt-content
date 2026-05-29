@@ -4,14 +4,16 @@
 
 ## Overview
 
-4 pillars · 31 clips · serving 4 personas
+4 pillars · 58 unique clips (Jun-Aug 2026 cycle) · 4 product lines (หลุมสิว · งานผิว · ยกกระชับ · Cross/Brand)
 
-| # | Pillar | % | Format Mix (Real/Avatar) | Target Persona |
+| # | Pillar | % of catalog | Format Mix (Real/Avatar) | Target Persona |
 |---|---|---|---|---|
-| 1 | Patient Story & Result | 40% | 100/0 | A, B, C, D |
-| 2 | Education & Philosophy | 25% | 40/60 | A, B, C |
-| 3 | Anti-marketing & Transparency | 20% | 30/70 | A, B, D |
-| 4 | Treatment & Clinic Experience | 15% | 100/0 | A, C |
+| 1 | Patient Story & Result | 14% | 100/0 | A, B, C, D |
+| 2 | Education & Philosophy | 52% | 50/50 | A, B, C, D |
+| 3 | Anti-marketing & Transparency | 24% | 40/60 | A, B, D |
+| 4 | Treatment Experience & Brand | 22% | 80/20 | A, C |
+
+See **`CALENDAR.md`** for the 13-week posting schedule synced into Notion.
 
 **Avatar/Real Overall:** 30% Avatar / 70% Real
 (B2C ต้องเห็นหมอจริงมาก — patient stories ทุก clip ต้องเป็น real)
