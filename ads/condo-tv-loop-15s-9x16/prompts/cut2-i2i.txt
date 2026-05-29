@@ -1,0 +1,37 @@
+Using the reference image's espresso/brown color palette and brand mood as a STYLE GUIDE ONLY, create a completely NEW VERTICAL 9:16 digital signage poster.
+
+DO NOT include the skin diagram from the reference — design this frame from scratch.
+
+LAYOUT (vertical centered composition, NO diagram, top → bottom):
+- Background: warm espresso/brown gradient matching reference (#3D2F24 to #5C4534)
+- Top area: small bronze pill with "Clarity · Laser & Aesthetic" logo text
+- Below logo (small): bronze-gold spaced caps text "PROGRAM · รักษาหลุมสิว"
+- CENTER (dominant element · ~30-35% of vertical frame): huge bold cream white "5,000.-" in tabular figures
+  · Color: cream/off-white #F5F0E8
+  · Weight: heavy bold
+  · Center-aligned horizontally · vertically dominant
+- Below price (medium): cream text "ราคาเดียว · ไม่ผูกคอร์ส"
+- Bottom area: rounded bronze frame badge with cream text inside "✓ ราคาเดียวตลอดปี · ไม่มีลดราคา"
+
+STYLE:
+- Match reference palette EXACTLY: espresso/brown background, bronze-gold (#B8935B, #D4A574) accents, cream (#F5F0E8) text
+- Match reference's premium aesthetic clinic mood
+- Cinematic warm documentary feeling like reference
+- Thai sans-serif typography matching reference
+- Generous breathing room around the price (do NOT crowd · vertical canvas gives space)
+- Price "5,000.-" must dominate the frame, readable from 5 meters
+- Vertical hierarchy reads top-to-bottom: brand → program → price → modifier → promise badge
+- Composition optimized for portrait/vertical viewing
+
+AVOID (critical):
+- DO NOT include the skin diagram from reference
+- Strikethrough or crossed-out prices
+- Discount language: "ลด", "ปกติ", "promotion", "save", "special offer"
+- Scarcity: "จำกัด X สิทธิ์", "เหลือ X ที่", "หมดเขต X"
+- Equipment or device images
+- Bright colors, neon, pastel
+- Forbidden words: "การันตี", "หายขาด", "100%", "อันดับ 1", "ที่สุด", "ครั้งเดียวจบ"
+- Before/after photos
+- Body parts
+- Cartoon or 3D rendered style
+- Horizontal/landscape framing

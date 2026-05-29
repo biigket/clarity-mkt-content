@@ -1,0 +1,34 @@
+Reformat the reference skin cross-section diagram into a VERTICAL 9:16 digital signage poster for a premium aesthetic clinic in Bangkok.
+
+LAYOUT (vertical stack, top → bottom):
+- Background: extend the reference's espresso/brown gradient (#3D2F24 to #5C4534) to fill the full vertical frame
+- Very top: small bronze pill containing "Clarity · Laser & Aesthetic" logo text
+- TOP 55% of frame: keep the 4-layer skin diagram from the reference image, centered horizontally
+  · Remove any large text labels that were on the diagram (keep it clean)
+  · Diagram should be the visual hero of the top section
+  · Maintain the cross-section vertical layering of the reference
+- BOTTOM 40% of frame: bold Thai text centered horizontally, stacked vertically with generous line height:
+  · Line 1 (huge bold, cream white #F5F0E8): "หลุมสิว"
+  · Line 2 (medium, bronze-gold #B8935B): "มี 4 ชั้น"
+  · Line 3 (smaller, cream): "ต้องใช้ 4 เทคนิค"
+
+STYLE:
+- Match the reference image's espresso/brown palette EXACTLY (#3D2F24 to #5C4534)
+- Match the reference's bronze-gold (#B8935B, #D4A574) accent style
+- Cream off-white (#F5F0E8) for primary text
+- Thai sans-serif typography (Noto Sans Thai / IBM Plex Thai style)
+- Premium aesthetic clinic mood matching reference exactly
+- Text minimum size readable from 2-3 meter viewing distance
+- Generous breathing room between diagram and text block
+- Composition optimized for portrait/vertical viewing (lift door panel, vertical lobby TV)
+
+AVOID (critical):
+- Adding equipment images, device silhouettes, or brand machine names
+- Scarcity language: "จำกัด", "เหลือ", "หมดเขต"
+- Discount language: "ลด", "ปกติ", "promotion"
+- Forbidden words: "การันตี", "หายขาด", "100%", "อันดับ 1", "ที่สุด", "ครั้งเดียวจบ"
+- Before/after photos
+- Body parts visible (no face, arm, hand)
+- Bright colors, neon, pastel, clinical white
+- Cartoon or 3D rendered style
+- Horizontal/landscape framing of the diagram (must stay vertical-cross-section)

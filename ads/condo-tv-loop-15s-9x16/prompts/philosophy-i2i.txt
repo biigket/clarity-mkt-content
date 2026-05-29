@@ -1,0 +1,76 @@
+Using the reference image's espresso/brown color palette and brand mood as a STYLE GUIDE ONLY, create a completely NEW vertical 9:16 digital signage poster for a premium aesthetic clinic in Bangkok.
+
+DO NOT include the skin diagram from the reference — design this frame from scratch around the DOCTOR-PHILOSOPHY message.
+
+THE MESSAGE = The founder's signature philosophy: "หมอ 30% — คนไข้ 70%" — the partnership philosophy he tells every patient on day one. This is a TEXT-ONLY poster (no doctor face / no portrait / no diagram).
+
+LAYOUT (vertical stack, top → bottom · CENTERED horizontally throughout):
+
+[Zone 1 · ~6% top]
+- Background: warm espresso/brown gradient matching reference (#3D2F24 to #5C4534)
+- Small bronze pill with "Clarity · Laser & Aesthetic" logo text · centered horizontally
+
+[Zone 2 · ~12% · founder bio block · 2 stacked lines · centered horizontally]
+- Line 1 (small caps · bronze-gold · letter-spaced): "หมอบิ๊ก · Aesthetic Doctor · ว.61395"
+- Line 2 (medium · cream off-white): "ผู้ก่อตั้ง · วางแผนรักษาเอง · ทุกเคส"
+- Both lines spelled exactly as written · do not paraphrase
+
+[Generous breathing room · ~10%]
+
+[Zone 3 · ~38% · HERO QUOTE · cream · HUGE bold · stacked vertically · DOMINATE the frame]
+- Line 1: "หมอ 30%"
+- Line 2: "คนไข้ 70%"
+- Both lines wrapped together as one pulled quote
+- Use real curly quotation marks at start of Line 1 and end of Line 2
+- Cream/off-white #F5F0E8 · heavy bold weight · tabular figures for numerals
+- Center-aligned horizontally
+- Vertical breathing room between lines
+- This quote must be the visual hero · readable from 3-5 meters
+
+[Zone 4 · ~10% · attribution · centered horizontally]
+- Bronze-gold #B8935B · medium weight
+- Text: "— ปรัชญาที่บอกคนไข้ตั้งแต่วันแรก"
+- Em-dash at start · centered
+
+[Generous breathing room · ~15%]
+
+[Zone 5 · ~8% · very bottom · footer]
+- Small cream text · centered horizontally
+- "Clarity Clinic · ราชเทวี · ใกล้ BTS"
+
+STYLE:
+- Match reference palette EXACTLY: espresso/brown background (#3D2F24 → #5C4534 gradient), bronze-gold (#B8935B, #D4A574) accents, cream (#F5F0E8) text
+- Match reference's premium aesthetic clinic mood · cinematic warm documentary
+- Thai sans-serif typography (Noto Sans Thai / IBM Plex Thai / Prompt style)
+- The catchphrase "หมอ 30% — คนไข้ 70%" is the visual anchor · everything else supports it
+- Quote-card editorial composition · NOT brochure layout
+- Generous breathing room throughout · no crowding
+- Composition optimized for portrait/vertical viewing (condo TV vertical screen)
+
+THAI SPELLING (critical · render EXACTLY):
+- "หมอบิ๊ก" (NOT "หมอบิ๊ค" or "หมอบิก")
+- "Aesthetic Doctor" (English · capitalized as written)
+- "ว.61395" (with dot · numerals as shown)
+- "ผู้ก่อตั้ง" (NOT "เจ้าของ")
+- "วางแผนรักษาเอง" (NOT "วางแผนการรักษา")
+- "ทุกเคส" (NOT "ทุกราย")
+- "หมอ 30%" / "คนไข้ 70%" (with % sign · space before number is OK)
+- "ปรัชญาที่บอกคนไข้ตั้งแต่วันแรก"
+- "ราชเทวี · ใกล้ BTS"
+
+AVOID (critical):
+- DO NOT include the skin diagram from reference
+- DO NOT include doctor's face / portrait / human figure / silhouette / avatar / illustration of a person
+- DO NOT include QR code · price · CTA button (this slot is brand-impression only)
+- DO NOT use price slash or strikethrough
+- DO NOT use brand-specific machine names
+- Discount language: "ลด", "ปกติ", "promotion", "save", "special offer", "เริ่มต้นเพียง"
+- Scarcity: "จำกัด X สิทธิ์", "เหลือ X ที่", "หมดเขต X", "ด่วน", "วันนี้เท่านั้น"
+- Equipment or device images of any kind
+- Bright colors, neon, pastel, clinical white background
+- Forbidden words: "การันตี", "หายขาด", "100%", "อันดับ 1", "ที่สุด", "ครั้งเดียวจบ"
+- Before/after photos
+- Body parts (face, arm, hand)
+- Cartoon or 3D rendered style
+- Horizontal/landscape framing (must be vertical 9:16)
+- Title formats "ดร.ฐิติคมน์" / "Dr.Thitikom" / "Dermatologist" (not board-cert)
