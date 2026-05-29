@@ -26,6 +26,12 @@
 - `make help` — workflow shortcuts (generate · animate · upload)
 - `.env.example` — API keys template (Phaya · ElevenLabs · Imgur)
 
+## AI Agents for Team
+
+- [Subagents Guide](./.claude/agents/README.md) — Tier 1 · in-repo agents (Claude Code)
+  - `brand-auditor` · `script-generator` · `caption-writer` · `line-responder` · `image-prompt-builder`
+- [Claude.ai Project Setup](./docs/claude-project-setup.md) — Tier 2 · web-based agent for non-tech team
+
 ---
 
 ## Project Status
