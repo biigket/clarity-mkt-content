@@ -118,8 +118,8 @@ Social proof จากลูกค้าจริง — Before/After + journey 
 - 92% คนไทยเชื่อ "ไม่ขายเอง" มากกว่าโฆษณา
 - เป็น differentiator ที่ verify ได้
 
-### Content Count: 6 clips
-### Format Mix: 30% Real / 70% Avatar
+### Content Count: 8 clips
+### Format Mix: 50% Real / 50% Avatar
 
 ### Clip List
 
