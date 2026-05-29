@@ -1,7 +1,7 @@
 # AM6 — ทำไม Clarity ไม่ลง flash sale 80% (Signature anti-scarcity)
 
 **Pillar:** 3 (Anti-marketing & Transparency) · **Format:** Real (หมอ Big on-cam) · **Length:** 80-90s · **Aspect:** 9:16
-**Schedule:** EV Sprint · Anti-marketing batch · ตอบ CMO Jun-2026 brief เรื่อง flash sale
+**Schedule:** EV Sprint · Anti-marketing batch · signature anti-scarcity clip
 **Target:** Persona A (office worker), C (working women 30s), D (skeptical)
 **Style:** Specialist authority · honest math · signature ปักธง · pair กับ ADR-003 + Anti-Scarcity Rule
 
@@ -76,7 +76,7 @@
 - Real shoot · หมอ Big lab coat · ห้องตรวจ background
 - Pair กับ ADR-003 (ราคาบนเว็บ · ไม่ขายคอร์ส) + Anti-Scarcity Rule
 - Candidate: pinned post + ใช้ในห้องตรวจ (TV loop) + LINE OA welcome flow
-- ตอบ direct ต่อ CMO Jun-2026 brief ที่ propose "ลด/early bird"
+- ใช้ปะทะกับ paid ads ใดๆ ที่ propose ลดราคา/early bird — keep brand promise intact
 
 ---
 
