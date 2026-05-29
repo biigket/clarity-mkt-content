@@ -487,6 +487,7 @@ Content pillar 2 (Education) deep-dive clips PE9-PE12 ต้องการอ�
 **Consequence**
 - `BRAND.md § Service Equipment Stack` updated: +TCA CROSS row (hero table) · +Injectable Adjuncts sub-section · +ห้าม brand injectable names
 - `ai-prompts/01-master-system.md` ต้อง sync stack ให้ตรง
-- **Blocking ก่อน publish PE10-PE12:** กำหนดราคา HA/cc · PDLLA/vial · PN/session บนเว็บ + ใส่ disclaimer "ราคาแยก · ตามการประเมินแพทย์"
+- **Education content (PE10-PE12) publish ได้** เพราะ clip เป็น mechanism explanation · ไม่พูดราคา · ไม่มี call-to-buy
+- **ก่อน consultation/booking flow live สำหรับ injectables:** กำหนดราคา HA/cc · PDLLA/vial · PN/session บนเว็บ + ใส่ disclaimer "ราคาแยก · ตามการประเมินแพทย์" (ตามจังหวะของทีม pricing)
 - ทุก clip/ad ที่อ้าง injectable ต้องระบุ "ไม่ใช่ทุกเคส · ตามการประเมินแพทย์" เพื่อกัน over-promise
 - Core marketing line ไม่เปลี่ยน: `Subcision · MNRF · Ablative Fractional Laser · Picolaser · All layers in 1 program` (injectables ไม่อยู่ใน hero marketing line)
