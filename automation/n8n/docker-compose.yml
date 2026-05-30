@@ -1,0 +1,37 @@
+services:
+  n8n:
+    image: n8nio/n8n:latest
+    container_name: clarity-n8n
+    restart: unless-stopped
+    ports:
+      - "5678:5678"
+    environment:
+      # ── Core ──────────────────────────────────────────────
+      - GENERIC_TIMEZONE=Asia/Bangkok
+      - TZ=Asia/Bangkok
+      - N8N_HOST=${N8N_HOST:-localhost}
+      - N8N_PORT=5678
+      - N8N_PROTOCOL=${N8N_PROTOCOL:-http}
+      - WEBHOOK_URL=${WEBHOOK_URL:-http://localhost:5678/}
+      # Allow workflows to read process env via $env.* in expressions/Code nodes
+      - N8N_BLOCK_ENV_ACCESS_IN_NODE=false
+      # Basic auth on the editor UI (set a strong password)
+      - N8N_BASIC_AUTH_ACTIVE=true
+      - N8N_BASIC_AUTH_USER=${N8N_BASIC_AUTH_USER:-admin}
+      - N8N_BASIC_AUTH_PASSWORD=${N8N_BASIC_AUTH_PASSWORD:?set a password in .env}
+
+      # ── Secrets / config consumed by WF3 (Ad Reporting) ───
+      # Notion
+      - NOTION_TOKEN=${NOTION_TOKEN:?set in .env}
+      - NOTION_DB_ID=${NOTION_DB_ID:?set in .env}
+      # Meta (Facebook / Instagram) Marketing API — read scope
+      - META_ACCESS_TOKEN=${META_ACCESS_TOKEN:?set in .env}
+      - META_AD_ACCOUNT_ID=${META_AD_ACCOUNT_ID:?set in .env}
+      # TikTok for Business — Reporting API
+      - TIKTOK_ACCESS_TOKEN=${TIKTOK_ACCESS_TOKEN:?set in .env}
+      - TIKTOK_ADVERTISER_ID=${TIKTOK_ADVERTISER_ID:?set in .env}
+    volumes:
+      - n8n_data:/home/node/.n8n
+
+volumes:
+  n8n_data:
